@@ -44,7 +44,7 @@ Bei Mannschaftsmeisterschaften an 10 Brettern
 **1957 Übernahme des Vereins** von Motor Dresden Ost \
 **Vorsitzender** Herbert Bartsch. Inventarübergabe-Protokoll siehe ([Uebernahmeprotokoll Schachinventar 1958](https://github.com/Schachverein-Dresden-Striesen/Vereins-Wiki/blob/main/Uebernahmeprotokoll%20Schachinventar%20Empor%20Tabak%20Motor%20Ost.jpg?raw=true)). Spieler wie Oskar Petzold, Max Eckhart, Helmut Heinrich, Hans Schlossar, Zillig, Manfred Fischer spielten für Motor Ost 1.+2. Mannschaft im Bezirk.
 
-Motor Ost wurde **1967 in BSG Pentacon Dresden** umbenannt. Mit der Wende und dem Konkurs des Trägerbetriebs Kamerawerk Pentacon kam das aus für die Sportvereine von Pentacon und **SV Dresden-Striesen 1990 e.V.** wurde gegründet mit Übernahme fast aller Mitglieder.
+Motor Ost wurde **1967 in BSG Pentacon Dresden** umbenannt. Mit der Wende und dem Konkurs des Trägerbetriebs Kamerawerk Pentacon kam das Aus für die Sportvereine von Pentacon, und der **SV Dresden-Striesen 1990 e.V.** wurde gegründet, wobei fast alle Mitglieder übernommen wurden.
 
 **2006** fand im Sportcasino Hepkestraße ein **Schachvergleich** beim Memory-Turnier "Jugend1956" (DDR-Meister) gegen Jugend 2006 an 12 Brettern statt.
 
