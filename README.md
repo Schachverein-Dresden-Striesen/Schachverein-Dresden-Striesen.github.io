@@ -105,12 +105,13 @@ Die Website ist dann unter `http://localhost:4000` erreichbar.
 ### Inhalte bearbeiten
 
 - Bearbeiten Sie Markdown-Dateien (`.md`) in VSCode oder Ihrem bevorzugten Editor
+- Oder direkt in GitHub über die Weboberfläche
 - Änderungen werden automatisch beim Speichern übernommen (Live-Reload)
 - Neue Seiten können im `pages/` Verzeichnis erstellt werden
 
 ### Deployment
 
-Änderungen werden automatisch über GitHub Actions veröffentlicht, wenn sie in den `main`-Branch gepusht werden.
+Änderungen werden automatisch über GitHub Actions veröffentlicht, wenn sie in den `website`-Branch gepusht werden.
 
 ## Contributing
 
