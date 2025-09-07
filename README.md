@@ -14,13 +14,20 @@ Diese Website wird mit GitHub Pages und Jekyll erstellt und automatisch bereitge
 
 ### Voraussetzungen
 
+**Für beide Optionen:**
 - [Git](https://git-scm.com/)
-- [VSCode](https://code.visualstudio.com/) (empfohlen)
-- [Docker](https://www.docker.com/) (für Devcontainer)
 
-### Option 1: VSCode mit Devcontainer (empfohlen)
+**Option 1 (empfohlen):**
+- [VSCode](https://code.visualstudio.com/)
+- [Docker](https://www.docker.com/)
 
-Diese Methode funktioniert plattformübergreifend auf Windows, macOS und Linux:
+**Option 2:**
+- Ruby (Version 2.7 oder höher)
+  - Windows: [RubyInstaller](https://rubyinstaller.org/)
+  - macOS: `brew install ruby` (mit [Homebrew](https://brew.sh/))
+  - Linux: Paketmanager Ihrer Distribution verwenden
+
+### Setup
 
 1. **Repository klonen**:
    ```bash
@@ -28,75 +35,28 @@ Diese Methode funktioniert plattformübergreifend auf Windows, macOS und Linux:
    cd Vereins-Wiki
    ```
 
-2. **In VSCode öffnen**:
+2. **Entwicklungsumgebung wählen:**
+
+   **Option A: VSCode mit Devcontainer (empfohlen)**
    ```bash
    code .
    ```
-
-3. **Devcontainer starten**:
    - VSCode wird automatisch vorschlagen, den Container zu öffnen
-   - Oder: Drücken Sie `F1`, tippen Sie "Dev Containers: Reopen in Container"
-   - Der Container wird automatisch mit allen benötigten Abhängigkeiten erstellt
+   - Oder: `F1` → "Dev Containers: Reopen in Container"
+   - Abhängigkeiten werden automatisch installiert
 
-4. **Abhängigkeiten installieren** (im Container-Terminal):
-   ```bash
-   bundle install
-   ```
-
-5. **Entwicklungskonfiguration erstellen** (optional, für bessere lokale Entwicklung):
-   ```bash
-   echo "github: false" > _config_dev.yml
-   echo "repository: \"\"" >> _config_dev.yml
-   ```
-
-6. **Website lokal starten**:
-   ```bash
-   # Mit Entwicklungskonfiguration (empfohlen):
-   bundle exec jekyll serve --host 0.0.0.0 --config _config.yml,_config_dev.yml
-   
-   # Oder ohne Entwicklungskonfiguration:
-   bundle exec jekyll serve --host 0.0.0.0
-   ```
-
-Die Website ist dann unter `http://localhost:4000` erreichbar.
-
-### Option 2: Lokale Installation
-
-Falls Sie keinen Docker verwenden möchten:
-
-1. **Ruby installieren** (Version 2.7 oder höher)
-   - Windows: [RubyInstaller](https://rubyinstaller.org/)
-   - macOS: `brew install ruby` (mit [Homebrew](https://brew.sh/))
-   - Linux: Paketmanager Ihrer Distribution verwenden
-
-2. **Repository klonen**:
-   ```bash
-   git clone https://github.com/Schachverein-Dresden-Striesen/Vereins-Wiki.git
-   cd Vereins-Wiki
-   ```
-
-3. **Bundler installieren**:
+   **Option B: Lokale Installation**
    ```bash
    gem install bundler
-   ```
-
-4. **Abhängigkeiten installieren**:
-   ```bash
    bundle install
    ```
 
-5. **Entwicklungskonfiguration erstellen** (optional):
+3. **Website starten**:
    ```bash
-   echo "github: false" > _config_dev.yml
-   echo "repository: \"\"" >> _config_dev.yml
-   ```
-
-6. **Website lokal starten**:
-   ```bash
-   # Mit Entwicklungskonfiguration (empfohlen):
-   bundle exec jekyll serve --config _config.yml,_config_dev.yml
+   # Für lokale Entwicklung (empfohlen):
+   bundle exec jekyll serve --baseurl ""
    
-   # Oder ohne Entwicklungskonfiguration:
+   # Oder mit Standard-Konfiguration:
    bundle exec jekyll serve
    ```
 
@@ -113,10 +73,7 @@ Die Website ist dann unter `http://localhost:4000` erreichbar.
 
 Änderungen werden automatisch über GitHub Actions veröffentlicht, wenn sie in den `website`-Branch gepusht werden.
 
-## Contributing
+## Mitwirkung
 
-Contributions are welcome! Please submit a pull request or open an issue for any suggestions or improvements.
+Beiträge sind willkommen! Bitte erstellen Sie einen Pull Request oder öffnen Sie ein Issue für Vorschläge oder Verbesserungen.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
