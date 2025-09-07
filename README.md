@@ -11,19 +11,20 @@ This project is set up to host a static website using GitHub Pages. It includes 
 
 ## Getting Started
 
-1. **Clone the Repository**: 
+1. **Clone the Repository**:
    Clone this repository to your local machine using:
-   ```
+
+   ```shell
    git clone https://github.com/yourusername/github-pages-project.git
    ```
 
-2. **Modify Content**: 
+2. **Modify Content**:
    Edit the `index.md` file to customize the content of your website.
 
-3. **Configure GitHub Pages**: 
+3. **Configure GitHub Pages**:
    Go to the repository settings on GitHub, navigate to the "Pages" section, and select the branch where your site files are located (usually the main branch).
 
-4. **Deploy**: 
+4. **Deploy**:
    Push your changes to the repository. The GitHub Actions workflow will automatically build and deploy your site.
 
 ## Contributing
