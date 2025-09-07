@@ -7,7 +7,7 @@ Hier finden Sie alle wichtigen Informationen rund um unseren Verein, unsere Akti
 
 Bitte wählen Sie einen Bereich aus:
 
-- [Kurze Vereinsgeschichte](/100-jahre-sv-dresden-striesen)
+- [Kurze Vereinsgeschichte]({% link pages/100JahreSVDresden-Striesen-Peter-Hofmann.md %})
 - [Vereinsturniere](pages/vereinsturniere.md)
 - [Mannschaftskämpfe](pages/mannschaftskaempfe.md)
 - [Jugend](pages/jugend.md)
