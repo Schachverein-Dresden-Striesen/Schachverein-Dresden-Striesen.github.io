@@ -1,6 +1,4 @@
 ---
-layout: page
-# permalink: /100-jahre-sv-dresden-striesen/
 title: "100 Jahre Schachverein Dresden-Striesen"
 tags: [Dresden, Striesen, Jubiläum, Schachverein]
 ---
@@ -71,5 +69,5 @@ Der Krieg Russlands gegen die Ukraine droht die Schachwelt zu spalten. Viele Sch
 
 ## Links
 
-- [Schachverein Dresden-Striesen e.V.](http://sv-dresden-striesen.de/)
+- [Schachverein Dresden-Striesen e.V.](https://sv-dresden-striesen.de/)
 - [Stadtwiki Striesen](https://www.stadtwikidd.de/wiki/Striesen)
