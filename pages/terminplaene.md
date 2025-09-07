@@ -4,7 +4,7 @@ title: "Terminpläne"
 
 # Terminpläne
 
-Alle wichtigen Termine und Veranstaltungen des Vereins auf einen Blick.
+Alle wichtigen Termine und Veranstaltungen der Erwachsenen auf einen Blick: [Terminplan 2025 als PDF herunterladen](../files/Terminplan_2025.pdf)
 
 ## Vereinsabende
 
