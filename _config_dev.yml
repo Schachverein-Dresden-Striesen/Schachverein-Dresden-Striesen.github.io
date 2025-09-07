@@ -1,4 +1,0 @@
-# Development configuration
-# This config disables GitHub metadata to avoid API calls
-plugins:
-  - jekyll-relative-links
