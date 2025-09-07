@@ -1,6 +1,10 @@
 .env
 *.log
 
+# Jekyll specific files
+_site/
+.sass-cache/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
