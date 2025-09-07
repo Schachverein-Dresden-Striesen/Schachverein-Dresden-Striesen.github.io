@@ -1,8 +1,9 @@
 ---
+layout: page
+permalink: /100-jahre-sv-dresden-striesen
 title: "100 Jahre Schachverein Dresden-Striesen"
 author: "Peter Hofmann"
 date: 2022-05-22
-layout: page
 categories: [Verein, Geschichte, Schach]
 tags: [Dresden, Striesen, Jubiläum, Schachverein]
 ---

@@ -1,19 +1,21 @@
-# GitHub Pages Project
+# **BAUSTELLE**  des Schachvereins Dresden-Striesen
 
-Welcome to the GitHub Pages project! This site serves as a platform to showcase various projects and information related to our organization.
+Website des Schachvereins Dresden-Striesen: [www.sv-dresden-striesen.de](https://www.sv-dresden-striesen.de)  
+Hier finden Sie alle wichtigen Informationen rund um unseren Verein, unsere Aktivitäten und Angebote.
 
-## Overview
+## Übersicht
 
-This project is designed to provide structured information about our initiatives and activities. Here, you will find details about our projects, events, and resources.
+Bitte wählen Sie einen Bereich aus:
 
-## Getting Started
+- [Kurze Vereinsgeschichte](/100-jahre-sv-dresden-striesen)
+- [Vereinsturniere](pages/vereinsturniere.md)
+- [Mannschaftskämpfe](pages/mannschaftskaempfe.md)
+- [Jugend](pages/jugend.md)
+- [Schulschach](pages/schulschach.md)
+- [Terminpläne](pages/terminplaene.md)
+- [Ausschreibungen](pages/ausschreibungen.md)
+- [Archiv](pages/archiv.md)
 
-To get started, explore the links provided in the navigation menu. You can find information about our history, ongoing projects, and how to get involved.
+## Kontakt
 
-## Contributing
-
-We welcome contributions from everyone! If you have ideas or suggestions, please feel free to submit a pull request or open an issue.
-
-## Contact
-
-For any inquiries, please reach out to us through our official communication channels. Thank you for visiting our GitHub Pages site!
+Bei Fragen oder Interesse an unserem Verein kontaktieren Sie uns gerne über unsere offiziellen Kanäle. Wir freuen uns auf Ihre Nachricht!
