@@ -9,9 +9,9 @@
 		"git-lfs": "latest"
 	},
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
-	// "forwardPorts": [],
-	// Uncomment the next line to run commands after the container is created.
-	// "postCreateCommand": "jekyll --version"
+	"forwardPorts": [4000],
+	// Install dependencies after container is created
+	"postCreateCommand": "bundle install",
 	// Configure tool-specific properties.
 	// "customizations": {},
 	"remoteUser": "vscode"

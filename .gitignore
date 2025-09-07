@@ -4,6 +4,7 @@
 # Jekyll specific files
 _site/
 .sass-cache/
+_config_dev.yml
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

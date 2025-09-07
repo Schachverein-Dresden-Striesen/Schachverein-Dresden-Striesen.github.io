@@ -1,36 +1,79 @@
-# GitHub Pages Project
+# Vereins-Wiki - Schachverein Dresden-Striesen e.V.
 
-This project is set up to host a static website using GitHub Pages. It includes the necessary files and configurations to deploy the site automatically whenever changes are made.
+Diese Website wird mit GitHub Pages und Jekyll erstellt und automatisch bereitgestellt. Sie enthält alle notwendigen Dateien und Konfigurationen für die automatische Veröffentlichung bei Änderungen.
 
-## Project Structure
+## Projektstruktur
 
-- **index.md**: The main content page for the GitHub Pages site.
-- **README.md**: Documentation for the project.
-- **.github/workflows/pages.yml**: GitHub Actions workflow for automated deployment.
-- **_config.yml**: Configuration file for the GitHub Pages site.
+- **index.md**: Hauptseite der Website
+- **pages/**: Inhaltsseiten des Vereins
+- **files/**: Dateien, Bilder und Dokumente
+- **_config.yml**: Jekyll-Konfiguration für GitHub Pages
+- **.devcontainer/**: Entwicklungsumgebung für VSCode
 
-## Getting Started
+## Lokale Entwicklung
 
-1. **Clone the Repository**:
-   Clone this repository to your local machine using:
+### Voraussetzungen
 
-   ```shell
-   git clone https://github.com/yourusername/github-pages-project.git
+**Für beide Optionen:**
+- [Git](https://git-scm.com/)
+
+**Option 1 (empfohlen):**
+- [VSCode](https://code.visualstudio.com/)
+- [Docker](https://www.docker.com/)
+
+**Option 2:**
+- Ruby (Version 2.7 oder höher)
+  - Windows: [RubyInstaller](https://rubyinstaller.org/)
+  - macOS: `brew install ruby` (mit [Homebrew](https://brew.sh/))
+  - Linux: Paketmanager Ihrer Distribution verwenden
+
+### Setup
+
+1. **Repository klonen**:
+   ```bash
+   git clone https://github.com/Schachverein-Dresden-Striesen/Vereins-Wiki.git
+   cd Vereins-Wiki
    ```
 
-2. **Modify Content**:
-   Edit the `index.md` file to customize the content of your website.
+2. **Entwicklungsumgebung wählen:**
 
-3. **Configure GitHub Pages**:
-   Go to the repository settings on GitHub, navigate to the "Pages" section, and select the branch where your site files are located (usually the main branch).
+   **Option A: VSCode mit Devcontainer (empfohlen)**
+   ```bash
+   code .
+   ```
+   - VSCode wird automatisch vorschlagen, den Container zu öffnen
+   - Oder: `F1` → "Dev Containers: Reopen in Container"
+   - Abhängigkeiten werden automatisch installiert
 
-4. **Deploy**:
-   Push your changes to the repository. The GitHub Actions workflow will automatically build and deploy your site.
+   **Option B: Lokale Installation**
+   ```bash
+   gem install bundler
+   bundle install
+   ```
 
-## Contributing
+3. **Website starten**:
+   ```bash
+   # Für lokale Entwicklung (empfohlen):
+   bundle exec jekyll serve --baseurl ""
+   
+   # Oder mit Standard-Konfiguration:
+   bundle exec jekyll serve
+   ```
 
-Contributions are welcome! Please submit a pull request or open an issue for any suggestions or improvements.
+Die Website ist dann unter `http://localhost:4000` erreichbar.
 
-## License
+### Inhalte bearbeiten
 
-This project is licensed under the MIT License. See the LICENSE file for details.
+- Bearbeiten Sie Markdown-Dateien (`.md`) in VSCode oder Ihrem bevorzugten Editor
+- Oder direkt in GitHub über die Weboberfläche
+- Änderungen werden automatisch beim Speichern übernommen (Live-Reload)
+- Neue Seiten können im `pages/` Verzeichnis erstellt werden
+
+### Deployment
+
+Änderungen werden automatisch über GitHub Actions veröffentlicht, wenn sie in den `website`-Branch gepusht werden.
+
+## Mitwirkung
+
+Beiträge sind willkommen! Bitte erstellen Sie einen Pull Request oder öffnen Sie ein Issue für Vorschläge oder Verbesserungen.
+
