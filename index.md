@@ -1,20 +1,28 @@
-# **BAUSTELLE**  des Schachvereins Dresden-Striesen
+# Startseite des Schachvereins Dresden-Striesen e.V.
 
-Website des Schachvereins Dresden-Striesen: [www.sv-dresden-striesen.de](https://www.sv-dresden-striesen.de)  
-Hier finden Sie alle wichtigen Informationen rund um unseren Verein, unsere Aktivitäten und Angebote.
+Herzlich willkommen auf der offiziellen Website des Schachvereins Dresden-Striesen e.V.!
 
-## Übersicht
+**Hauptwebsite:** [www.sv-dresden-striesen.de](https://www.sv-dresden-striesen.de)
+
+Hier finden Sie alle wichtigen Informationen rund um unseren traditionsreichen Verein, unsere Aktivitäten und Angebote.
+
+## Navigation
 
 Bitte wählen Sie einen Bereich aus:
 
-- [Kurze Vereinsgeschichte]({% link pages/100JahreSVDresden-Striesen-Peter-Hofmann.md %})
-- [Vereinsturniere](pages/vereinsturniere.md)
-- [Mannschaftskämpfe](pages/mannschaftskaempfe.md)
-- [Jugend](pages/jugend.md)
-- [Schulschach](pages/schulschach.md)
-- [Terminpläne](pages/terminplaene.md)
-- [Ausschreibungen](pages/ausschreibungen.md)
-- [Archiv](pages/archiv.md)
+- [Vereinsturniere]({% link pages/vereinsturniere.md %})
+- [Mannschaftskämpfe]({% link pages/mannschaftskaempfe.md %})
+- [Jugend]({% link pages/jugend.md %})
+- [Schulschach]({% link pages/schulschach.md %})
+- [Terminpläne]({% link pages/terminplaene.md %})
+- [Ausschreibungen]({% link pages/ausschreibungen.md %})
+- [Archiv]({% link pages/archiv.md %})
+- [DWZ-Liste]({% link pages/dwz-liste.md %})
+
+## Über uns
+
+Unser Verein blickt auf eine lange und erfolgreiche Geschichte zurück. Erfahren Sie mehr über:
+- [100 Jahre Schachverein Dresden-Striesen]({% link pages/100JahreSVDresden-Striesen-Peter-Hofmann.md %})
 
 ## Kontakt
 
