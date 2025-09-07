@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /100-jahre-sv-dresden-striesen
+permalink: /100-jahre-sv-dresden-striesen/
 title: "100 Jahre Schachverein Dresden-Striesen"
 tags: [Dresden, Striesen, Jubiläum, Schachverein]
 ---
