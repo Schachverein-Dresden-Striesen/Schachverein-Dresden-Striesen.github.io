@@ -1,6 +1,10 @@
-email: info@sv-dresden-striesen.de
+# global settings
+title: "GitHub and Government"
 description: "Noch im Aufbau: eine strukturierte Übersicht über alle Vereinsinformationen."
+baseurl: "" # the subpath of your site
+relative_permalinks: false
 theme: jekyll-theme-architect
+email: info@sv-dresden-striesen.de
 include:
   - files
   - pages
