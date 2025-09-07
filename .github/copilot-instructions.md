@@ -13,7 +13,6 @@ Dies ist das Vereins-Wiki des Schachvereins Dresden-Striesen - ein Markdown- und
 
 ### Entwicklungsworkflow
 - Automatisierter Build mit GitHub Pages Jekyll
-- Alle Änderungen durchlaufen GitHub Actions für Validierung
 - Deutsche Sprache ist Standard für Inhalte, außer technische Dokumentation
 
 ## Wichtige Richtlinien
@@ -43,16 +42,8 @@ Dies ist das Vereins-Wiki des Schachvereins Dresden-Striesen - ein Markdown- und
 - Nutzen Sie Jekyll-Features wie Collections für strukturierte Inhalte
 - Beachten Sie GitHub Pages Limitierungen
 
-## Technische Komponenten
-
-### Python-Skripte
-- `speichere_dwz_daten.py`: Verwaltung von DWZ-Daten (Deutsche Wertungszahl)
-- `speichere_turnier_daten.py`: Turnierdaten-Management
-- Portal64neo4j: Neo4j-basierte Datenanalyse für Vereinshistorie
-
-### Dateiorganisation
+## Dateiorganisation
 - Hauptverzeichnis: Markdown-Inhalte für Website
-- `portal64neo4j/`: Python-Anwendung für Datenanalyse
 - Bilder: Historische Dokumente und Fotos direkt im Repository
 
 ## Beitragsrichtlinien
@@ -68,7 +59,6 @@ Dies ist das Vereins-Wiki des Schachvereins Dresden-Striesen - ein Markdown- und
 - **Neuen Artikel hinzufügen**: Markdown-Datei im Hauptverzeichnis erstellen
 - **Turnierergebnis dokumentieren**: Strukturierte Tabellen verwenden
 - **Historisches Dokument**: Mit Quellenangabe und Kontext hinzufügen
-- **Datenanalyse**: Python-Skripte in portal64neo4j-Verzeichnis nutzen
 
 ## Qualitätssicherung
 
