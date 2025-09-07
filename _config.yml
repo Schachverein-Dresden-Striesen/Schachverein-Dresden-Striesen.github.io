@@ -6,9 +6,14 @@ description: "Offizielle Website des Schachvereins Dresden-Striesen e.V. - Infor
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
 baseurl: "/Vereins-Wiki"
+repository: "Schachverein-Dresden-Striesen/Vereins-Wiki"
+relative_permalinks: false
 theme: jekyll-theme-architect
 email: info@sv-dresden-striesen.de
 include:
   - files
   - pages
   - images
+
+plugins:
+  - jekyll-relative-links
