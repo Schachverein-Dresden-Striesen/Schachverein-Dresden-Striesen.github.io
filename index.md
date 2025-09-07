@@ -8,11 +8,11 @@ Hier finden Sie alle wichtigen Informationen rund um unseren traditionsreichen V
 
 Bitte wählen Sie einen Bereich aus:
 
-- [Vereinsturniere]({% link pages/vereinsturniere.md %})
-- [Mannschaftskämpfe]({% link pages/mannschaftskaempfe.md %})
-- [Jugend]({% link pages/jugend.md %})
-- [Schulschach]({% link pages/schulschach.md %})
-- [Terminpläne]({% link pages/terminplaene.md %})
+- [Vereinsturniere]({% link pages/vereinsturniere %})
+- [Mannschaftskämpfe]({% link pages/mannschaftskaempfe %})
+- [Jugend]({% link pages/jugend %})
+- [Schulschach]({% link pages/schulschach %})
+- [Terminpläne]({% link pages/terminplaene %})
 - [Ausschreibungen]({% link pages/ausschreibungen.md %})
 - [Archiv]({% link pages/archiv.md %})
 - [DWZ-Liste]({% link pages/dwz-liste.md %})
