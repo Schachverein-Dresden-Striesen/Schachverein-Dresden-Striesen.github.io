@@ -1,4 +1,7 @@
 email: info@sv-dresden-striesen.de
 description: "Noch im Aufbau: eine strukturierte Übersicht über alle Vereinsinformationen."
-# theme: default
-baseurl: ""
+theme: jekyll-theme-architect
+include:
+  - files
+  - pages
+  - images
