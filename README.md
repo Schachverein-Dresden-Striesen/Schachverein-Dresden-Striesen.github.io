@@ -1,6 +1,35 @@
-# Vereins-Wiki
-Strukturierte Übersicht über Projekte im Verein und Schach
+# GitHub Pages Project
 
-[Historie Schach in Striesen](https://github.com/Schachverein-Dresden-Striesen/Vereins-Wiki/blob/main/100JahreSVDresden-Striesen-Peter-Hofmann.md)
+This project is set up to host a static website using GitHub Pages. It includes the necessary files and configurations to deploy the site automatically whenever changes are made.
 
-Historie der Jugend von Bezirk bis Sachsenliga in [Ordner portal64neo4j](https://github.com/Schachverein-Dresden-Striesen/Vereins-Wiki/tree/main/portal64neo4j)
+## Project Structure
+
+- **index.md**: The main content page for the GitHub Pages site.
+- **README.md**: Documentation for the project.
+- **.github/workflows/pages.yml**: GitHub Actions workflow for automated deployment.
+- **_config.yml**: Configuration file for the GitHub Pages site.
+
+## Getting Started
+
+1. **Clone the Repository**: 
+   Clone this repository to your local machine using:
+   ```
+   git clone https://github.com/yourusername/github-pages-project.git
+   ```
+
+2. **Modify Content**: 
+   Edit the `index.md` file to customize the content of your website.
+
+3. **Configure GitHub Pages**: 
+   Go to the repository settings on GitHub, navigate to the "Pages" section, and select the branch where your site files are located (usually the main branch).
+
+4. **Deploy**: 
+   Push your changes to the repository. The GitHub Actions workflow will automatically build and deploy your site.
+
+## Contributing
+
+Contributions are welcome! Please submit a pull request or open an issue for any suggestions or improvements.
+
+## License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
