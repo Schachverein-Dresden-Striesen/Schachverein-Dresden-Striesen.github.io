@@ -28,7 +28,7 @@ Alle wichtigen Termine und Veranstaltungen auf einen Blick.
 
 ## Versammlungen
 
-[Issue 13](github.com/Schachverein-Dresden-Striesen/Vereins-Wiki/issues/13)
+[Issue 13](https://github.com/Schachverein-Dresden-Striesen/Vereins-Wiki/issues/13)
 
 ## Besondere Veranstaltungen
 
@@ -36,7 +36,7 @@ Alle wichtigen Termine und Veranstaltungen auf einen Blick.
 
 ## Ferienzeiten
 
-[Issue 12](github.com/Schachverein-Dresden-Striesen/Vereins-Wiki/issues/12)
+[Issue 12](https://github.com/Schachverein-Dresden-Striesen/Vereins-Wiki/issues/12)
 
 ---
 
