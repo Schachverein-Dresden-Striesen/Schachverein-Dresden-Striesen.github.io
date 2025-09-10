@@ -3,11 +3,11 @@ main:
   - title: "Startseite"
     url: /
   - title: "Vereinsturniere"
-    url: "pages/vereinsturniere/"
+    url: /pages/vereinsturniere/
   - title: "Mannschaftskämpfe"
-    url: "pages/mannschaftskaempfe/"
+    url: /pages/mannschaftskaempfe/
   - title: "Jugend"
-    url: "pages/jugend/"
+    url: /pages/jugend/
   - title: "Schulschach"
     url: /pages/schulschach/
   - title: "Termine"
