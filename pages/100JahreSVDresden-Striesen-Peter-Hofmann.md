@@ -1,6 +1,9 @@
 ---
+layout: single
 title: "100 Jahre Schachverein Dresden-Striesen"
 tags: [Dresden, Striesen, Jubiläum, Schachverein]
+sidebar:
+  nav: "main"
 ---
 
 

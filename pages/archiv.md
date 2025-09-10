@@ -1,5 +1,8 @@
 ---
+layout: single
 title: "Archiv"
+sidebar:
+  nav: "main"
 ---
 
 Historische Dokumente und Erinnerungen aus der langen Vereinsgeschichte.

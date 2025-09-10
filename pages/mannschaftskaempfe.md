@@ -1,5 +1,8 @@
 ---
+layout: single
 title: "Mannschaftskämpfe"
+sidebar:
+  nav: "main"
 ---
 
 Informationen zu unseren Mannschaften und deren Kämpfen in den verschiedenen Ligen.

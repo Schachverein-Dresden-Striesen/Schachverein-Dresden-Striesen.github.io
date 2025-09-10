@@ -1,5 +1,8 @@
 ---
+layout: single
 title: "Ausschreibungen"
+sidebar:
+  nav: "main"
 ---
 
 Aktuelle Ausschreibungen für Turniere und Veranstaltungen.

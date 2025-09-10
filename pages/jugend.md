@@ -1,5 +1,8 @@
 ---
+layout: single
 title: "Jugend"
+sidebar:
+  nav: "main"
 ---
 
 Unser Verein legt großen Wert auf die Förderung des Nachwuchses im Schachsport.
