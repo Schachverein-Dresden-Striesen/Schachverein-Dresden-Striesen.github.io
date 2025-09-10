@@ -13,6 +13,15 @@
 	// Install dependencies after container is created
 	"postCreateCommand": "bundle install",
 	// Configure tool-specific properties.
-	// "customizations": {},
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"sissel.shopify-liquid",
+				"davidanson.vscode-markdownlint",
+				"streetsidesoftware.code-spell-checker-german",
+				"streetsidesoftware.code-spell-checker"
+			]
+		}
+	},
 	"remoteUser": "vscode"
 }
