@@ -1,5 +1,8 @@
 ---
+layout: single
 title: "DWZ-Liste"
+sidebar:
+  nav: "main"
 ---
 
 Deutsche Wertungszahlen (DWZ) unserer Vereinsmitglieder.

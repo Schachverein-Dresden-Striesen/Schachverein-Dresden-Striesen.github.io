@@ -1,5 +1,8 @@
 ---
+layout: single
 title: "Vereinsturniere"
+sidebar:
+  nav: "main"
 ---
 
 Hier finden Sie Informationen zu allen Turnieren, die von unserem Verein ausgerichtet werden.
