@@ -4,10 +4,10 @@ tags: [Dresden, Striesen, Jubiläum, Schachverein]
 ---
 
 
-> Von Peter Hofmann, Dresden am 22. Mai 2022, Ehrenmitglied und Geschichtskommision Dresdner Schach
+> Von Peter Hofmann, Dresden am 22. Mai 2022, Ehrenmitglied und Geschichtskommission Dresdner Schach
 
-Heute würdigen wir die Gründung unseres Schachvereins 1922 ([Striesener Schachvereinigung 1922.jpg](https://github.com/Schachverein-Dresden-Striesen/Vereins-Wiki/blob/main/Striesener%20Schachvereinigung%201922.jpg?raw=true)) im Restaurant `Rübezahl Barbarossaplatz`.
-Dort wurde im Juni 1945 nach dem in Dresden schrecklichen Ende des Krieges ein Schachblitzturnier initiiert ([Einladung Eröffnungs-Blitzturnier 1945](https://github.com/Schachverein-Dresden-Striesen/Vereins-Wiki/blob/main/1945%20Er%C3%B6ffnungs-Blitzturnier%20Barbarossaplatz.jpg?raw=true)).
+Heute würdigen wir die Gründung unseres Schachvereins 1922 ([Striesener Schachvereinigung 1922.jpg](https://github.com/Schachverein-Dresden-Striesen/Vereins-Wiki/blob/website/files/Striesener%20Schachvereinigung%201922.jpg?raw=true)) im Restaurant `Rübezahl Barbarossaplatz`.
+Dort wurde im Juni 1945 nach dem in Dresden schrecklichen Ende des Krieges ein Schachblitzturnier initiiert ([Einladung Eröffnungs-Blitzturnier 1945](https://github.com/Schachverein-Dresden-Striesen/Vereins-Wiki/blob/website/files/1945%20Er%C3%B6ffnungs-Blitzturnier%20Barbarossaplatz.jpg?raw=true)).
 
 2003 fand dort im `Augsburger Hof` _(Augsburger Straße 49 - 01309 Dresden)_ die Jahreshauptversammlung (JHV) Dresden-Striesen 1990 e.V. mit neuem Vereinsvorsitzenden Orland Krug statt.
 Heute ist dort das Restaurant&Cafe SPIZZ.
@@ -48,7 +48,7 @@ Bei Mannschaftsmeisterschaften an 10 Brettern
 **Vorsitzender** Walter Großmann mit guten Spielern in der Bezirksliga.
 
 **1957 Übernahme des Vereins** von Motor Dresden Ost \
-**Vorsitzender** Herbert Bartsch. Inventarübergabe-Protokoll siehe ([Uebernahmeprotokoll Schachinventar 1958](https://github.com/Schachverein-Dresden-Striesen/Vereins-Wiki/blob/main/Uebernahmeprotokoll%20Schachinventar%20Empor%20Tabak%20Motor%20Ost.jpg?raw=true)). Spieler wie Oskar Petzold, Max Eckhart, Helmut Heinrich, Hans Schlossar, Zillig, Manfred Fischer spielten für Motor Ost 1.+2. Mannschaft im Bezirk.
+**Vorsitzender** Herbert Bartsch. Inventarübergabe-Protokoll siehe ([Uebernahmeprotokoll Schachinventar 1958](https://github.com/Schachverein-Dresden-Striesen/Vereins-Wiki/blob/website/files//Uebernahmeprotokoll%20Schachinventar%20Empor%20Tabak%20Motor%20Ost.jpg?raw=true)). Spieler wie Oskar Petzold, Max Eckhart, Helmut Heinrich, Hans Schlossar, Zillig, Manfred Fischer spielten für Motor Ost 1.+2. Mannschaft im Bezirk.
 
 Motor Ost wurde **1967 in BSG Pentacon Dresden** umbenannt. Mit der Wende und dem Konkurs des Trägerbetriebs Kamerawerk Pentacon kam das Aus für die Sportvereine von Pentacon, und der **SV Dresden-Striesen 1990 e.V.** wurde gegründet, wobei fast alle Mitglieder übernommen wurden.
 

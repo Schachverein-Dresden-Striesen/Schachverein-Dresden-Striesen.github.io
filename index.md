@@ -21,6 +21,7 @@ Bitte wählen Sie einen Bereich aus:
 ## Über uns
 
 Unser Verein blickt auf eine lange und erfolgreiche Geschichte zurück. Erfahren Sie mehr über:
+
 - [100 Jahre Schachverein Dresden-Striesen]({{ site.baseurl }}{% link pages/100JahreSVDresden-Striesen-Peter-Hofmann.md %})
 
 ## Kontakt

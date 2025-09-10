@@ -1,4 +1,5 @@
-# Vereins-Wiki - Schachverein Dresden-Striesen e.V.
+<!-- markdownlint-disable-next-line MD026 -->
+# Vereins-Wiki - Schachverein Dresden-Striesen e.V.  
 
 Diese Website wird mit GitHub Pages und Jekyll erstellt und automatisch bereitgestellt. Sie enthält alle notwendigen Dateien und Konfigurationen für die automatische Veröffentlichung bei Änderungen.
 
@@ -15,13 +16,16 @@ Diese Website wird mit GitHub Pages und Jekyll erstellt und automatisch bereitge
 ### Voraussetzungen
 
 **Für beide Optionen:**
+
 - [Git](https://git-scm.com/)
 
 **Option 1 (empfohlen):**
+
 - [VSCode](https://code.visualstudio.com/)
 - [Docker](https://www.docker.com/)
 
 **Option 2:**
+
 - Ruby (Version 2.7 oder höher)
   - Windows: [RubyInstaller](https://rubyinstaller.org/)
   - macOS: `brew install ruby` (mit [Homebrew](https://brew.sh/))
@@ -30,6 +34,7 @@ Diese Website wird mit GitHub Pages und Jekyll erstellt und automatisch bereitge
 ### Setup
 
 1. **Repository klonen**:
+
    ```bash
    git clone https://github.com/Schachverein-Dresden-Striesen/Vereins-Wiki.git
    cd Vereins-Wiki
@@ -38,20 +43,24 @@ Diese Website wird mit GitHub Pages und Jekyll erstellt und automatisch bereitge
 2. **Entwicklungsumgebung wählen:**
 
    **Option A: VSCode mit Devcontainer (empfohlen)**
+
    ```bash
    code .
    ```
+
    - VSCode wird automatisch vorschlagen, den Container zu öffnen
    - Oder: `F1` → "Dev Containers: Reopen in Container"
    - Abhängigkeiten werden automatisch installiert
 
    **Option B: Lokale Installation**
+
    ```bash
    gem install bundler
    bundle install
    ```
 
 3. **Website starten**:
+
    ```bash
    # Für lokale Entwicklung (empfohlen):
    bundle exec jekyll serve --baseurl ""
@@ -76,4 +85,3 @@ Die Website ist dann unter `http://localhost:4000` erreichbar.
 ## Mitwirkung
 
 Beiträge sind willkommen! Bitte erstellen Sie einen Pull Request oder öffnen Sie ein Issue für Vorschläge oder Verbesserungen.
-
