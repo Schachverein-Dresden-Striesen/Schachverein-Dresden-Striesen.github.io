@@ -2,8 +2,6 @@
 title: "Jugend"
 ---
 
-# Jugendarbeit
-
 Unser Verein legt großen Wert auf die Förderung des Nachwuchses im Schachsport.
 
 ## Jugendgruppen

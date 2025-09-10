@@ -2,8 +2,6 @@
 title: "Vereinsturniere"
 ---
 
-# Vereinsturniere
-
 Hier finden Sie Informationen zu allen Turnieren, die von unserem Verein ausgerichtet werden.
 
 ## Aktuelle Turniere

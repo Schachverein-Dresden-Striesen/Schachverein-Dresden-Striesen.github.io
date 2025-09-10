@@ -2,8 +2,6 @@
 title: "Schulschach"
 ---
 
-# Schulschach
-
 Unser Engagement für Schach an Schulen und in der Bildungsförderung.
 
 ## Schulkooperationen

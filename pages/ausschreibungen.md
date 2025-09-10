@@ -2,8 +2,6 @@
 title: "Ausschreibungen"
 ---
 
-# Ausschreibungen
-
 Aktuelle Ausschreibungen für Turniere und Veranstaltungen.
 
 ## Offene Turniere

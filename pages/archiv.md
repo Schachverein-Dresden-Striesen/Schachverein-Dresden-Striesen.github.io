@@ -2,8 +2,6 @@
 title: "Archiv"
 ---
 
-# Vereinsarchiv
-
 Historische Dokumente und Erinnerungen aus der langen Vereinsgeschichte.
 
 ## Vereinsgeschichte

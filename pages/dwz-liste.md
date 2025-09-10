@@ -2,8 +2,6 @@
 title: "DWZ-Liste"
 ---
 
-# DWZ-Liste
-
 Deutsche Wertungszahlen (DWZ) unserer Vereinsmitglieder.
 
 ## Was ist die DWZ?

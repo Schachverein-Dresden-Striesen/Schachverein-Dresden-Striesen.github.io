@@ -2,8 +2,6 @@
 title: "Mannschaftskämpfe"
 ---
 
-# Mannschaftskämpfe
-
 Informationen zu unseren Mannschaften und deren Kämpfen in den verschiedenen Ligen.
 
 ## Aktuelle Saison
