@@ -10,6 +10,10 @@ _site/
 .jekyll-metadata
 _config_dev.yml
 
+# Bundle and vendor
+vendor/
+.bundle/
+
 # OS files
 .DS_Store
 Thumbs.db
