@@ -1,5 +1,7 @@
-
-# Startseite des Schachvereins Dresden-Striesen e.V.
+---
+layout: default
+title: "Schachverein Dresden-Striesen e.V."
+---
 
 **Hauptwebsite:** [www.sv-dresden-striesen.de](https://www.sv-dresden-striesen.de)
 
