@@ -29,7 +29,7 @@ Die Deutsche Wertungszahl (DWZ) ist das offizielle Bewertungssystem für Schachs
 
 ## Links zur Deutschen Schachjugend
 
-- [Offizielle DWZ-Datenbank](https://www.schachbund.de/dwz/)
+- [Offizielle DWZ-Datenbank](https://www.schachbund.de/verein/F2810.html){:target="_blank"}
 
 ---
 
