@@ -1,22 +1,22 @@
 # Main navigation links
 main:
   - title: "Startseite"
-    url: /
+    url: /Vereins-Wiki/
   - title: "Vereinsturniere"
-    url: /pages/vereinsturniere/
+    url: /Vereins-Wiki/pages/vereinsturniere/
   - title: "Mannschaftskämpfe"
-    url: /pages/mannschaftskaempfe/
+    url: /Vereins-Wiki/pages/mannschaftskaempfe/
   - title: "Jugend"
-    url: /pages/jugend/
+    url: /Vereins-Wiki/pages/jugend/
   - title: "Schulschach"
-    url: /pages/schulschach/
+    url: /Vereins-Wiki/pages/schulschach/
   - title: "Termine"
-    url: /pages/terminplaene/
+    url: /Vereins-Wiki/pages/terminplaene/
   - title: "Ausschreibungen"
-    url: /pages/ausschreibungen/
+    url: /Vereins-Wiki/pages/ausschreibungen/
   - title: "Archiv"
-    url: /pages/archiv/
+    url: /Vereins-Wiki/pages/archiv/
   - title: "DWZ-Liste"
-    url: /pages/dwz-liste/
+    url: /Vereins-Wiki/pages/dwz-liste/
   - title: "100 Jahre Verein"
-    url: /pages/100JahreSVDresden-Striesen-Peter-Hofmann/
+    url: /Vereins-Wiki/pages/100JahreSVDresden-Striesen-Peter-Hofmann/
