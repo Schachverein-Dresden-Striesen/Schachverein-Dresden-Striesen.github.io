@@ -20,3 +20,7 @@ main:
     url: /pages/dwz-liste/
   - title: "100 Jahre Verein"
     url: /pages/100JahreSVDresden-Striesen-Peter-Hofmann/
+  - title: "Puzzle-Dashboard"
+    url: /pages/puzzle-dashboard-recherche/
+  - title: "Dashboard Prototyp"
+    url: /pages/puzzle-dashboard-prototyp/
