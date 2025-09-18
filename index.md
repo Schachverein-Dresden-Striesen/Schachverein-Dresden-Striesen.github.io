@@ -19,6 +19,7 @@ Hier finden Sie alle wichtigen Informationen rund um unseren traditionsreichen V
 
 Bitte wählen Sie einen Bereich aus:
 
+- [Vorstand]({{ site.baseurl }}{% link pages/vorstand.md %})
 - [Vereinsturniere]({{ site.baseurl }}{% link pages/vereinsturniere.md %})
 - [Mannschaftskämpfe]({{ site.baseurl }}{% link pages/mannschaftskaempfe.md %})
 - [Jugend]({{ site.baseurl }}{% link pages/jugend.md %})
