@@ -7,7 +7,7 @@ sidebar:
 
 # Vorstand und Verantwortlichkeiten
 
-Der Schachverein Dresden-Striesen 1990 e.V. wird von einem engagierten Vorstand geleitet. Hier finden Sie alle aktuellen Vorstandsmitglieder und Verantwortlichen mit ihren Aufgabenbereichen.
+Der Schachverein Dresden-Striesen e.V. wird von einem engagierten Vorstand geleitet. Hier finden Sie alle aktuellen Vorstandsmitglieder und Verantwortlichen mit ihren Aufgabenbereichen.
 
 ## Aktueller Vorstand
 
@@ -315,7 +315,7 @@ Der Schachverein Dresden-Striesen 1990 e.V. wird von einem engagierten Vorstand 
 
 ## Förderhinweis
 
-Die ehrenamtlichen Tätigkeiten des SV Dresden-Striesen 1990 e.V. werden gefördert aus Mitteln des Sächsischen Staatsministeriums für Soziales und Gesellschaftlichen Zusammenhalt.
+Die ehrenamtlichen Tätigkeiten des SV Dresden-Striesen e.V. werden gefördert aus Mitteln des Sächsischen Staatsministeriums für Soziales und Gesellschaftlichen Zusammenhalt.
 
 ---
 
