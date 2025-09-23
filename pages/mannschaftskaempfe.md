@@ -21,10 +21,10 @@ Informationen zu unseren Mannschaften und deren Kämpfen in den verschiedenen Li
 
 **Saison 2025/26:**
 
-- [**1. Mannschaft**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1817680&pageState=vorrunde&championship=Dresden+25%2F26&group=4421) - Gruppe 4421
-- [**2. Mannschaft**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1817675&pageState=vorrunde&championship=Dresden+25%2F26&group=4421) - Gruppe 4421
-- [**3. Mannschaft**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1817688&pageState=vorrunde&championship=Dresden+25%2F26&group=4418) - Gruppe 4418
-- [**4. Mannschaft**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1817704&pageState=vorrunde&championship=Dresden+25%2F26&group=4427) - Gruppe 4427
+- [**1. Mannschaft**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1817680&pageState=vorrunde&championship=Dresden+25%2F26&group=4421) - Bezirksliga
+- [**2. Mannschaft**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1817675&pageState=vorrunde&championship=Dresden+25%2F26&group=4421) - Bezirksliga
+- [**3. Mannschaft**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1817688&pageState=vorrunde&championship=Dresden+25%2F26&group=4418) - 1. Bezirksklasse
+- [**4. Mannschaft**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1817704&pageState=vorrunde&championship=Dresden+25%2F26&group=4427) - 2. Bezirksklasse
 
 ## Spielpläne und Ergebnisse
 
