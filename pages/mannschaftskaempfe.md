@@ -13,7 +13,9 @@ Informationen zu unseren Mannschaften und deren Kämpfen in den verschiedenen Li
 
 ## Unsere Mannschaften
 
-*Übersicht über alle Vereinsmannschaften.*
+Übersicht über alle Vereinsmannschaften auf nuLiga:
+
+[→ Mannschaften des SV Dresden-Striesen auf nuLiga](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/clubTeams?club=10109)
 
 ## Spielpläne und Ergebnisse
 
