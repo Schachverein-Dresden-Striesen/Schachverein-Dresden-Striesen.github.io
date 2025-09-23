@@ -19,11 +19,13 @@ Links zu interessantem Schachmaterial im Internet.
 ## Computer-Partien und -Ranglisten
 
 - [Top Chess Engine Championship (TCEC - Live-Partien)](https://tcec-chess.com/)
-- [CEGT (Chess Engines Grand Tournament)](http://www.husvankempen.de/nunn/)
+- [Computerschach-Meisterschaft](https://www.chess.com/de/terms/computerschach-meisterschaft)
 
 ## Schach Online spielen
 
 - [lichess.org](https://lichess.org/) (werbefreier, kostenloser Schachserver; alle Features sind kostenlos)
+- [chess.com](https://www.chess.com/) (beliebte Online-Schachplattform mit vielen Features)
+- [chess24](https://chess24.com/) (Live-Turniere und Schachtraining)
 
 ## Videos
 
@@ -42,14 +44,10 @@ Links zu interessantem Schachmaterial im Internet.
 - [Charmanter Engländer mit Power](https://youtu.be/JudrxGhl1Uw)
 - [Schachland Deutschland](https://youtu.be/JudrxGhl1Uw)
 
-## Lernmaterialien
+## Motivation
 
 - **Warum Schach spielen?** [10 Gründe](https://sv-dresden-striesen.de/images/Sonstiges/Schach_10_positive_Wirkungen_fuer_Gesellschaft.pdf)
 - **Lernhilfen für ambitionierte Anfänger** [Link](https://schachmatt.net/schach-lernen)
-
-## Schach-Suchmaschine
-
-- [Schach kompakt](http://www.schach-kompakt.de/)
 
 ## Sonstiges
 
