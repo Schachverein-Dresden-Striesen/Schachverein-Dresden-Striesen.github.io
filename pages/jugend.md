@@ -22,11 +22,11 @@ Unsere Jugendmannschaften nehmen an verschiedenen Ligen teil:
 
 *Für Informationen zu den jeweiligen Mannschaftsleitern wenden Sie sich bitte an den Verein.*
 
-### Deutsche Jugendmannschaftsmeisterschaft
+### Deutsche Vereinsmeisterschaften
 
-Informationen zur Teilnahme an den Deutschen Jugendmannschaftsmeisterschaften:
+Informationen zur Teilnahme an den Deutschen Meisterschaften:
 
-[→ SV Dresden-Striesen Teilnahmen DJMM](https://schach.in/sv-dresden-striesen)
+[→ SV Dresden-Striesen Teilnahmen DVM](https://schach.in/sv-dresden-striesen)
 
 ## Jugendgruppen
 
