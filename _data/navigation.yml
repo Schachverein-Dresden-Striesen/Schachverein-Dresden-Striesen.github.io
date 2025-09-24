@@ -2,6 +2,8 @@
 main:
   - title: "Startseite"
     url: /
+  - title: "Vorstand"
+    url: /pages/vorstand/
   - title: "Vereinsturniere"
     url: /pages/vereinsturniere/
   - title: "Mannschaftskämpfe"
