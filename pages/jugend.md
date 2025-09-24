@@ -13,12 +13,12 @@ Unsere Jugendmannschaften nehmen an verschiedenen Ligen teil:
 
 ### Saison 2025/26
 
-- [**Sachsenliga U16**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1817963&pageState=vorrunde&championship=Sachsen+Jugend+25%2F26&group=4441) - Sachsenliga
-- [**Bezirksliga U20**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818186&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=4464) - Bezirksliga
-- [**Bezirksliga U14/1**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818199&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=5021) - Bezirksliga
-- [**Bezirksliga U14/2**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818203&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=5021) - Bezirksliga
-- [**Bezirksliga U12/1**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818075&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=4457) - Bezirksliga
-- [**Bezirksliga U12/2**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818073&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=4457) - Bezirksliga
+- [**Sachsenliga U16**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1817963&pageState=vorrunde&championship=Sachsen+Jugend+25%2F26&group=4441)
+- [**Bezirksliga U20**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818186&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=4464)
+- [**Bezirksliga U14/1**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818199&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=5021)
+- [**Bezirksliga U14/2**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818203&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=5021)
+- [**Bezirksliga U12/1**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818075&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=4457)
+- [**Bezirksliga U12/2**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818073&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=4457)
 
 *Für Informationen zu den jeweiligen Mannschaftsleitern wenden Sie sich bitte an den Verein.*
 
