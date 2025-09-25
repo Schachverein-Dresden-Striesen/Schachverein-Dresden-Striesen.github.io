@@ -28,6 +28,7 @@ Bitte wählen Sie einen Bereich aus:
 - [Ausschreibungen]({{ site.baseurl }}{% link pages/ausschreibungen.md %})
 - [Archiv]({{ site.baseurl }}{% link pages/archiv.md %})
 - [DWZ-Liste]({{ site.baseurl }}{% link pages/dwz-liste.md %})
+- [Links]({{ site.baseurl }}{% link pages/links.md %})
 
 ## Über uns
 
