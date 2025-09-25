@@ -17,7 +17,7 @@ _Regelmäßige Termine für das Vereinsleben._
 
 [Trainingstermine Dienstags im Freiraum](<{{ site.baseurl }}/files/terminplaene/Trainingstermine%20Schach%20Dienstag%20Freiraum%20Ende%202025.pdf>)
 
-[Trainingstermine Mittwochs MANOS Raum 218](<{{ site.baseurl }}/files/terminplaene/Trainingstermine Schach Mittwoch August-Feb26.pdf>)
+[Trainingstermine Mittwochs MANOS Raum 218](<{{ site.baseurl }}/files/terminplaene/Trainingstermine_Schach_Mittwoch_2025-08_to_2026-02.pdf>)
 
 ## Turniertermine
 
