@@ -9,19 +9,19 @@ Alle wichtigen Termine und Veranstaltungen auf einen Blick.
 
 ## Vereinsabende
 
-*Regelmäßige Termine für das Vereinsleben.*
+_Regelmäßige Termine für das Vereinsleben._
 
-[Terminplan Erwachsene als PDF herunterladen (Stand 18.08.2025)]({{ site.baseurl }}/files/terminplaene/Terminplan_2025-2026_Erwachsene_20250818.pdf)
+[Terminplan Erwachsene als PDF herunterladen (Stand 18.08.2025)](<{{ site.baseurl }}/files/terminplaene/Terminplan_2025-2026_Erwachsene_20250818.pdf>)
 
-[Terminplan Jugend als PDF herunterladen (Stand 24.07.2025)]({{ site.baseurl }}/files/terminplaene/Terminplan Jugend Herbst 2025-07-24.pdf)
+[Terminplan Jugend als PDF herunterladen (Stand 24.07.2025)](<{{ site.baseurl }}/files/terminplaene/Terminplan Jugend Herbst 2025-07-24.pdf>)
 
-[Trainingstermine Dienstags im Freiraum]({{ site.baseurl }}/files/terminplaene/Trainingstermine%20Schach%20Dienstag%20Freiraum%20Ende%202025.pdf)
+[Trainingstermine Dienstags im Freiraum](<{{ site.baseurl }}/files/terminplaene/Trainingstermine%20Schach%20Dienstag%20Freiraum%20Ende%202025.pdf>)
 
-[Trainingstermine Mittwochs MANOS Raum 218]({{ site.baseurl }}/files/terminplaene/Trainingstermine Schach Mittwoch August-Feb26.pdf)
+[Trainingstermine Mittwochs MANOS Raum 218](<{{ site.baseurl }}/files/terminplaene/Trainingstermine_Schach_Mittwoch_2025-08_to_2026-02.pdf>)
 
 ## Turniertermine
 
-*Übersicht über anstehende Turniere und Wettkämpfe.*
+_Übersicht über anstehende Turniere und Wettkämpfe._
 
 <https://www.schulschach-sachsen.de/>
 
@@ -35,7 +35,7 @@ Alle wichtigen Termine und Veranstaltungen auf einen Blick.
 
 ## Besondere Veranstaltungen
 
-*Sonderveranstaltungen, Feiern und Vereinsfeste.*
+_Sonderveranstaltungen, Feiern und Vereinsfeste._
 
 ## Ferienzeiten
 

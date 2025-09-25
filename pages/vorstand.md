@@ -5,48 +5,56 @@ sidebar:
   nav: "main"
 ---
 
-# Vorstand und Verantwortlichkeiten
-
 Der Schachverein Dresden-Striesen e.V. wird von einem engagierten Vorstand geleitet. Hier finden Sie alle aktuellen Vorstandsmitglieder und Verantwortlichen mit ihren Aufgabenbereichen.
 
 ## Aktueller Vorstand
 
 ### 1. Vorsitzender
+
 **Orland Krug**  
-📧 orland_krug@web.de
+📧 <orland_krug@web.de>
 
 ### 2. Vorsitzender
+
 **Sebastian Schmidt**
 
 ### Schatzmeister
+
 **Axel Viereck**
 
 ### Jugendspielleiter und Ausbildung
+
 **Martin Röbke**  
 📱 0152 - 03875766  
-📧 martin.roebke@web.de
+📧 <martin.roebke@web.de>
 
 ### 2. Jugendspielleiter und Vorsitzender Jugendvorstand
+
 **Leon Kämmerer**
 
 ### Verantwortlicher Schulschach und Ausbildung
+
 **Markus Weidner**
 
 ### Jugendsprecher und Schiedsrichterobmann
+
 **Alexander Gläser**
 
 ## Weitere Vereinsorgane
 
 ### Schiedsgericht
+
 - Christian Deppe
 - Hans-Peter Großmann
 - Rainer Tepper
 
 ### Kassenprüfer
+
 - Holger Materne
 - Matthias Sander
 
 ### Webmaster
+
 **Bernhard Scheuermann**
 
 ---
@@ -58,6 +66,7 @@ Der Schachverein Dresden-Striesen e.V. wird von einem engagierten Vorstand gelei
 **Hauptaufgabe:** Leitung, Vertretung und Repräsentation des Vereins
 
 **Verantwortungsbereiche:**
+
 - Leitung des Vereins
 - Vertretung des Vereins
 - Richtlinien- und Entscheidungskompetenz
@@ -65,6 +74,7 @@ Der Schachverein Dresden-Striesen e.V. wird von einem engagierten Vorstand gelei
 - Öffentlichkeitsarbeit
 
 **Wichtige Einzelaufgaben:**
+
 - Vereinsorganisation, Absicherung des Vereinslebens
 - Vereinsplanung und -information
 - Vereinskontrolle
@@ -82,10 +92,12 @@ Der Schachverein Dresden-Striesen e.V. wird von einem engagierten Vorstand gelei
 **Hauptaufgabe:** Leitung des Spielbetriebes
 
 **Verantwortungsbereiche:**
+
 - Leitung, Planung und Organisation des Spielbetriebes im Erwachsenen- und Jugendbereich
 - Koordination der vereinsinternen Angelegenheiten
 
 **Wichtige Einzelaufgaben:**
+
 - Terminplanung und -koordinierung
 - Betreuung des Spielbetriebes
 - Mitarbeit an Entwicklungskonzepten
@@ -100,12 +112,14 @@ Der Schachverein Dresden-Striesen e.V. wird von einem engagierten Vorstand gelei
 **Hauptaufgabe:** Verwaltung des Vereins und seiner Finanzen
 
 **Verantwortungsbereiche:**
+
 - Mittelbeschaffung
 - Finanzverwaltung
 - Haushaltplan
 - Mitgliederverwaltung
 
 **Wichtige Einzelaufgaben:**
+
 - Kontenführung
 - Jahresabschluss
 - Spenden und Zuschüsse
@@ -123,6 +137,7 @@ Der Schachverein Dresden-Striesen e.V. wird von einem engagierten Vorstand gelei
 **Hauptaufgabe:** Durchführung des gesamten Spielbetriebes im Erwachsenenbereich nach den Vorgaben des Terminplanes und des Regelwerkes
 
 **Verantwortungsbereiche:**
+
 - Vereinsmeisterschaften und -pokalturniere
 - Breitenschachveranstaltungen des Vereins
 - Vereinsranglistenturniere
@@ -130,6 +145,7 @@ Der Schachverein Dresden-Striesen e.V. wird von einem engagierten Vorstand gelei
 - Vereinsveranstaltungen zum Jahresabschluss
 
 **Wichtige Einzelaufgaben:**
+
 - Turniervorbereitung und -werbung
 - Turnierdurchführung
 - Turnieraufsicht
@@ -145,11 +161,13 @@ Der Schachverein Dresden-Striesen e.V. wird von einem engagierten Vorstand gelei
 **Hauptaufgabe:** Durchführung des gesamten Spielbetriebes im Jugendbereich nach den Vorgaben des Terminplanes und des Regelwerkes
 
 **Verantwortungsbereiche:**
+
 - Vereinsmeisterschaften und -pokalturniere der Jugend
 - Koordination der Teilnahme an Einzel- und Mannschaftsturnieren des Jugendschachbundes Sachsens und des Dresdner Schachbundes
 - Koordination des Übungs- und Trainingsbetriebes
 
 **Wichtige Einzelaufgaben:**
+
 - Turniervorbereitung und -werbung
 - Kontakthaltung mit den Elternhäusern
 - Turnierdurchführung
@@ -168,11 +186,13 @@ Der Schachverein Dresden-Striesen e.V. wird von einem engagierten Vorstand gelei
 **Hauptaufgabe:** Assistenz des Jugendspielleiters bei der Durchführung des Spielbetriebes im Jugendbereich nach den Vorgaben des Terminplanes und des Regelwerkes
 
 **Verantwortungsbereiche (in Absprache mit dem Jugendspielleiter und im Fall seiner Vertretung):**
+
 - Vereinsmeisterschaften und Pokalturniere der Jugend
 - Koordination der Teilnahme an Einzel- und Mannschaftsturnieren des Jugendschachbundes Sachsen
 - Koordination des Übungs- und Trainingsbetriebes
 
 **Wichtige Einzelaufgaben (in Absprache mit Jugendspielleiter):**
+
 - Turniervorbereitung und -werbung
 - Kontakthaltung mit den Elternhäusern
 - Turnierdurchführung
@@ -191,10 +211,12 @@ Der Schachverein Dresden-Striesen e.V. wird von einem engagierten Vorstand gelei
 **Hauptaufgabe:** Durchführung eines qualifizierten Jugendtrainings
 
 **Verantwortungsbereiche:**
+
 - Leitung einer Übungsgruppe im Jugendbereich
 - Organisation des Übungsablaufes
 
 **Wichtige Einzelaufgaben:**
+
 - Eigenverantwortliches Erstellen der Übungsthemen
 - Aufsicht des Ablaufes
 - Trainingsvor- und -nachbereitung sowie dessen Auswertung
@@ -212,6 +234,7 @@ Der Schachverein Dresden-Striesen e.V. wird von einem engagierten Vorstand gelei
 **Hauptaufgabe:** Kontakthaltung zu Bildungseinrichtungen und Kindertagesstätten sowie Durchführung eines Spiel- und Ausbildungsbetriebes in diesen Einrichtungen
 
 **Verantwortungsbereiche:**
+
 - Leitung und Aufsicht örtlicher Gruppen
 - Durchführung von schachlicher Ausbildung in diesen Gruppen
 - Durchführung von Gruppenturnieren in diesen Gruppen
@@ -230,12 +253,14 @@ Der Schachverein Dresden-Striesen e.V. wird von einem engagierten Vorstand gelei
 **Hauptaufgabe:** Verwaltung und Pflege des mobilen Vereinseigentums
 
 **Verantwortungsbereiche:**
+
 - Materialinstandhaltung
 - Materialverwaltung
 - Materialbeschaffung
 - Materialplanung
 
 **Wichtige Einzelaufgaben:**
+
 - Materialsichtung
 - Materialkontrolle
 - Inventarbuchführung
@@ -255,12 +280,14 @@ Der Schachverein Dresden-Striesen e.V. wird von einem engagierten Vorstand gelei
 **Hauptaufgabe:** Durchführung des Spielbetriebes im Senioren- und Nestorenbereich nach den Vorgaben des Terminplanes und des Regelwerkes
 
 **Verantwortungsbereiche:**
+
 - Vereinsturniere aller Art im Seniorenbereich
 - Koordination der Teilnahme an Einzel- und Mannschaftsturnieren des Schachverbandes Sachsen im Seniorenbereich
 - Koordination der Teilnahme an Einzel- und Mannschaftsturnieren weiterer Veranstalter
 - Ansprechpartner für die Senioren
 
 **Wichtige Einzelaufgaben (in Absprache mit Spielleiter):**
+
 - Turniervorbereitung und -werbung
 - Turnierdurchführung
 
@@ -273,11 +300,13 @@ Der Schachverein Dresden-Striesen e.V. wird von einem engagierten Vorstand gelei
 **Hauptaufgabe:** Verwaltung Kassenbuch und Handkasse
 
 **Verantwortungsbereiche:**
+
 - Verwaltung der Finanzen vor Ort bezüglich Kleinbeträge
 - Kontaktperson vor Ort
 - Entgegennahme von Problemen
 
 **Wichtige Einzelaufgaben:**
+
 - Pflege Handkasse und Kassenbuch im Auftrag des Schatzmeisters
 - Schnelles Agieren bei der Auszahlung und Einnahme von Kleinbeträgen
 - Selbständige Pflege der Handkasse bezüglich Sollstand
@@ -291,6 +320,7 @@ Der Schachverein Dresden-Striesen e.V. wird von einem engagierten Vorstand gelei
 ### Vorstandsmitglied für besondere Aufgaben
 
 **Hauptaufgabe:**
+
 - Reservefunktion für alle Fachbereiche für eine kurzfristige Bereitstellung von Hilfe und Unterstützung der Funktionsträger
 - Übernahme von Aufgaben ohne Spezifizierung auf Beschluss des Vorstandes
 - Durchführung fachübergreifender Aufgaben nach Anleitung
@@ -302,6 +332,7 @@ Der Schachverein Dresden-Striesen e.V. wird von einem engagierten Vorstand gelei
 **Hauptaufgabe:** Aufbau und Pflege der Webseite des Vereins gemäß der Vorgaben des Vorstandes und den gesetzlichen Bestimmungen
 
 **Wichtige Einzelaufgaben:**
+
 - Selbständige Kontakthaltung mit dem Anbieter der Webseite (Provider) im Auftrag des Vorstandes
 - Selbständige technische Wartung und Umsetzung der Vorgaben des Vorstandes
 - Selbständige Aktuell- und Laufendhaltung des Inhaltes nach den Vorgaben des Vorstandes

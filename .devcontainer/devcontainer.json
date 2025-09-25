@@ -19,7 +19,10 @@
 				"sissel.shopify-liquid",
 				"davidanson.vscode-markdownlint",
 				"streetsidesoftware.code-spell-checker-german",
-				"streetsidesoftware.code-spell-checker"
+				"streetsidesoftware.code-spell-checker",
+				"tomoki1207.pdf",
+				"jakeboone02.pgn",
+				"GitHub.vscode-pull-request-github"
 			]
 		}
 	},

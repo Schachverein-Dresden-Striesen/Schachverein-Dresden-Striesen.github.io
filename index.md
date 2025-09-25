@@ -19,15 +19,15 @@ Hier finden Sie alle wichtigen Informationen rund um unseren traditionsreichen V
 
 Bitte wählen Sie einen Bereich aus:
 
-- [Vorstand]({{ site.baseurl }}{% link pages/vorstand.md %})
-- [Vereinsturniere]({{ site.baseurl }}{% link pages/vereinsturniere.md %})
-- [Mannschaftskämpfe]({{ site.baseurl }}{% link pages/mannschaftskaempfe.md %})
+- [Archiv]({{ site.baseurl }}{% link pages/archiv.md %})
+- [Ausschreibungen]({{ site.baseurl }}{% link pages/ausschreibungen.md %})
+- [DWZ-Liste]({{ site.baseurl }}{% link pages/dwz-liste.md %})
 - [Jugend]({{ site.baseurl }}{% link pages/jugend.md %})
+- [Mannschaftskämpfe]({{ site.baseurl }}{% link pages/mannschaftskaempfe.md %})
 - [Schulschach]({{ site.baseurl }}{% link pages/schulschach.md %})
 - [Terminpläne]({{ site.baseurl }}{% link pages/terminplaene.md %})
-- [Ausschreibungen]({{ site.baseurl }}{% link pages/ausschreibungen.md %})
-- [Archiv]({{ site.baseurl }}{% link pages/archiv.md %})
-- [DWZ-Liste]({{ site.baseurl }}{% link pages/dwz-liste.md %})
+- [Vereinsturniere]({{ site.baseurl }}{% link pages/vereinsturniere.md %})
+- [Vorstand]({{ site.baseurl }}{% link pages/vorstand.md %})
 
 ## Über uns
 

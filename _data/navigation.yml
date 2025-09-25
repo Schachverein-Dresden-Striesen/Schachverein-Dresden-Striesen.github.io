@@ -2,23 +2,23 @@
 main:
   - title: "Startseite"
     url: /
-  - title: "Vorstand"
-    url: /pages/vorstand/
-  - title: "Vereinsturniere"
-    url: /pages/vereinsturniere/
-  - title: "Mannschaftskämpfe"
-    url: /pages/mannschaftskaempfe/
-  - title: "Jugend"
-    url: /pages/jugend/
-  - title: "Schulschach"
-    url: /pages/schulschach/
   - title: "Termine"
     url: /pages/terminplaene/
   - title: "Ausschreibungen"
     url: /pages/ausschreibungen/
-  - title: "Archiv"
-    url: /pages/archiv/
+  - title: "Vereinsturniere"
+    url: /pages/vereinsturniere/
+  - title: "Vorstand"
+    url: /pages/vorstand/
+  - title: "Jugend"
+    url: /pages/jugend/
+  - title: "Schulschach"
+    url: /pages/schulschach/
+  - title: "Mannschaftskämpfe"
+    url: /pages/mannschaftskaempfe/
   - title: "DWZ-Liste"
     url: /pages/dwz-liste/
   - title: "100 Jahre Verein"
     url: /pages/100JahreSVDresden-Striesen-Peter-Hofmann/
+  - title: "Archiv"
+    url: /pages/archiv/
