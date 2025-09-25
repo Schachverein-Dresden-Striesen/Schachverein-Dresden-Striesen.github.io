@@ -13,8 +13,8 @@ Aktuelle Ausschreibungen für Turniere und Veranstaltungen.
 
 - [Jugendopen Integration 26.09.2025](/files/ausschreibungen/Ausschreibung_Jugendopen_Integration_2025.pdf)
 - [Open Integration 26.09.2025](/files/ausschreibungen/Ausschreibung_Open_Integration_2025.pdf)
-- [Ausschreibung 9.Dr.-Michael-Schmidt-Gedenkturnier am Sonntag, 19.10.2025](/files/ausschreibungen/Ausschreibung%209.Dr-M-Schmidt-Gedenkturnier.pdf)
-- [Ausschreibung 3.Jugend-Stefan-Glasewald-Gedenkturnier am Sonnabend, 18.10.2025](/files/ausschreibungen/Ausschreibung%203.Jugend-S-Glasewald-Gedenkturnier.pdf)
+- [Ausschreibung 9. Dr-Michael-Schmidt-Gedenkturnier am Sonntag, 19.10.2025](/files/ausschreibungen/Ausschreibung_9-Dr-Michael-Schmidt-Gedenkturnier.pdf)
+- [Ausschreibung 3. Jugend-Stefan-Glasewald-Gedenkturnier am Sonnabend, 18.10.2025](/files/ausschreibungen/Ausschreibung_3-Jugend-Stefan-Glasewald-Gedenkturnier.pdf)
 
 ## Vereinsinterne Turniere
 
