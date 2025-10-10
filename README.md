@@ -11,6 +11,11 @@ Diese Website wird mit GitHub Pages und Jekyll erstellt und automatisch bereitge
 - **_config.yml**: Jekyll-Konfiguration für GitHub Pages
 - **.devcontainer/**: Entwicklungsumgebung für VSCode
 
+## Mitwirkung
+
+Beiträge sind willkommen! Bitte erstellen Sie einen Pull Request oder öffnen Sie ein [Issue](https://github.com/Schachverein-Dresden-Striesen/Vereins-Wiki/issues) für Vorschläge oder Verbesserungen.
+Aktueller Meilenstein: [Milestones](https://github.com/Schachverein-Dresden-Striesen/Vereins-Wiki/milestones).
+
 ## Lokale Entwicklung
 
 ### Voraussetzungen
@@ -86,6 +91,3 @@ Die Website ist dann unter `http://localhost:4000` erreichbar.
 
 Das Repository enthält eine Copilot-Setup-Workflow (`.github/workflows/copilot-setup-steps.yml`), der die Jekyll-Entwicklungsumgebung für GitHub Copilot-Agenten vorbereitet. Dies ermöglicht es Copilot, Ruby-Dependencies automatisch zu installieren und die Jekyll-Build-Umgebung einzurichten.
 
-## Mitwirkung
-
-Beiträge sind willkommen! Bitte erstellen Sie einen Pull Request oder öffnen Sie ein Issue für Vorschläge oder Verbesserungen.
