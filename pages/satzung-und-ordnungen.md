@@ -11,6 +11,14 @@ Hier finden Sie alle wichtigen Dokumente und Ordnungen des Schachvereins Dresden
 
 [📄 Satzung des SV Dresden-Striesen 2025 (PDF)]({{ site.baseurl }}/files/SV_Striesen_Satzung_2025.pdf)
 
+## Aufnahmeantrag
+
+[📄 Formular Aufnahmeantrag (PDF)]({{ site.baseurl }}/files/Formular_Aufnahmeantrag.pdf)
+
+## Begrüßung im Verein
+
+[📄 Begrüßung im Verein (PDF)]({{ site.baseurl }}/files/Begruessung_im_Verein.pdf)
+
 ## Beitragsordnung
 
 [📄 Beitragsordnung 2014 (PDF)]({{ site.baseurl }}/files/Beitragsordnung_2014.pdf)
@@ -30,14 +38,6 @@ Hier finden Sie alle wichtigen Dokumente und Ordnungen des Schachvereins Dresden
 ## Ehrenordnung
 
 [📄 Ehrenordnung Stand 2016 (PDF)]({{ site.baseurl }}/files/Ehrenordnung_SV_Striesen_Stand_2016.pdf)
-
-## Aufnahmeantrag
-
-[📄 Formular Aufnahmeantrag (PDF)]({{ site.baseurl }}/files/Formular_Aufnahmeantrag.pdf)
-
-## Begrüßung im Verein
-
-[📄 Begrüßung im Verein (PDF)]({{ site.baseurl }}/files/Begruessung_im_Verein.pdf)
 
 ## Protokoll der Jahreshauptversammlung 2025
 
