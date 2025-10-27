@@ -3,6 +3,8 @@
 
 Diese Website wird mit GitHub Pages und Jekyll erstellt und automatisch bereitgestellt. Sie enthält alle notwendigen Dateien und Konfigurationen für die automatische Veröffentlichung bei Änderungen.
 
+**Live-Website:** [https://schachverein-dresden-striesen.github.io/Vereins-Wiki/](https://schachverein-dresden-striesen.github.io/Vereins-Wiki/)
+
 ## Projektstruktur
 
 - **index.md**: Hauptseite der Website
