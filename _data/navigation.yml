@@ -12,6 +12,8 @@ main:
     url: /pages/vorstand/
   - title: "Jugend"
     url: /pages/jugend/
+  - title: "Mädchenschach"
+    url: /pages/bericht-maedchenschachkongress-2025/
   - title: "Schulschach"
     url: /pages/schulschach/
   - title: "Mannschaftskämpfe"
