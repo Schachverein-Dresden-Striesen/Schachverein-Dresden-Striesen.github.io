@@ -287,23 +287,19 @@ Jede Bewerbung muss folgende Informationen enthalten:
 
 ## Empfehlungen für unseren Verein
 
-Basierend auf den Erkenntnissen des Kongresses ergeben sich folgende Handlungsempfehlungen für den Schachverein Dresden-Striesen:
+Insgesamt bot der Mädchenschachkongress der DSJ wertvolle Impulse und praxisnahe Ansätze zur Förderung von Mädchen und
+Frauen im Schachsport. Die vorgestellten Strategien und
+Best-Practice-Beispiele können unserem Verein helfen, die
+Attraktivität und Sichtbarkeit des Mädchen- und Frauenschachs zu steigern und langfristig mehr Spielerinnen zu gewinnen und ihre Stärken in der Gruppe zu fördern.
 
-### Kurzfristig umsetzbar
+Basierend auf den Erkenntnissen des Kongresses ergeben sich folgende Handlungsempfehlungen für den Schachverein Dresden-Striesen:
 
 1. **Sichtbarkeit erhöhen:** Eigenen Bereich für Mädchen- und Frauenschach auf der Vereinswebseite einrichten
 2. **Wünsche sammeln:** Befragung der Mädchen und Frauen im Verein zu ihren Wünschen und Bedürfnissen
-3. **Material:** Prüfung und ggf. Anschaffung von ansprechendem Schachmaterial speziell für Mädchen
-
-### Mittelfristig umsetzbar
-
-5. **Qualitätssiegel:** Bewerbung um das Qualitätssiegel "TOP-Schachverein Mädchen- und Frauenschach" prüfen
-6. **Familienangebote:** Organisation von Familienschach-Turnieren zur Ansprache von Eltern
-
-### Langfristig anstreben
-
-1. **Vorstandsposition:** Einrichtung einer Position als Mädchen-/Frauenschachbeauftragte
-1. **Ausbildung:** Teilnahme an Fortbildungen zum Mädchenschach
+3. **Qualitätssiegel:** Bewerbung um das Qualitätssiegel "TOP-Schachverein Mädchen- und Frauenschach" prüfen
+4. **Familienangebote:** Organisation von Familienschach-Turnieren zur Ansprache von Eltern
+5. **Vorstandsposition:** Einrichtung einer Position als Mädchen-/Frauenschachbeauftragte
+6. **Ausbildung:** Teilnahme an Fortbildungen zum Mädchenschach
 
 ---
 
