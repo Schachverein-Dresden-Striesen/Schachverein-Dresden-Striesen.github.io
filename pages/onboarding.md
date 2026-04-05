@@ -123,7 +123,7 @@ Alle Inhalte des Wikis werden in **Markdown** geschrieben – einem einfachen Te
 
 ```markdown
 [Linktext](https://www.beispiel.de)
-[→ Interne Seite]({{ site.baseurl }}{% link pages/archiv.md %})
+[→ Interne Seite](/pages/archiv/)
 
 ![Bildbeschreibung](/files/mein-bild.jpg)
 ```
@@ -284,12 +284,12 @@ Fügen Sie Ihren neuen Inhalt im Markdown-Format ein. Beispiel für ein Turniere
 - [GitHub Hello World Tutorial](https://docs.github.com/de/get-started/start-your-journey/hello-world) – Einsteiger-Tutorial von GitHub
 - [Markdown Guide](https://www.markdownguide.org/) – Umfassende Markdown-Referenz
 - [Jekyll Dokumentation](https://jekyllrb.com/docs/) – Für technisch Interessierte
-- [Jekyll Liquid-Syntax](https://jekyllrb.com/docs/liquid/) – Erklärung der `{% link %}` und anderer Jekyll-Vorlagenbefehle
+- [Jekyll Liquid-Syntax](https://jekyllrb.com/docs/liquid/) – Erklärung anderer Jekyll-Vorlagenbefehle
 
 ### Im Vereins-Wiki
 
 - [Startseite]({{ site.baseurl }}/) – Übersicht aller Inhalte
-- [Archiv]({{ site.baseurl }}{% link pages/archiv.md %}) – Historische Dokumente
+- [Archiv]({{ site.baseurl }}/pages/archiv/) – Historische Dokumente
 - [README des Repositories](https://github.com/Schachverein-Dresden-Striesen/Vereins-Wiki/blob/website/README.md) – Technische Informationen zur lokalen Entwicklung
 
 ### Bei Problemen
