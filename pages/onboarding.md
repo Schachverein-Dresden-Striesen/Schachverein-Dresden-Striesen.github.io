@@ -284,6 +284,7 @@ Fügen Sie Ihren neuen Inhalt im Markdown-Format ein. Beispiel für ein Turniere
 - [GitHub Hello World Tutorial](https://docs.github.com/de/get-started/start-your-journey/hello-world) – Einsteiger-Tutorial von GitHub
 - [Markdown Guide](https://www.markdownguide.org/) – Umfassende Markdown-Referenz
 - [Jekyll Dokumentation](https://jekyllrb.com/docs/) – Für technisch Interessierte
+- [Jekyll Liquid-Syntax](https://jekyllrb.com/docs/liquid/) – Erklärung der `{% link %}` und anderer Jekyll-Vorlagenbefehle
 
 ### Im Vereins-Wiki
 
