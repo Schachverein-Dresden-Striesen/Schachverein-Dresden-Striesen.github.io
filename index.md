@@ -2,9 +2,9 @@
 layout: single
 title: "Schachverein Dresden-Striesen e.V."
 header:
-  overlay_color: "#000"
+  overlay_color: "#243f8e"
   overlay_filter: "0.5"
-  overlay_image: /files/schach-header.jpg
+#  overlay_image: /files/schach-header.jpg
   caption: "Traditionsreicher Schachverein seit über 100 Jahren"
 excerpt: "Willkommen auf der offiziellen Website des Schachvereins Dresden-Striesen e.V."
 sidebar:
