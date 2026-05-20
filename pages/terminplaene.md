@@ -19,6 +19,8 @@ _Regelmäßige Termine für das Vereinsleben._
 
 [Trainingstermine Mittwochs MANOS Raum 218](<{{ site.baseurl }}/files/terminplaene/Trainingstermine_Schach_Mittwoch_2025-08_to_2026-02.pdf>)
 
+[Trainingstermine Mittwochs Schach Nexo (Januar–Juli 2026)](<{{ site.baseurl }}/files/terminplaene/Trainingstermine%20Schach%20Nexo%20Januar-Juli2026.pdf>)
+
 ## Turniertermine
 
 _Übersicht über anstehende Turniere und Wettkämpfe._
