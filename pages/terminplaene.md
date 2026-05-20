@@ -15,9 +15,7 @@ _Regelmäßige Termine für das Vereinsleben._
 
 [Terminplan Jugend als PDF herunterladen (Stand 24.07.2025)](<{{ site.baseurl }}/files/terminplaene/Terminplan Jugend Herbst 2025-07-24.pdf>)
 
-[Trainingstermine Dienstags im Freiraum](<{{ site.baseurl }}/files/terminplaene/Trainingstermine%20Schach%20Dienstag%20Freiraum%20Ende%202025.pdf>)
-
-[Trainingstermine Mittwochs MANOS Raum 218](<{{ site.baseurl }}/files/terminplaene/Trainingstermine_Schach_Mittwoch_2025-08_to_2026-02.pdf>)
+[Trainingstermine Dienstags im Freiraum (Januar–Juli 2026)](<{{ site.baseurl }}/files/terminplaene/Trainingstermine%20Schach%20Freiraum%20Januar-Juli2026.pdf>)
 
 [Trainingstermine Mittwochs Schach Nexo (Januar–Juli 2026)](<{{ site.baseurl }}/files/terminplaene/Trainingstermine%20Schach%20Nexo%20Januar-Juli2026.pdf>)
 
