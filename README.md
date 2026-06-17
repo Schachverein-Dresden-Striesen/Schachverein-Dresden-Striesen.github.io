@@ -1,5 +1,5 @@
 <!-- markdownlint-disable-next-line MD026 -->
-# Vereins-Wiki - Schachverein Dresden-Striesen e.V.  
+# Schachverein Dresden-Striesen e.V.  
 
 Diese Website wird mit GitHub Pages und Jekyll erstellt und automatisch bereitgestellt. Sie enthält alle notwendigen Dateien und Konfigurationen für die automatische Veröffentlichung bei Änderungen.
 
