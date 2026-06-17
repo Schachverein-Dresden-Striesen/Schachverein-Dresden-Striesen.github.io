@@ -3,7 +3,7 @@
 
 Diese Website wird mit GitHub Pages und Jekyll erstellt und automatisch bereitgestellt. Sie enthält alle notwendigen Dateien und Konfigurationen für die automatische Veröffentlichung bei Änderungen.
 
-**Live-Website:** [https://schachverein-dresden-striesen.github.io/Vereins-Wiki/](https://schachverein-dresden-striesen.github.io/Vereins-Wiki/)
+**Live-Website:** [schachverein-dresden-striesen.github.io](https://schachverein-dresden-striesen.github.io)
 
 ## Projektstruktur
 
@@ -15,8 +15,8 @@ Diese Website wird mit GitHub Pages und Jekyll erstellt und automatisch bereitge
 
 ## Mitwirkung
 
-Beiträge sind willkommen! Bitte erstellen Sie einen Pull Request oder öffnen Sie ein [Issue](https://github.com/Schachverein-Dresden-Striesen/Vereins-Wiki/issues) für Vorschläge oder Verbesserungen.
-Aktueller Meilenstein: [Milestones](https://github.com/Schachverein-Dresden-Striesen/Vereins-Wiki/milestones).
+Beiträge sind willkommen! Bitte erstellen Sie einen Pull Request oder öffnen Sie ein [Issue](https://github.com/Schachverein-Dresden-Striesen/    Schachverein-Dresden-Striesen.github.io/issues) für Vorschläge oder Verbesserungen.
+Aktueller Meilenstein: [Milestones](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/milestones).
 
 ## Lokale Entwicklung
 
@@ -43,8 +43,7 @@ Aktueller Meilenstein: [Milestones](https://github.com/Schachverein-Dresden-Stri
 1. **Repository klonen**:
 
    ```bash
-   git clone https://github.com/Schachverein-Dresden-Striesen/Vereins-Wiki.git
-   cd Vereins-Wiki
+   git clone https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io.git
    ```
 
 2. **Entwicklungsumgebung wählen:**
@@ -69,10 +68,7 @@ Aktueller Meilenstein: [Milestones](https://github.com/Schachverein-Dresden-Stri
 3. **Website starten**:
 
    ```bash
-   # Für lokale Entwicklung (empfohlen):
-   bundle exec jekyll serve --baseurl ""
-   
-   # Oder mit Standard-Konfiguration:
+   # Mit Standard-Konfiguration:
    bundle exec jekyll serve
    ```
 
