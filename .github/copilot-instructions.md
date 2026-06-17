@@ -1,8 +1,8 @@
-# GitHub Copilot Instructions für Vereins-Wiki
+# GitHub Copilot Instructions
 
 ## Repository Kontext
 
-Dies ist das Vereins-Wiki des Schachvereins Dresden-Striesen - ein Markdown- und Jekyll-basiertes Repository für statische Website-Inhalte. Es dient als primäres Repository zur Verwaltung einer Proof-of-Concept-Website für unseren kleinen Schachverein.
+Dies ist der Quellcode der Webseite des Schachvereins Dresden-Striesen - ein Markdown- und Jekyll-basiertes Repository für statische Website-Inhalte.
 
 ## Code-Standards
 
