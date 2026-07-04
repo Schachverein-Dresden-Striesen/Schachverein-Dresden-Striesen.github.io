@@ -44,3 +44,32 @@
   border-radius: 0.25rem;
 }
 </style>
+
+<!-- Automatische Verarbeitung externer Links für target="_blank" -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const siteUrl = '{{ site.url }}';
+  const siteHost = new URL(siteUrl).hostname;
+  
+  document.querySelectorAll('a[href]').forEach(link => {
+    try {
+      const href = link.getAttribute('href');
+      // Prüfe, ob es ein http/https-Link ist und ob er extern ist
+      if (href.match(/^https?:\/\//)) {
+        const linkHost = new URL(href).hostname;
+        if (linkHost !== siteHost) {
+          link.setAttribute('target', '_blank');
+          // rel-Attribut respektieren und ergänzen
+          const currentRel = link.getAttribute('rel') || '';
+          const relSet = new Set(currentRel.split(/\s+/).filter(Boolean));
+          relSet.add('noopener');
+          relSet.add('noreferrer');
+          link.setAttribute('rel', Array.from(relSet).join(' '));
+        }
+      }
+    } catch (e) {
+      // Invalid URL, ignorieren
+    }
+  });
+});
+</script>
