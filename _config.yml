@@ -65,6 +65,12 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-relative-links
+  - jekyll-extlinks
+
+# External links plugin configuration
+extlinks:
+  attributes: {target: _blank, rel: noopener noreferrer}
+  rel_exclude: []
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -74,6 +80,7 @@ whitelist:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-relative-links
+  - jekyll-extlinks
 
 # Archives
 category_archive:

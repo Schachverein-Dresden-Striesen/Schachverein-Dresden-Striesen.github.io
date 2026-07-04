@@ -7,6 +7,7 @@ Die Website des Schachvereins Dresden-Striesen wurde von dem Jekyll-Theme `cayma
 ## Durchgeführte Änderungen
 
 ### 1. Theme-Konfiguration
+
 - **Gemfile**: Hinzugefügt `minimal-mistakes-jekyll` Gem
 - **_config.yml**: Vollständige Neukonfiguration mit:
   - Remote Theme für GitHub Pages Kompatibilität
@@ -16,16 +17,20 @@ Die Website des Schachvereins Dresden-Striesen wurde von dem Jekyll-Theme `cayma
   - Standard-Layout-Einstellungen für alle Seiten
 
 ### 2. Navigation
+
 - **_data/navigation.yml**: Deutsche Menüstruktur erstellt
 - Alle Hauptbereiche der Website in der Seitenleiste verfügbar
 
 ### 3. Seiten-Layouts
+
 Alle Seiten wurden aktualisiert mit:
-- Layout: `single` 
+
+- Layout: `single`
 - Seitenleiste mit Navigation
 - Konsistente Darstellung
 
 ### 4. Anpassungen
+
 - **Custom Styling**: Schach-thematische Farbgebung (Schwarz/Weiß/Gold)
 - **SEO**: Verbesserte Meta-Tags für Suchmaschinen
 - **Responsive Design**: Optimiert für alle Geräte
@@ -43,7 +48,8 @@ Alle Seiten wurden aktualisiert mit:
 
 Das Theme ist vollständig für GitHub Pages konfiguriert und sollte automatisch bei Push-Vorgängen aktualisiert werden.
 
-### Wichtige Dateien:
+### Wichtige Dateien
+
 - `_config.yml`: Hauptkonfiguration
 - `_data/navigation.yml`: Menüstruktur
 - `_includes/head-custom.html`: Angepasste Styles und Meta-Tags
