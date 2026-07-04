@@ -11,9 +11,22 @@ sidebar:
   nav: "main"
 ---
 
-**Hauptwebsite:** [www.sv-dresden-striesen.de](https://www.sv-dresden-striesen.de)
+<div class="notice--warning" markdown="1">
+<div class="issue-highlight-title">Wichtiger Hinweis</div>
 
-Hier finden Sie alle wichtigen Informationen rund um unseren traditionsreichen Verein, unsere Aktivitäten und Angebote.
+**In den kommenden vier Wochen** findet unser Spielbetrieb vorübergehend in der **Fechterhalle, Weißeritzstraße 2, 01067 Dresden** statt.
+Direkt hinter der Ballsport-Arena.
+
+**Erreichbarkeit Straßenbahn via <a href="https://www.dvb.de/de-de/fahrplan/verbindungsauskunft?destinationid=coord:1527872:6631917:MR_EPSG3857:Wei%C3%9Feritzstra%C3%9Fe%202" target="_blank" rel="noopener noreferrer">DVB</a>:**
+
+- Haltestelle Weißeritzstraße
+- Bahnhof Dresden Mitte
+- Haltestelle Kongresszentrum
+
+Im Fechtergebäude befindet sich der Raum am **linken** Gang.
+
+*Die Jahresreinigung im Nexö-Gymnasium geht über einen längeren Zeitraum, und wir sind in gewohnten Räumen ab dem 31. Juli.*
+</div>
 
 ## Navigation
 
