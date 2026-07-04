@@ -3,7 +3,7 @@
 
 Diese Website wird mit GitHub Pages und Jekyll erstellt und automatisch bereitgestellt. Sie enthält alle notwendigen Dateien und Konfigurationen für die automatische Veröffentlichung bei Änderungen.
 
-**Live-Website:** [schachverein-dresden-striesen.github.io](https://schachverein-dresden-striesen.github.io)
+**Live-Website:** [www.sv-dresden-striesen.de](https://www.sv-dresden-striesen.de)
 
 ## Projektstruktur
 
@@ -15,7 +15,7 @@ Diese Website wird mit GitHub Pages und Jekyll erstellt und automatisch bereitge
 
 ## Mitwirkung
 
-Beiträge sind willkommen! Bitte erstellen Sie einen Pull Request oder öffnen Sie ein [Issue](https://github.com/Schachverein-Dresden-Striesen/    Schachverein-Dresden-Striesen.github.io/issues) für Vorschläge oder Verbesserungen.
+Beiträge sind willkommen! Bitte erstellen Sie einen Pull Request oder öffnen Sie ein [Issue](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/issues) für Vorschläge oder Verbesserungen.
 Aktueller Meilenstein: [Milestones](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/milestones).
 
 ## Lokale Entwicklung
@@ -77,7 +77,7 @@ Die Website ist dann unter `http://localhost:4000` erreichbar.
 ### Inhalte bearbeiten
 
 - Bearbeiten Sie Markdown-Dateien (`.md`) in VSCode oder Ihrem bevorzugten Editor
-- Oder direkt in GitHub über die Weboberfläche
+- **Oder direkt in GitHub über die Weboberfläche**
 - Änderungen werden automatisch beim Speichern übernommen (Live-Reload)
 - Neue Seiten können im `pages/` Verzeichnis erstellt werden
 
@@ -87,5 +87,6 @@ Die Website ist dann unter `http://localhost:4000` erreichbar.
 
 ### GitHub Copilot Support
 
-Das Repository enthält eine Copilot-Setup-Workflow (`.github/workflows/copilot-setup-steps.yml`), der die Jekyll-Entwicklungsumgebung für GitHub Copilot-Agenten vorbereitet. Dies ermöglicht es Copilot, Ruby-Dependencies automatisch zu installieren und die Jekyll-Build-Umgebung einzurichten.
+Das Repository enthält eine Copilot-Setup-Workflow (`.github/workflows/copilot-setup-steps.yml`), der die Jekyll-Entwicklungsumgebung für GitHub Copilot-Agenten vorbereitet. 
+Dies ermöglicht es Copilot, Ruby-Dependencies automatisch zu installieren und die Jekyll-Build-Umgebung einzurichten.
 
