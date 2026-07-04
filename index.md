@@ -3,13 +3,21 @@ layout: single
 title: "Schachverein Dresden-Striesen e.V."
 header:
   overlay_color: "#243f8e"
-  overlay_filter: "0.5"
+  overlay_filter: "0.3"
 #  overlay_image: /files/schach-header.jpg
   caption: "Traditionsreicher Schachverein seit über 100 Jahren"
 excerpt: "Willkommen auf der offiziellen Website des Schachvereins Dresden-Striesen e.V."
 sidebar:
   nav: "main"
 ---
+
+## <u>12. Striesener Vereinspokal 2026</u>
+
+Das jährliche Turnier wird mit einer Bedenkzeit von 15 Minuten pro Spieler und Partie am **Sonntag 12.07.2026 Eingang Heinz-Steyer-Stadion** stattfinden.
+
+Meldeschluss ist 9:45 Uhr, Siegerehrung gegen 13:30 Uhr. Es gibt Urkunden und Buch- oder Sachpreise für die 3 besten Spieler, die 3 besten Jugendlichen U20 und die 3 besten U10-Spieler.
+
+Alle wichtigen Informationen in der [Ausschreibung!](</files/ausschreibungen/2026-Ausschreibung-Vereinspokal.pdf>)
 
 <div class="notice--warning" markdown="1">
 <div class="issue-highlight-title">Wichtiger Hinweis</div>
@@ -28,26 +36,12 @@ Im Fechtergebäude befindet sich der Raum am **linken** Gang - siehe [Karte von 
 > Die Jahresreinigung im Nexö-Gymnasium geht über einen längeren Zeitraum - wir werden ab dem 31. Juli  in gewohnten Räumen sein.
 </div>
 
-## Navigation
-
-Bitte wählen Sie einen Bereich aus:
-
-- [Archiv]({{ site.baseurl }}{% link pages/archiv.md %})
-- [Ausschreibungen]({{ site.baseurl }}{% link pages/ausschreibungen.md %})
-- [DWZ-Liste]({{ site.baseurl }}{% link pages/dwz-liste.md %})
-- [Jugend]({{ site.baseurl }}{% link pages/jugend.md %})
-- [Mannschaftskämpfe]({{ site.baseurl }}{% link pages/mannschaftskaempfe.md %})
-- [Schulschach]({{ site.baseurl }}{% link pages/schulschach.md %})
-- [Terminpläne]({{ site.baseurl }}{% link pages/terminplaene.md %})
-- [Vereinsturniere]({{ site.baseurl }}{% link pages/vereinsturniere.md %})
-- [Vorstand]({{ site.baseurl }}{% link pages/vorstand.md %})
-
 ## Über uns
 
-Unser Verein blickt auf eine lange und erfolgreiche Geschichte zurück. Erfahren Sie mehr über:
+Unser Verein blickt auf eine lange und erfolgreiche Geschichte zurück. Erfahrt mehr über:
 
 - [100 Jahre Schachverein Dresden-Striesen]({{ site.baseurl }}{% link pages/100JahreSVDresden-Striesen-Peter-Hofmann.md %})
 
 ## Kontakt
 
-Bei Fragen oder Interesse an unserem Verein kontaktieren Sie uns gerne über unsere offiziellen Kanäle. Wir freuen uns auf Ihre Nachricht!
+Bei Fragen oder Interesse an unserem Verein kontaktieren Sie uns gerne über unsere offiziellen Kanäle. Wir freuen uns auf Ihre Nachricht! Der [Vorstand]({{ site.baseurl }}{% link pages/vorstand.md %}).
