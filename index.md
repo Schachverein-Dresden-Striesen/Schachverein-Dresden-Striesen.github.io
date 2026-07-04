@@ -19,7 +19,7 @@ sidebar:
 Direkt hinter der BallsportARENA.
 Im Fechtergebäude befindet sich der Raum am **linken** Gang - siehe [Karte von _OpenStreetMap_](https://www.openstreetmap.org/?mlat=51.059948&mlon=13.724912#map=19/51.059946/13.724913).
 
-**Erreichbarkeit Straßenbahn via [DVB]("https://www.dvb.de/de-de/fahrplan/verbindungsauskunft?destinationid=coord:1527872:6631917:MR_EPSG3857:Wei%C3%9Feritzstra%C3%9Fe%202"):**
+**Erreichbarkeit Straßenbahn via [DVB](https://www.dvb.de/de-de/fahrplan/verbindungsauskunft?destinationid=coord:1527872:6631917:MR_EPSG3857:Wei%C3%9Feritzstra%C3%9Fe%202):**
 
 - Haltestelle Weißeritzstraße
 - Bahnhof Dresden Mitte
