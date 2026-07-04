@@ -3,7 +3,7 @@
 
 Diese Website wird mit GitHub Pages und Jekyll erstellt und automatisch bereitgestellt. Sie enthält alle notwendigen Dateien und Konfigurationen für die automatische Veröffentlichung bei Änderungen.
 
-**Live-Website:** [schachverein-dresden-striesen.github.io](https://schachverein-dresden-striesen.github.io)
+**Live-Website:** [sv-dresden-striesen.de](https://schachverein-dresden-striesen.github.io)
 
 ## Projektstruktur
 
@@ -15,7 +15,7 @@ Diese Website wird mit GitHub Pages und Jekyll erstellt und automatisch bereitge
 
 ## Mitwirkung
 
-Beiträge sind willkommen! Bitte erstellen Sie einen Pull Request oder öffnen Sie ein [Issue](https://github.com/Schachverein-Dresden-Striesen/    Schachverein-Dresden-Striesen.github.io/issues) für Vorschläge oder Verbesserungen.
+Beiträge sind willkommen! Bitte erstellen Sie einen Pull Request oder öffnen Sie ein [Issue](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/issues) für Vorschläge oder Verbesserungen.
 Aktueller Meilenstein: [Milestones](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/milestones).
 
 ## Lokale Entwicklung
