@@ -41,6 +41,7 @@ Bitte wählen Sie einen Bereich aus:
 - [Terminpläne]({{ site.baseurl }}{% link pages/terminplaene.md %})
 - [Vereinsturniere]({{ site.baseurl }}{% link pages/vereinsturniere.md %})
 - [Vorstand]({{ site.baseurl }}{% link pages/vorstand.md %})
+- [Impressum]({{ site.baseurl }}{% link pages/impressum.md %})
 
 ## Über uns
 
