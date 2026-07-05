@@ -18,6 +18,8 @@ main:
     url: /pages/schulschach/
   - title: "Mannschaftskämpfe"
     url: /pages/mannschaftskaempfe/
+  - title: "Turnierberichte"
+    url: /pages/turnierberichte/
   - title: "DWZ-Liste"
     url: /pages/dwz-liste/
   - title: "100 Jahre Verein"
