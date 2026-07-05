@@ -11,6 +11,7 @@ Aktuelle Ausschreibungen für Turniere und Veranstaltungen.
 
 *Ausschreibungen für offene Turniere, an denen Gäste teilnehmen können.*
 
+- [12. Striesener Vereinspokal 12.07.2026](</files/ausschreibungen/2026-Ausschreibung-Vereinspokal.pdf>)
 - [Jugendopen Integration 26.09.2025](</files/ausschreibungen/Ausschreibung_Jugendopen_Integration_2025.pdf>)
 - [Open Integration 26.09.2025](</files/ausschreibungen/Ausschreibung_Open_Integration_2025.pdf>)
 - [3. Jugend-Stefan-Glasewald-Gedenkturnier am Sonnabend, 18.10.2025](</files/ausschreibungen/Ausschreibung_3.Jugend-S-Glasewald-Gedenkturnier.pdf>)
