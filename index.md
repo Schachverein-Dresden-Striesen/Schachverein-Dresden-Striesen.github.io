@@ -13,9 +13,9 @@ sidebar:
 
 ## <u>12. Striesener Vereinspokal 2026</u>
 
-Das jährliche Turnier wird mit einer Bedenkzeit von 15 Minuten pro Spieler und Partie am **Sonntag 12.07.2026 Eingang Heinz-Steyer-Stadion** stattfinden.
+Das jährliche Turnier wird mit einer Bedenkzeit von 15min + 10 Sekunden Inkrement am **Sonntag 12.07.2026 Eingang Heinz-Steyer-Stadion** stattfinden.
 
-Meldeschluss ist 9:45 Uhr, Siegerehrung gegen 13:30 Uhr. Es gibt Urkunden und Buch- oder Sachpreise für die 3 besten Spieler, die 3 besten Jugendlichen U20 und die 3 besten U10-Spieler.
+Meldeschluss ist 9:45 Uhr, Siegerehrung gegen 15:30 Uhr. Es gibt Urkunden und Buch- oder Sachpreise für die 3 besten Spieler, die 3 besten Jugendlichen U20 und die 3 besten U10-Spieler.
 
 Alle wichtigen Informationen in der [Ausschreibung!](</files/ausschreibungen/2026-Ausschreibung-Vereinspokal.pdf>)
 
