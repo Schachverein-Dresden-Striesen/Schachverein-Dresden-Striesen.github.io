@@ -11,7 +11,7 @@ Berichte zu Turnieren des SV Dresden-Striesen und Turnieren, an denen der Verein
 
 Am 04.07.2026 fand in Seiffen wieder der jährliche Pokal des Spielzeuglands statt, ein Blitzturnier mit 4er-Mannschaften. Auch dieses Jahr haben wir wieder erfolgreich teilgenommen.
 
-Zum [ausführlichen Turnierbericht](turnierberichte/20260704PokalSpielzeuglandSeiffen/)
+Zum [ausführlichen Turnierbericht]({{ site.baseurl }}{% link turnierberichte/20260704PokalSpielzeuglandSeiffen.md %})
 
 ---
 
