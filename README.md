@@ -7,7 +7,9 @@ Diese Website wird mit GitHub Pages und Jekyll erstellt und automatisch bereitge
 
 ## Projektstruktur
 
+- **CNAME**: Konfiguration des Domainnamen der Webseite. Achtung, muss auch im DNS entsprechend konfiguriert sein.
 - **index.md**: Hauptseite der Website
+- **data/navigation.yml**: Menü der Webseite
 - **pages/**: Inhaltsseiten des Vereins
 - **files/**: Dateien, Bilder und Dokumente
 - **_config.yml**: Jekyll-Konfiguration für GitHub Pages
