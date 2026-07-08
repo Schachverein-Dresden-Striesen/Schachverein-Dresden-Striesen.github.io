@@ -11,7 +11,7 @@ Diese Website wird mit GitHub Pages und Jekyll erstellt und automatisch bereitge
 - **pages/**: Inhaltsseiten des Vereins
 - **files/**: Dateien, Bilder und Dokumente
 - **_config.yml**: Jekyll-Konfiguration für GitHub Pages
-- **.devcontainer/**: Entwicklungsumgebung für VSCode
+- **.devcontainer/**: Entwicklungsumgebung für GitHub Codespaces und VSCode
 
 ## Mitwirkung
 
@@ -22,16 +22,18 @@ Aktueller Meilenstein: [Milestones](https://github.com/Schachverein-Dresden-Stri
 
 ### Voraussetzungen
 
-**Für beide Optionen:**
+**Option A – GitHub Codespaces:** kein lokales Setup erforderlich, nur ein GitHub-Account
+
+**Gemeinsame Voraussetzungen für Option B und C:**
 
 - [Git](https://git-scm.com/)
 
-**Option 1 (empfohlen):**
+**Option B – VSCode mit Devcontainer (zusätzlich):**
 
 - [VSCode](https://code.visualstudio.com/)
 - [Docker](https://www.docker.com/)
 
-**Option 2:**
+**Option C – Lokale Installation (zusätzlich):**
 
 - Ruby (Version 2.7 oder höher)
   - Windows: [RubyInstaller](https://rubyinstaller.org/)
@@ -40,7 +42,7 @@ Aktueller Meilenstein: [Milestones](https://github.com/Schachverein-Dresden-Stri
 
 ### Setup
 
-1. **Repository klonen**:
+1. **Repository klonen** *(nur für Option B und C nötig)*:
 
    ```bash
    git clone https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io.git
@@ -48,7 +50,17 @@ Aktueller Meilenstein: [Milestones](https://github.com/Schachverein-Dresden-Stri
 
 2. **Entwicklungsumgebung wählen:**
 
-   **Option A: VSCode mit Devcontainer (empfohlen)**
+   **Option A: GitHub Codespaces (kein lokales Setup nötig)**
+
+   [GitHub Codespaces](https://docs.github.com/de/codespaces/overview) startet eine vollständige Entwicklungsumgebung direkt im Browser – keine lokale Installation erforderlich.
+
+   - Auf der Repository-Seite: **Code → Codespaces → Codespace erstellen auf ...**
+   - Oder per [GitHub CLI](https://cli.github.com/): `gh codespace create`
+   - Die Umgebung basiert auf `.devcontainer/devcontainer.json` und startet fertig konfiguriert mit allen Abhängigkeiten
+
+   > **Kosten:** Jeder GitHub-Account bietet ein monatliches [kostenloses Kontingent](https://docs.github.com/de/billing/concepts/product-billing/github-codespaces#free-quota) (Kernstunden + Speicher). Nach Überschreitung des Kontingents können Kosten entstehen. Weitere Informationen unter [Codespaces-Abrechnung](https://docs.github.com/de/billing/concepts/product-billing/github-codespaces).
+
+   **Option B: VSCode mit Devcontainer**
 
    ```bash
    code .
@@ -58,7 +70,7 @@ Aktueller Meilenstein: [Milestones](https://github.com/Schachverein-Dresden-Stri
    - Oder: `F1` → "Dev Containers: Reopen in Container"
    - Abhängigkeiten werden automatisch installiert
 
-   **Option B: Lokale Installation**
+   **Option C: Lokale Installation**
 
    ```bash
    gem install bundler
