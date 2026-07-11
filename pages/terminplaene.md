@@ -11,13 +11,13 @@ Alle wichtigen Termine und Veranstaltungen auf einen Blick.
 
 _Regelmäßige Termine für das Vereinsleben._
 
-[Terminplan Erwachsene als PDF herunterladen (Stand 18.08.2025)](<{{ site.baseurl }}/files/terminplaene/Terminplan_2025-2026_Erwachsene_20250818.pdf>)
+[Terminplan Erwachsene als PDF herunterladen (Stand 18.08.2025)](/files/terminplaene/20260705-Terminplan-2025-2026-Erwachsene.pdf)
 
-[Terminplan Jugend als PDF herunterladen (Stand 24.07.2025)](<{{ site.baseurl }}/files/terminplaene/Terminplan Jugend Herbst 2025-07-24.pdf>)
+[Terminplan Jugend als PDF herunterladen (Stand 24.07.2025)](/files/terminplaene/Terminplan Jugend Herbst 2025-07-24.pdf)
 
-[Trainingstermine Dienstags im Freiraum (Januar–Juli 2026)](<{{ site.baseurl }}/files/terminplaene/Trainingstermine%20Schach%20Freiraum%20Januar-Juli2026.pdf>)
+[Trainingstermine Dienstags im Freiraum (Januar–Juli 2026)](/files/terminplaene/Trainingstermine%20Schach%20Freiraum%20Januar-Juli2026.pdf)
 
-[Trainingstermine Mittwochs Schach Nexo (Januar–Juli 2026)](<{{ site.baseurl }}/files/terminplaene/Trainingstermine%20Schach%20Nexo%20Januar-Juli2026.pdf>)
+[Trainingstermine Mittwochs Schach Nexo (Januar–Juli 2026)](/files/terminplaene/Trainingstermine%20Schach%20Nexo%20Januar-Juli2026.pdf)
 
 ## Turniertermine
 
