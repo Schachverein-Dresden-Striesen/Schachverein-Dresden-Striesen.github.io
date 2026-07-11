@@ -2,7 +2,7 @@
 layout: single
 title: "04.07.2026 - Pokal des Spielzeuglands Seiffen"
 sidebar:
-  nav: "turnierberichte"
+  nav: "main"
 ---
 
 Am 04.07.2026 fand in Seiffen wieder der jährliche Pokal des Spielzeuglands statt, ein Blitzturnier mit 4er-Mannschaften. Auch dieses Jahr haben wir wieder erfolgreich teilgenommen.
