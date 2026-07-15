@@ -11,13 +11,11 @@ sidebar:
   nav: "main"
 ---
 
-## <u>12. Striesener Vereinspokal 2026</u>
+### <u>22.-23. August 2026: Offene Jugend-Stadtmeisterschaft Dresden</u>
+<!--  -->
+Das Turnier der Jahrgänge 2007 und jünger wird mit 5 Runden und einer Bedenkzeit von 75 Minuten für 40 Züge und 15 min für den Rest der Partie, plus 10s Inkrement pro Zug, am **Samstag 22.08.26 und Sonntag 23.08.26 im Festsaal Rathaus Dresden** stattfinden.
 
-Das jährliche Turnier wird mit einer Bedenkzeit von 15min + 10 Sekunden Inkrement am **Sonntag 12.07.2026 Eingang Heinz-Steyer-Stadion** stattfinden.
-
-Meldeschluss ist 9:45 Uhr, Siegerehrung gegen 15:30 Uhr. Es gibt Urkunden und Buch- oder Sachpreise für die 3 besten Spieler, die 3 besten Jugendlichen U20 und die 3 besten U10-Spieler.
-
-Alle wichtigen Informationen in der [Ausschreibung!](</files/ausschreibungen/2026-Ausschreibung-Vereinspokal.pdf>)
+Alle wichtigen Informationen in der [Ausschreibung!](</files/ausschreibungen/Ausschreibung-Offene-Jugend-Stadtmeisterschaft-Dresden-2026.pdf>)
 
 <div class="notice--warning" markdown="1">
 <div class="issue-highlight-title">Wichtiger Hinweis</div>
