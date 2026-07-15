@@ -11,11 +11,14 @@ sidebar:
   nav: "main"
 ---
 
-### <u>22.-23. August 2026: Offene Jugend-Stadtmeisterschaft Dresden</u>
-<!--  -->
-Das Turnier der Jahrgänge 2007 und jünger wird mit 5 Runden und einer Bedenkzeit von 75 Minuten für 40 Züge und 15 min für den Rest der Partie, plus 10s Inkrement pro Zug, am **Samstag 22.08.26 und Sonntag 23.08.26 im Festsaal Rathaus Dresden** stattfinden.
+### <u>22.-23. August 2026: <br>Offene Jugend-Stadtmeisterschaft Dresden</u>
+
+Das Turnier der Jahrgänge **2007 und jünger** wird mit 5 Runden <br>
+am **Samstag 22.08.26 und Sonntag 23.08.26 im Festsaal Rathaus Dresden** stattfinden.
 
 Alle wichtigen Informationen in der [Ausschreibung!](</files/ausschreibungen/Ausschreibung-Offene-Jugend-Stadtmeisterschaft-Dresden-2026.pdf>)
+
+**Anmeldung per E-Mail bis 20.08.2026 an den Turnierleiter** ist wichtig, dass wir entsprechend Bestuhlung im großen Saal rechtzeitig planen können.
 
 <div class="notice--warning" markdown="1">
 <div class="issue-highlight-title">Wichtiger Hinweis</div>
