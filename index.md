@@ -47,4 +47,4 @@ Unser Verein blickt auf eine lange und erfolgreiche Geschichte zurück. Erfahrt 
 
 Bei Fragen oder Interesse an unserem Verein kontaktieren Sie uns gerne über unsere offiziellen Kanäle. Wir freuen uns auf Ihre Nachricht! Der [Vorstand](</pages/vorstand.md>)
 
-![Logo zur Förderung durch den Freistaat Sachsen](/files/LogoFörderungSachsen.jpg) ![Logo Stützpunktverein DOSB Integration durch Sport](/files/LogoStützpunktvereinIntegration.jpg)
+![Logo Stützpunktverein DOSB Integration durch Sport](/files/LogoStützpunktvereinIntegration.jpg) ![Logo zur Förderung durch den Freistaat Sachsen](/files/LogoFörderungSachsen.jpg)
