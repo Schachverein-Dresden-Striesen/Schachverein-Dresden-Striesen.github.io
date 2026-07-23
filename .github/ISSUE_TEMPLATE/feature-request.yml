@@ -1,0 +1,77 @@
+name: Feature Request
+description: Vorschlag für neue Funktionen oder Verbesserungen
+title: "[Feature]: "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Schlagen Sie eine neue Funktion oder Verbesserung für die Webseite vor!
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Kategorie
+      options:
+        - Design/Layout
+        - Navigation
+        - Content-Struktur
+        - Technische Funktion
+        - Performance
+        - Barrierefreiheit
+        - Sonstiges
+    validations:
+      required: true
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem/Motivation
+      description: Welches Problem soll gelöst werden?
+      placeholder: Beschreiben Sie das Problem oder die Motivation...
+    validations:
+      required: true
+
+  - type: textarea
+    id: solution
+    attributes:
+      label: Lösungsvorschlag
+      description: Wie könnte die Lösung aussehen?
+      placeholder: Beschreiben Sie Ihren Lösungsvorschlag...
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternativen
+      description: Haben Sie andere Lösungsansätze in Betracht gezogen?
+
+  - type: textarea
+    id: examples
+    attributes:
+      label: Beispiele
+      description: Gibt es Beispiele von anderen Webseiten?
+      placeholder: Links zu Beispielen...
+
+  - type: dropdown
+    id: effort
+    attributes:
+      label: Geschätzter Aufwand
+      options:
+        - Niedrig (< 1 Stunde)
+        - Mittel (1-4 Stunden)
+        - Hoch (> 4 Stunden)
+        - Unbekannt
+
+  - type: checkboxes
+    id: volunteer
+    attributes:
+      label: Beteiligung
+      options:
+        - label: Ich würde gerne bei der Umsetzung helfen
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Zusätzliche Informationen

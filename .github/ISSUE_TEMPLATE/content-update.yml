@@ -1,0 +1,75 @@
+name: Content-Update
+description: Aktualisierung bestehender Inhalte
+title: "[Update]: "
+labels: ["Update", "Inhalt"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Template für die Aktualisierung bestehender Inhalte.
+
+  - type: input
+    id: page
+    attributes:
+      label: Betroffene Seite
+      description: Welche Seite soll aktualisiert werden?
+      placeholder: "z.B. pages/jugend.md oder Startseite"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: update-type
+    attributes:
+      label: Art der Aktualisierung
+      options:
+        - Ligatabellen/Ergebnisse
+        - Termine/Spielpläne
+        - Mannschaftsaufstellungen
+        - Kontaktinformationen
+        - Links aktualisieren
+        - Veraltete Informationen entfernen
+        - Sonstiges
+    validations:
+      required: true
+
+  - type: textarea
+    id: current
+    attributes:
+      label: Aktueller Inhalt
+      description: Was steht derzeit auf der Seite?
+      placeholder: Beschreiben Sie den aktuellen Inhalt...
+
+  - type: textarea
+    id: new
+    attributes:
+      label: Neuer Inhalt
+      description: Was soll aktualisiert werden?
+      placeholder: Beschreiben Sie die gewünschte Aktualisierung...
+    validations:
+      required: true
+
+  - type: textarea
+    id: sources
+    attributes:
+      label: Quellen
+      description: Woher stammen die neuen Informationen?
+      placeholder: |
+        - nuLiga-Link
+        - E-Mail vom Vorstand
+        - Offizielles Dokument
+
+  - type: dropdown
+    id: urgency
+    attributes:
+      label: Dringlichkeit
+      options:
+        - Hoch (sofort)
+        - Mittel (diese Woche)
+        - Niedrig (bei Gelegenheit)
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Zusätzliche Informationen

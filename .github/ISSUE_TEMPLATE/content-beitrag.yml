@@ -1,0 +1,74 @@
+name: Content-Beitrag
+description: Template für neue Inhalte (Turnierberichte, News, etc.)
+title: "[Content]: "
+labels: ["enhancement", "Inhalt"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Vielen Dank für Ihren Content-Beitrag! Bitte füllen Sie die folgenden Felder aus.
+
+  - type: dropdown
+    id: content-type
+    attributes:
+      label: Art des Contents
+      description: Welche Art von Content möchten Sie hinzufügen?
+      options:
+        - Turnierbericht
+        - Ausschreibung
+        - News/Ankündigung
+        - Mannschaftsbericht
+        - Sonstiges
+    validations:
+      required: true
+
+  - type: input
+    id: title
+    attributes:
+      label: Titel
+      description: Titel des Beitrags
+      placeholder: z.B. "12. Vereinspokal"
+    validations:
+      required: true
+
+  - type: input
+    id: date
+    attributes:
+      label: Datum
+      description: Relevantes Datum (TT.MM.JJJJ)
+      placeholder: "23.07.2026"
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Beschreibung
+      description: Kurze Beschreibung des Inhalts
+      placeholder: Beschreiben Sie den geplanten Inhalt...
+    validations:
+      required: true
+
+  - type: textarea
+    id: sources
+    attributes:
+      label: Quellen/Links
+      description: Relevante Links oder Quellenangaben (Chess-Results, nuLiga, etc.)
+      placeholder: |
+        - https://chess-results.com/...
+        - https://svs-schach.liga.nu/...
+
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checkliste
+      description: Was wurde bereits vorbereitet?
+      options:
+        - label: Content-Entwurf vorhanden
+        - label: Bilder/Fotos vorhanden
+        - label: Ergebnisse/Daten verfügbar
+        - label: Template verwendet
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Zusätzliche Informationen
+      description: Weitere relevante Informationen

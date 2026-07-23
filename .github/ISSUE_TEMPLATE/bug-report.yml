@@ -1,0 +1,92 @@
+name: Technischer Fehler
+description: Melden Sie einen technischen Fehler auf der Webseite
+title: "[Bug]: "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Vielen Dank für die Meldung! Bitte beschreiben Sie den Fehler so detailliert wie möglich.
+
+  - type: dropdown
+    id: priority
+    attributes:
+      label: Priorität
+      description: Wie kritisch ist dieser Fehler?
+      options:
+        - Kritisch (Website nicht nutzbar)
+        - Hoch (Wichtige Funktion betroffen)
+        - Mittel (Kleine Einschränkung)
+        - Niedrig (Kosmetischer Fehler)
+    validations:
+      required: true
+
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: Fehlerbeschreibung
+      description: Was funktioniert nicht wie erwartet?
+      placeholder: Beschreiben Sie den Fehler...
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps
+    attributes:
+      label: Schritte zur Reproduktion
+      description: Wie kann der Fehler nachgestellt werden?
+      placeholder: |
+        1. Gehe zu '...'
+        2. Klicke auf '...'
+        3. Scrolle zu '...'
+        4. Fehler tritt auf
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected
+    attributes:
+      label: Erwartetes Verhalten
+      description: Was sollte stattdessen passieren?
+    validations:
+      required: true
+
+  - type: input
+    id: url
+    attributes:
+      label: Betroffene Seite (URL)
+      description: Auf welcher Seite tritt der Fehler auf?
+      placeholder: "https://www.sv-dresden-striesen.de/..."
+
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Browser
+      description: In welchem Browser tritt der Fehler auf?
+      options:
+        - Chrome
+        - Firefox
+        - Safari
+        - Edge
+        - Sonstiger
+
+  - type: dropdown
+    id: device
+    attributes:
+      label: Gerät
+      options:
+        - Desktop
+        - Tablet
+        - Smartphone
+
+  - type: textarea
+    id: screenshots
+    attributes:
+      label: Screenshots
+      description: Fügen Sie Screenshots hinzu, falls hilfreich
+
+  - type: textarea
+    id: additional
+    attributes:
+      label: Zusätzliche Informationen
+      description: Weitere relevante Details
