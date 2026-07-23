@@ -9,7 +9,7 @@ Berichte zu Turnieren des SV Dresden-Striesen und Turnieren, an denen der Verein
 
 ## 2026 - DSAM-Turnierserie
 
-Teilnahmen des SV Dresden-Striesen an der Deutschen Schach-Amateurmeisterschaft 2025/2026:
+Teilnahmen des SV Dresden-Striesen an der Deutschen Schach-Amateurmeisterschaft 2025/2026 mit Links zu den offiziellen Ergebnislisten:
 
 - [DSAM Potsdam](https://www.dsam-cup.de/potsdam/turnier.php?typ=v&v=SV+Dresden-Striesen)
 - [DSAM Magdeburg](https://www.dsam-cup.de/Magdeburg/turnier.php?typ=v&v=SV+Dresden-Striesen)
