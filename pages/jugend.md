@@ -52,7 +52,7 @@ Informationen zur Teilnahme an den Deutschen Meisterschaften:
 
 Erfahren Sie mehr über die Förderung von Mädchen im Schachsport:
 
-[→ Bericht: DSJ Mädchenschachkongress 2025]({{ site.baseurl }}{% link pages/bericht-maedchenschachkongress-2025.md %})
+[→ Bericht: DSJ Mädchenschachkongress 2025](bericht-maedchenschachkongress-2025.md)
 
 ---
 

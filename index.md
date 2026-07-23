@@ -41,10 +41,10 @@ Im Fechtergebäude befindet sich der Raum am **linken** Gang - siehe [Karte von 
 
 Unser Verein blickt auf eine lange und erfolgreiche Geschichte zurück. Erfahrt mehr über:
 
-- [100 Jahre Schachverein Dresden-Striesen]({% link pages/100JahreSVDresden-Striesen-Peter-Hofmann.md %})
+- [100 Jahre Schachverein Dresden-Striesen](pages/100JahreSVDresden-Striesen-Peter-Hofmann)
 
 ## Kontakt
 
-Bei Fragen oder Interesse an unserem Verein kontaktieren Sie uns gerne über unsere offiziellen Kanäle. Wir freuen uns auf Ihre Nachricht! Der [Vorstand]({% link pages/vorstand.md %})
+Bei Fragen oder Interesse an unserem Verein kontaktieren Sie uns gerne über unsere offiziellen Kanäle. Wir freuen uns auf Ihre Nachricht! Der [Vorstand](pages/vorstand)
 
 ![Logo Stützpunktverein DOSB Integration durch Sport](/files/LogoStuetzpunktvereinIntegration.jpg) ![Logo zur Förderung durch den Freistaat Sachsen](/files/LogoFoerderungSachsen.jpg)
