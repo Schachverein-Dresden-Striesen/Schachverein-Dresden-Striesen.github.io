@@ -17,8 +17,16 @@ Diese Website wird mit GitHub Pages und Jekyll erstellt und automatisch bereitge
 
 ## Mitwirkung
 
-Beiträge sind willkommen! Bitte erstellen Sie einen Pull Request oder öffnen Sie ein [Issue](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/issues) für Vorschläge oder Verbesserungen.
-Aktueller Meilenstein: [Milestones](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/milestones).
+Beiträge sind willkommen! Bitte lesen Sie zunächst unsere [Beitragsrichtlinien](CONTRIBUTING.md) und den [Content-Style-Guide](CONTENT_STYLE_GUIDE.md).
+
+- **Issue erstellen:** [GitHub Issues](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/issues)
+- **Implementierungsplan:** [IMPLEMENTATION_PLAN.md](IMPLEMENTATION_PLAN.md)
+- **Milestones:** [GitHub Milestones](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/milestones)
+
+### Hilfreiche Ressourcen
+
+- [GitHub für Anfänger: Roadmap zu den GitHub-Grundlagen](https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/)
+- [Content-Templates](templates/) - Vorlagen für Turnierberichte, Ausschreibungen, etc.
 
 ## Lokale Entwicklung
 
@@ -86,6 +94,58 @@ Die Website ist dann unter `http://localhost:4000` erreichbar.
 ### Deployment
 
 Änderungen werden automatisch über GitHub Actions veröffentlicht, wenn sie in den `website`-Branch gepusht werden.
+
+## GitHub Codespaces
+
+GitHub Codespaces bietet eine vollständige Entwicklungsumgebung direkt im Browser - perfekt für schnelle Änderungen ohne lokales Setup.
+
+### Codespace starten
+
+1. **In GitHub:** Klicken Sie auf `Code` → `Codespaces` → `Create codespace on website`
+2. **Warten Sie** ~2-3 Minuten, bis die Umgebung bereit ist
+3. **Fertig!** Jekyll ist bereits installiert und konfiguriert
+
+### Kosten
+
+GitHub Codespaces bietet ein **kostenloses Kontingent**:
+- **120 Core-Stunden pro Monat** (kostenlos)
+- **15 GB Speicher** (kostenlos)
+
+**Beispielrechnung:**
+- 2-Core-Maschine (Standard): 60 Stunden/Monat kostenlos
+- 4-Core-Maschine: 30 Stunden/Monat kostenlos
+
+Für typische Content-Arbeiten (1-2 Stunden/Woche) ist das kostenlose Kontingent **mehr als ausreichend**.
+
+[Mehr zu Codespaces-Kosten →](https://docs.github.com/en/billing/concepts/product-billing/github-codespaces#free-quota)
+
+### Wichtige Kommandos in Codespaces
+
+```bash
+# Jekyll-Server starten (Vorschau der Website)
+bundle exec jekyll serve
+
+# Build testen (ohne Server)
+bundle exec jekyll build
+
+# Neuen Branch erstellen
+git checkout -b content/mein-beitrag
+
+# Änderungen committen
+git add .
+git commit -m "content: Mein Beitrag hinzugefügt"
+
+# Push und Pull Request erstellen
+git push origin content/mein-beitrag
+```
+
+### Konfigurationsdateien
+
+Folgende Dateien konfigurieren Codespaces:
+
+- **`.devcontainer/devcontainer.json`**: Container-Konfiguration
+- **`.github/workflows/copilot-setup-steps.yml`**: Automatisches Setup für GitHub Copilot-Agenten
+- **`Gemfile`**: Ruby-Abhängigkeiten
 
 ### GitHub Copilot Support
 
