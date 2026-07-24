@@ -9,7 +9,7 @@ Historische Dokumente und Erinnerungen aus der langen Vereinsgeschichte.
 
 ## Vereinsgeschichte
 
-- [100 Jahre Schachverein Dresden-Striesen]({% link pages/100JahreSVDresden-Striesen-Peter-Hofmann.md %})
+- [100 Jahre Schachverein Dresden-Striesen](100JahreSVDresden-Striesen-Peter-Hofmann.md)
 
 ## Historische Dokumente
 
