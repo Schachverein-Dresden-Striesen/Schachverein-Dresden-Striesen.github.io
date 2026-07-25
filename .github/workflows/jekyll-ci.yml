@@ -5,6 +5,7 @@ on:
     paths:
       - '!README.md'
       - '!THEME_MIGRATION.md'
+      - '**' # Run on all files except README.md and THEME_MIGRATION.md
 
 jobs:
   build:
