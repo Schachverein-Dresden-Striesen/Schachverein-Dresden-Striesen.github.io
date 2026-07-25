@@ -30,15 +30,15 @@ Informationen zur Teilnahme an den Deutschen Meisterschaften:
 
 ## Jugendgruppen
 
-*Informationen zu unseren verschiedenen Jugendgruppen nach Altersklassen.*
+*[Informationen zu unseren verschiedenen Jugendgruppen nach Altersklassen.](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/issues/54)*
 
 ## Trainingszeiten
 
-*Übersicht über die Trainingszeiten für Kinder und Jugendliche.*
+*[Übersicht über die Trainingszeiten für Kinder und Jugendliche.](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/issues/55)*
 
 ## Jugendturniere
 
-*Informationen zu Jugendturnieren und Nachwuchsförderung.*
+*[Informationen zu Jugendturnieren und Nachwuchsförderung.](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/issues/56)*
 
 ## Die Mädchen im Verein
 
@@ -57,13 +57,9 @@ Erfahren Sie mehr über die Förderung von Mädchen im Schachsport:
 [→ Mädchenschach Webseite des JSBS](https://www.jugendschachbund-sachsen.de/bereiche/maedchenschach.html)
 
 
-## Erfolge unserer Jugend
-
-*Erfolge und Auszeichnungen unserer jungen Schachspieler.*
-
 ## Ansprechpartner
 
-*Kontaktinformationen für die Jugendarbeit.*
+Siehe: Kontakt zu den [Jugendspielleitern](/pages/vorstand/#jugendspielleiter) und [Jugendsprecher Alexander](/pages/vorstand/#jugendsprecher-und-schiedsrichterobmann).
 
 ---
 

@@ -22,7 +22,7 @@ Der Schachverein Dresden-Striesen e.V. wird von einem engagierten Vorstand gelei
 
 **Axel Viereck**
 
-### Jugendspielleiter und Ausbildung
+### Jugendspielleiter
 
 **Martin Röbke**  
 📱 0152 - 03875766  
