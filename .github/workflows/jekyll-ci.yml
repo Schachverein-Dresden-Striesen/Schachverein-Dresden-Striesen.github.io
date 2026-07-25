@@ -1,19 +1,17 @@
-name: "Copilot Setup Steps"
+name: Jekyll CI
 
 on:
-  workflow_dispatch:
-  push:
-    paths:
-      - .github/workflows/copilot-setup-steps.yml
   pull_request:
     paths:
-      - .github/workflows/copilot-setup-steps.yml
+      - '!README.md'
+      - '!THEME_MIGRATION.md'
+      - '**' # Run on all files except README.md and THEME_MIGRATION.md
 
 jobs:
-  copilot-setup-steps:
+  build:
+
     runs-on: ubuntu-latest
-    permissions:
-      contents: read
+
     steps:
       - name: Checkout code
         uses: actions/checkout@v7
@@ -29,3 +27,9 @@ jobs:
 
       - name: Test Jekyll build
         run: bundle exec jekyll build --verbose
+      
+      - name: Upload Jekyll build artifacts
+        uses: actions/upload-artifact@v7
+        with:
+          name: jekyll-site
+          path: _site
