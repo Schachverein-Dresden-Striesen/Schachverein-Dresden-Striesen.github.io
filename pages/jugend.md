@@ -30,29 +30,36 @@ Informationen zur Teilnahme an den Deutschen Meisterschaften:
 
 ## Jugendgruppen
 
-*Informationen zu unseren verschiedenen Jugendgruppen nach Altersklassen.*
+*[Informationen zu unseren verschiedenen Jugendgruppen nach Altersklassen.](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/issues/54)*
 
 ## Trainingszeiten
 
-*Übersicht über die Trainingszeiten für Kinder und Jugendliche.*
+*[Übersicht über die Trainingszeiten für Kinder und Jugendliche.](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/issues/55)*
 
 ## Jugendturniere
 
-*Informationen zu Jugendturnieren und Nachwuchsförderung.*
+*[Informationen zu Jugendturnieren und Nachwuchsförderung.](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/issues/56)*
 
-## Erfolge unserer Jugend
+## Die Mädchen im Verein
 
-*Erfolge und Auszeichnungen unserer jungen Schachspieler.*
+Es sind von den Grundschülern bis zu den jungen Damen viele Mädchen im Verein (und Schachsport der Region) aktiv.
 
-## Ansprechpartner
+Teilnahme an vielen Einzel- und Mannschaftstunieren.
 
-*Kontaktinformationen für die Jugendarbeit.*
+Auf Initiative von Martin Röbke, dem USV TU Dresden, dem JSBS Leiter Mädchenschach und der Schachgemeinschaft Leipzig, organisieren wir ein offenes Mädchen-Schnellschachturnier aus.
 
-## Mädchenschach
+Hier geht es zum [Bericht 25.04.2026 - Mädchen-Schnellschachturnier des JSBS](/pages/turnierberichte/20260425-Maedchen-Schnellschach-Turnier-Leipzig)
 
 Erfahren Sie mehr über die Förderung von Mädchen im Schachsport:
 
 [→ Bericht: DSJ Mädchenschachkongress 2025](bericht-maedchenschachkongress-2025.md)
+
+[→ Mädchenschach Webseite des JSBS](https://www.jugendschachbund-sachsen.de/bereiche/maedchenschach.html)
+
+
+## Ansprechpartner
+
+Siehe: Kontakt zu den [Jugendspielleitern](/pages/vorstand/#jugendspielleiter) und [Jugendsprecher Alexander](/pages/vorstand/#jugendsprecher-und-schiedsrichterobmann).
 
 ---
 
