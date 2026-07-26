@@ -11,13 +11,14 @@ sidebar:
   nav: "main"
 ---
 
-## <u>12. Striesener Vereinspokal 2026</u>
+### <u>22.-23. August 2026: <br>Offene Jugend-Stadtmeisterschaft Dresden</u>
 
-Das jährliche Turnier wird mit einer Bedenkzeit von 15min + 10 Sekunden Inkrement am **Sonntag 12.07.2026 Eingang Heinz-Steyer-Stadion** stattfinden.
+Das Turnier der Jahrgänge **2007 und jünger** wird mit 5 Runden <br>
+am **Samstag 22.08.26 und Sonntag 23.08.26 im Festsaal Rathaus Dresden** stattfinden.
 
-Meldeschluss ist 9:45 Uhr, Siegerehrung gegen 15:30 Uhr. Es gibt Urkunden und Buch- oder Sachpreise für die 3 besten Spieler, die 3 besten Jugendlichen U20 und die 3 besten U10-Spieler.
+Alle wichtigen Informationen in der [Ausschreibung!](</files/ausschreibungen/Ausschreibung-Offene-Jugend-Stadtmeisterschaft-Dresden-2026.pdf>)
 
-Alle wichtigen Informationen in der [Ausschreibung!](</files/ausschreibungen/2026-Ausschreibung-Vereinspokal.pdf>)
+**Anmeldung per E-Mail bis 20.08.2026 an den Turnierleiter** ist wichtig, dass wir entsprechend Bestuhlung im großen Saal rechtzeitig planen können.
 
 <div class="notice--warning" markdown="1">
 <div class="issue-highlight-title">Wichtiger Hinweis</div>
@@ -40,8 +41,10 @@ Im Fechtergebäude befindet sich der Raum am **linken** Gang - siehe [Karte von 
 
 Unser Verein blickt auf eine lange und erfolgreiche Geschichte zurück. Erfahrt mehr über:
 
-- [100 Jahre Schachverein Dresden-Striesen]({{ site.baseurl }}{% link pages/100JahreSVDresden-Striesen-Peter-Hofmann.md %})
+- [100 Jahre Schachverein Dresden-Striesen](pages/100JahreSVDresden-Striesen-Peter-Hofmann)
 
 ## Kontakt
 
-Bei Fragen oder Interesse an unserem Verein kontaktieren Sie uns gerne über unsere offiziellen Kanäle. Wir freuen uns auf Ihre Nachricht! Der [Vorstand]({{ site.baseurl }}{% link pages/vorstand.md %}).
+Bei Fragen oder Interesse an unserem Verein kontaktieren Sie uns gerne über unsere offiziellen Kanäle. Wir freuen uns auf Ihre Nachricht! Der [Vorstand](pages/vorstand)
+
+![Logo Stützpunktverein DOSB Integration durch Sport](/files/LogoStuetzpunktvereinIntegration.jpg) ![Logo zur Förderung durch den Freistaat Sachsen](/files/LogoFoerderungSachsen.jpg)

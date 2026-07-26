@@ -1,5 +1,4 @@
-<!-- markdownlint-disable-next-line MD026 -->
-# Schachverein Dresden-Striesen e.V.  
+# Schachverein Dresden-Striesen e.V.
 
 Diese Website wird mit GitHub Pages und Jekyll erstellt und automatisch bereitgestellt. Sie enthält alle notwendigen Dateien und Konfigurationen für die automatische Veröffentlichung bei Änderungen.
 
@@ -7,16 +6,36 @@ Diese Website wird mit GitHub Pages und Jekyll erstellt und automatisch bereitge
 
 ## Projektstruktur
 
+- **_config.yml**: Jekyll-Konfiguration für GitHub Pages
 - **index.md**: Hauptseite der Website
 - **pages/**: Inhaltsseiten des Vereins
 - **files/**: Dateien, Bilder und Dokumente
-- **_config.yml**: Jekyll-Konfiguration für GitHub Pages
-- **.devcontainer/**: Entwicklungsumgebung für GitHub Codespaces und VSCode
+- **data/navigation.yml**: Menü der Webseite
+- **CNAME**: Konfiguration des Domainnamen der Webseite. Achtung, muss auch im DNS entsprechend konfiguriert sein.
+- **.devcontainer/**: Vorlage für Entwicklungsumgebung (z.B. in [VS Code](https://code.visualstudio.com/docs/devcontainers/faq))
+
+### Deployment
+
+Änderungen werden automatisch über GitHub Actions veröffentlicht, wenn sie in den `website`-Branch gepusht werden.
+
+### GitHub Copilot Support
+
+Das Repository enthält eine Copilot-Setup-Workflow (`.github/workflows/copilot-setup-steps.yml`), der die Jekyll-Entwicklungsumgebung für GitHub Copilot-Agenten vorbereitet.
+Dies ermöglicht es Copilot, Ruby-Dependencies automatisch zu installieren und die Jekyll-Build-Umgebung einzurichten.
 
 ## Mitwirkung
 
 Beiträge sind willkommen! Bitte erstellen Sie einen Pull Request oder öffnen Sie ein [Issue](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/issues) für Vorschläge oder Verbesserungen.
-Aktueller Meilenstein: [Milestones](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/milestones).
+Aktueller Webseite-Meilenstein: [Milestones](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/milestone/1).
+
+
+Bei Fragen schaue auch durch die 
+- [Historie an Pull-Requests](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/pulls?q=is%3Apr) 
+- [einzelnen Änderungen](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/commits/website/)
+
+beziehungsweise wende dich gerne an [unser Team](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/people) 😊.
+
+> **Neu bei GitHub?** Lies zuerst unseren [GitHub-Einstiegsleitfaden](GITHUB-EINSTIEG.md), um die Grundlagen zu verstehen. 
 
 ## Lokale Entwicklung
 
@@ -44,9 +63,15 @@ Aktueller Meilenstein: [Milestones](https://github.com/Schachverein-Dresden-Stri
 
 1. **Repository klonen** *(nur für Option B und C nötig)*:
 
-   ```bash
-   git clone https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io.git
-   ```
+Zum Beispiel in `PowerShell` via [Git](https://git-scm.com/):
+
+```bash
+# Herunterladen in den aktuellen Datei-Ordner unter "Schachverein-Dresden-Striesen.github.io"
+git clone https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io.git
+
+# Wechseln in den heruntergeladenen Ordner:
+cd "Schachverein-Dresden-Striesen.github.io"
+```
 
 2. **Entwicklungsumgebung wählen:**
 
@@ -60,29 +85,29 @@ Aktueller Meilenstein: [Milestones](https://github.com/Schachverein-Dresden-Stri
 
    > **Kosten:** Jeder GitHub-Account bietet ein monatliches [kostenloses Kontingent](https://docs.github.com/de/billing/concepts/product-billing/github-codespaces#free-quota) (Kernstunden + Speicher). Nach Überschreitung des Kontingents können Kosten entstehen. Weitere Informationen unter [Codespaces-Abrechnung](https://docs.github.com/de/billing/concepts/product-billing/github-codespaces).
 
-   **Option B: VSCode mit Devcontainer**
+   **Option B: VSCode mit Devcontainer (empfohlen)**
 
-   ```bash
-   code .
-   ```
+```bash
+code .
+```
 
-   - VSCode wird automatisch vorschlagen, den Container zu öffnen
-   - Oder: `F1` → "Dev Containers: Reopen in Container"
-   - Abhängigkeiten werden automatisch installiert
+- VSCode wird automatisch vorschlagen, den Container zu öffnen
+- Oder: `F1` → "Dev Containers: Reopen in Container"
+- Abhängigkeiten werden automatisch installiert
 
    **Option C: Lokale Installation**
 
-   ```bash
-   gem install bundler
-   bundle install
-   ```
+```bash
+gem install bundler
+bundle install
+```
 
 3. **Website starten**:
 
-   ```bash
-   # Mit Standard-Konfiguration:
-   bundle exec jekyll serve
-   ```
+```bash
+# Mit Standard-Konfiguration:
+bundle exec jekyll serve
+```
 
 Die Website ist dann unter `http://localhost:4000` erreichbar.
 
@@ -92,13 +117,3 @@ Die Website ist dann unter `http://localhost:4000` erreichbar.
 - **Oder direkt in GitHub über die Weboberfläche**
 - Änderungen werden automatisch beim Speichern übernommen (Live-Reload)
 - Neue Seiten können im `pages/` Verzeichnis erstellt werden
-
-### Deployment
-
-Änderungen werden automatisch über GitHub Actions veröffentlicht, wenn sie in den `website`-Branch gepusht werden.
-
-### GitHub Copilot Support
-
-Das Repository enthält eine Copilot-Setup-Workflow (`.github/workflows/copilot-setup-steps.yml`), der die Jekyll-Entwicklungsumgebung für GitHub Copilot-Agenten vorbereitet. 
-Dies ermöglicht es Copilot, Ruby-Dependencies automatisch zu installieren und die Jekyll-Build-Umgebung einzurichten.
-

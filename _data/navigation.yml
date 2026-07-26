@@ -8,24 +8,18 @@ main:
     url: /pages/ausschreibungen/
   - title: "Vereinsturniere"
     url: /pages/vereinsturniere/
-  - title: "Vorstand"
-    url: /pages/vorstand/
   - title: "Jugend"
     url: /pages/jugend/
-  - title: "Mädchenschach"
-    url: /pages/bericht-maedchenschachkongress-2025/
-  - title: "Schulschach"
-    url: /pages/schulschach/
   - title: "Mannschaftskämpfe"
     url: /pages/mannschaftskaempfe/
   - title: "Turnierberichte"
     url: /pages/turnierberichte/
-  - title: "DWZ-Liste"
-    url: /pages/dwz-liste/
-  - title: "100 Jahre Verein"
-    url: /pages/100JahreSVDresden-Striesen-Peter-Hofmann/
   - title: "Archiv"
     url: /pages/archiv/
+  - title: "Vorstand"
+    url: /pages/vorstand/
+  - title: "Satzung und Ordnungen"
+    url: /pages/ordnungen/
   - title: "Impressum"
     url: /pages/impressum/
 
