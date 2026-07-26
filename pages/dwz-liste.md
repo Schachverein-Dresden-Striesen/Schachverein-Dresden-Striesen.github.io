@@ -9,7 +9,7 @@ Die Deutsche Wertungszahl (DWZ) ist das offizielle Bewertungssystem für Schachs
 
 ## Weiterführende Informationen
 
-- [Wertungsordnung - Offizielle Regelwerk der Deutschen Schachbund (DWZ-Spielstärkebewertung)](https://www.schachbund.de/wertungsordnung.html){:target="_blank"}
+- [Wertungsordnung - Offizielles Regelwerk des Deutschen Schachbunds (DWZ-Spielstärkebewertung)](https://www.schachbund.de/wertungsordnung.html){:target="_blank"}
 - [DWZ-Liste unseres Vereins (Schachbund-Datenbank)](https://www.schachbund.de/dwz-vereine/F2810.html){:target="_blank"}
 
 ---
