@@ -9,7 +9,7 @@ description: "Offizielle Website des Schachvereins Dresden-Striesen e.V. - Infor
 repository: "Schachverein-Dresden-Striesen"
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 email: info@sv-dresden-striesen.de
-url: "https://schachverein-dresden-striesen.github.io"
+url: "https://www.sv-dresden-striesen.de"
 
 author:
   name: "Schachverein Dresden-Striesen e.V."
