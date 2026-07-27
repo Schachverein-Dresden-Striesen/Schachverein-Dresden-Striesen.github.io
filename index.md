@@ -22,7 +22,7 @@ Alle wichtigen Informationen in der [Ausschreibung!](</files/ausschreibungen/Aus
 
 <div class="notice--warning" markdown="1">
 <div class="issue-highlight-title">Wichtiger Hinweis</div>
-
+(Block versteckt durch css in _includes/head/custom.html)
 **In den kommenden vier Wochen** findet unser Spielbetrieb vorübergehend in der **Fechterhalle, Weißeritzstraße 2, 01067 Dresden** statt.
 
 Direkt hinter der BallsportARENA.
