@@ -54,6 +54,8 @@ Erfahren Sie mehr über die Förderung von Mädchen im Schachsport:
 
 [→ Bericht: DSJ Mädchenschachkongress 2025](bericht-maedchenschachkongress-2025.md)
 
+Unser Verein wird auch am [**DSJ Mädchenschachkongress 2026**](https://www.deutsche-schachjugend.de/termine/2026/m-kongress/) teilnehmen.
+
 [→ Mädchenschach Webseite des JSBS](https://www.jugendschachbund-sachsen.de/bereiche/maedchenschach.html)
 
 
