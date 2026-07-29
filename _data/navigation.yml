@@ -10,10 +10,14 @@ main:
     url: /pages/vereinsturniere/
   - title: "Jugend"
     url: /pages/jugend/
+  - title: "DWZ-Liste"
+    url: /pages/dwz-liste/
   - title: "Mannschaftskämpfe"
     url: /pages/mannschaftskaempfe/
   - title: "Turnierberichte"
     url: /pages/turnierberichte/
+  - title: "Schulschach"
+    url: /pages/schulschach/
   - title: "Archiv"
     url: /pages/archiv/
   - title: "Vorstand"
