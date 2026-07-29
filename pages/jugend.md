@@ -44,7 +44,7 @@ Informationen zur Teilnahme an den Deutschen Meisterschaften:
 
 Es sind von den Grundschülern bis zu den jungen Damen viele Mädchen im Verein (und Schachsport der Region) aktiv.
 
-Teilnahme an vielen Einzel- und Mannschaftstunieren.
+Teilnahme an vielen Einzel- und Mannschaftsturnieren.
 
 Auf Initiative von Martin Röbke, dem USV TU Dresden, dem JSBS Leiter Mädchenschach und der Schachgemeinschaft Leipzig, organisieren wir ein offenes Mädchen-Schnellschachturnier aus.
 
@@ -57,7 +57,6 @@ Erfahren Sie mehr über die Förderung von Mädchen im Schachsport:
 Unser Verein wird auch am [**DSJ Mädchenschachkongress 2026**](https://www.deutsche-schachjugend.de/termine/2026/m-kongress/) teilnehmen.
 
 [→ Mädchenschach Webseite des JSBS](https://www.jugendschachbund-sachsen.de/bereiche/maedchenschach.html)
-
 
 ## Ansprechpartner
 
