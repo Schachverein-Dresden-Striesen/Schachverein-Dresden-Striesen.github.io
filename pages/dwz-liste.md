@@ -16,23 +16,23 @@ Die Deutsche Wertungszahl (DWZ) ist das offizielle Bewertungssystem für Schachs
 
 ### Alle Spieler (Deutschland und Sachsen)
 
-| Altersgruppe | Deutschland | Sachsen |
-|---|---|---|
-| **0–9 Jahre** (U10) | [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/000.html?toplist=100&sex=&age_from=0&age_to=9){:target="_blank"} | [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/F00.html?toplist=100&sex=&age_from=0&age_to=9){:target="_blank"} |
-| **10–11 Jahre** (U12) | [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/000.html?toplist=100&sex=&age_from=10&age_to=11){:target="_blank"} | [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/F00.html?toplist=100&sex=&age_from=10&age_to=11){:target="_blank"} |
-| **12–13 Jahre** (U14) | [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/000.html?toplist=100&sex=&age_from=12&age_to=13){:target="_blank"} | [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/F00.html?toplist=100&sex=&age_from=12&age_to=13){:target="_blank"} |
-| **14–15 Jahre** (U16) | [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/000.html?toplist=100&sex=&age_from=14&age_to=15){:target="_blank"} | [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/F00.html?toplist=100&sex=&age_from=14&age_to=15){:target="_blank"} |
-| **16–17 Jahre** (U18) | [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/000.html?toplist=100&sex=&age_from=16&age_to=17){:target="_blank"} | [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/F00.html?toplist=100&sex=&age_from=16&age_to=17){:target="_blank"} |
+| in Deutschland | in Sachsen |
+| --- | --- |
+| **U18** (16–17 Jahre) [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/000.html?toplist=100&sex=&age_from=16&age_to=17){:target="_blank"} | **U18** (16–17 Jahre) [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/F00.html?toplist=100&sex=&age_from=16&age_to=17){:target="_blank"} |
+| **U16** (14–15 Jahre) [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/000.html?toplist=100&sex=&age_from=14&age_to=15){:target="_blank"} | **U16** (14–15 Jahre) [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/F00.html?toplist=100&sex=&age_from=14&age_to=15){:target="_blank"} |
+| **U14** (12–13 Jahre) [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/000.html?toplist=100&sex=&age_from=12&age_to=13){:target="_blank"} | **U14** (12–13 Jahre) [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/F00.html?toplist=100&sex=&age_from=12&age_to=13){:target="_blank"} |
+| **U12** (10–11 Jahre) [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/000.html?toplist=100&sex=&age_from=10&age_to=11){:target="_blank"} | **U12** (10–11 Jahre) [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/F00.html?toplist=100&sex=&age_from=10&age_to=11){:target="_blank"} |
+| **U10** (0–9 Jahre) [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/000.html?toplist=100&sex=&age_from=0&age_to=9){:target="_blank"} | **U10** (0–9 Jahre) [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/F00.html?toplist=100&sex=&age_from=0&age_to=9){:target="_blank"} |
 
 ### Mädchen (Deutschland und Sachsen)
 
-| Altersgruppe | Deutschland | Sachsen |
-|---|---|---|
-| **0–9 Jahre** (U10) | [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/000.html?toplist=100&sex=f&age_from=0&age_to=9){:target="_blank"} | [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/F00.html?toplist=100&sex=f&age_from=0&age_to=9){:target="_blank"} |
-| **10–11 Jahre** (U12) | [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/000.html?toplist=100&sex=f&age_from=10&age_to=11){:target="_blank"} | [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/F00.html?toplist=100&sex=f&age_from=10&age_to=11){:target="_blank"} |
-| **12–13 Jahre** (U14) | [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/000.html?toplist=100&sex=f&age_from=12&age_to=13){:target="_blank"} | [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/F00.html?toplist=100&sex=f&age_from=12&age_to=13){:target="_blank"} |
-| **14–15 Jahre** (U16) | [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/000.html?toplist=100&sex=f&age_from=14&age_to=15){:target="_blank"} | [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/F00.html?toplist=100&sex=f&age_from=14&age_to=15){:target="_blank"} |
-| **16–17 Jahre** (U18) | [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/000.html?toplist=100&sex=f&age_from=16&age_to=17){:target="_blank"} | [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/F00.html?toplist=100&sex=f&age_from=16&age_to=17){:target="_blank"} |
+| in Deutschland | in Sachsen |
+| --- | --- |
+| **U18w** (16–17 Jahre) [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/000.html?toplist=100&sex=f&age_from=16&age_to=17){:target="_blank"} | **U18w** (16–17 Jahre) [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/F00.html?toplist=100&sex=f&age_from=16&age_to=17){:target="_blank"} |
+| **U16w** (14–15 Jahre) [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/000.html?toplist=100&sex=f&age_from=14&age_to=15){:target="_blank"} | **U16w** (14–15 Jahre) [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/F00.html?toplist=100&sex=f&age_from=14&age_to=15){:target="_blank"} |
+| **U14w** (12–13 Jahre) [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/000.html?toplist=100&sex=f&age_from=12&age_to=13){:target="_blank"} | **U14w** (12–13 Jahre) [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/F00.html?toplist=100&sex=f&age_from=12&age_to=13){:target="_blank"} |
+| **U12w** (10–11 Jahre) [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/000.html?toplist=100&sex=f&age_from=10&age_to=11){:target="_blank"} | **U12w** (10–11 Jahre) [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/F00.html?toplist=100&sex=f&age_from=10&age_to=11){:target="_blank"} |
+| **U10w** (0–9 Jahre) [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/000.html?toplist=100&sex=f&age_from=0&age_to=9){:target="_blank"} | **U10w** (0–9 Jahre) [→ DWZ-Liste](https://www.schachbund.de/dwz-verbaende/F00.html?toplist=100&sex=f&age_from=0&age_to=9){:target="_blank"} |
 
 ---
 
