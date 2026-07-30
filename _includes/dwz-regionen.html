@@ -1,0 +1,29 @@
+<table>
+    <thead>
+        <tr>
+            <th>Deutschland</th>
+            <th>Sachsen</th>
+            <th>Bezirk Dresden</th>
+            <th>Stadt Dresden</th>
+        </tr>
+    </thead>
+    <tbody>
+        <!--  generiert mit Liquid Loop -->
+        {% for group in site.data.altersklassen %}
+        <tr>
+            {% for region in site.data.regionen %}
+            <td>
+                {%- if forloop.first -%} <u>{{ group.born }}</u>: {%- endif -%} 
+                <br /> <br />
+                <span class="{{ region.flag }}"></span>
+                <a href="https://www.schachbund.de/dwz-verbaende/{{ region.code }}.html?toplist=100&sex=&age_from={{ group.age_from }}&age_to={{ group.age_to }}"
+                    target="_blank"> <b>{{ group.name }}</b> </a>
+                <span class="{{ region.flag }}"></span>
+                <a href="https://www.schachbund.de/dwz-verbaende/{{ region.code }}.html?toplist=100&sex=f&age_from={{ group.age_from }}&age_to={{ group.age_to }}"
+                    target="_blank"> <b>{{ group.name }}w</b> </a>
+            </td>
+            {% endfor %}
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
