@@ -24,10 +24,10 @@ footer:
       url: "mailto:info@sv-dresden-striesen.de"
 
 # Reading Files
-include:
-  - files
-  - pages
-  - _pages
+exclude:
+  - "README.md"
+  - "THEME_MIGRATION.md"
+  - "GITHUB-EINSTIEG.md"
 
 # Conversion
 markdown: kramdown
