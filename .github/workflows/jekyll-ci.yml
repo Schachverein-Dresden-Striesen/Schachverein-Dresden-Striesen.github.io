@@ -28,8 +28,13 @@ jobs:
       - name: Test Jekyll build
         run: bundle exec jekyll build --verbose
       
-      - name: Upload Jekyll build artifacts
+      - name: Upload Jekyll html build artifacts
         uses: actions/upload-artifact@v7
         with:
-          name: jekyll-site
-          path: _site
+          name: ${{ github.event.repository.name }}-jekyll-site-pr${{ github.event.pull_request.number }}-run${{ github.run_number }}
+          path: |
+            _site/assets/
+            _site/files/favicon/
+            _site/**/*.html
+            _site/**/*.svg
+            _site/**/*.xml
