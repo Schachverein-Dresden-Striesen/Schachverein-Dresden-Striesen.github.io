@@ -1,0 +1,28 @@
+- name: "Gesamt"
+  born:
+  age_from: 0
+  age_to: 140
+- name: "Senioren"
+  born: "geboren bis 1976"
+  age_from: 50
+  age_to: 140
+- name: "U18"
+  born: "geboren 2009-10"
+  age_from: 16
+  age_to: 17
+- name: "U16"
+  born: "geboren 2011-12"
+  age_from: 14
+  age_to: 15
+- name: "U14"
+  born: "geboren 2013-14"
+  age_from: 12
+  age_to: 13
+- name: "U12"
+  born: "geboren 2015-16"
+  age_from: 10
+  age_to: 11
+- name: "U10"
+  born: "Jg 2017+"
+  age_from: 0
+  age_to: 9

@@ -1,0 +1,15 @@
+- name: "Deutschland"
+  flag: "deutschland-flag"
+  code: "000"
+
+- name: "Sachsen"
+  flag: "sachsen-flag"
+  code: "F00"
+
+- name: "Bezirk Dresden"
+  flag: "bezirk-flag"
+  code: "F20"
+
+- name: "Stadt Dresden"
+  flag: "dresden-wappen"
+  code: "F28"
