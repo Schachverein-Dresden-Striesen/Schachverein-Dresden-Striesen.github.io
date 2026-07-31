@@ -59,7 +59,7 @@ Ergebnisse unserer Jugendturniere auf chess-results.com:
 | [Jugend-Frühling Dresden-Striesen 2025](https://s2.chess-results.com/tnr1104691.aspx?lan=0&art=1&SNode=S0){:target="_blank"} | 24.01. – 06.06.2025 | Frühlingsturnier der Jugend mit 57 Teilnehmern |
 | [Jugend-Rangliste 2024/25](https://s2.chess-results.com/tnr1101129.aspx?lan=0&art=1&SNode=S0){:target="_blank"} | 23.08.2024 – 20.06.2025 | Vereinsinterne Jugend-Rangliste der Saison 2024/25 |
 
-Ältere Turnierergebnisse sind im [Archiv](/pages/archiv#jugendturniere-archiv) zu finden.
+Ältere Turnierergebnisse sind im [Archiv](/archiv#jugendturniere-archiv) zu finden.
 
 ## Die Mädchen im Verein
 
@@ -69,7 +69,7 @@ Teilnahme an vielen Einzel- und Mannschaftsturnieren.
 
 Auf Initiative von Martin Röbke, dem USV TU Dresden, dem JSBS Leiter Mädchenschach und der Schachgemeinschaft Leipzig, organisieren wir ein offenes Mädchen-Schnellschachturnier aus.
 
-Hier geht es zum [Bericht 25.04.2026 - Mädchen-Schnellschachturnier des JSBS](/pages/turnierberichte/20260425-Maedchen-Schnellschach-Turnier-Leipzig)
+Hier geht es zum [Bericht 25.04.2026 - Mädchen-Schnellschachturnier des JSBS](/turnierberichte/20260425-Maedchen-Schnellschach-Turnier-Leipzig)
 
 Erfahren Sie mehr über die Förderung von Mädchen im Schachsport:
 
@@ -81,7 +81,7 @@ Unser Verein wird auch am [**DSJ Mädchenschachkongress 2026**](https://www.deut
 
 ## Ansprechpartner
 
-Siehe: Kontakt zu den [Jugendspielleitern](/pages/vorstand/#jugendspielleiter) und [Jugendsprecher Alexander](/pages/vorstand/#jugendsprecher-und-schiedsrichterobmann).
+Siehe: Kontakt zu den [Jugendspielleitern](/vorstand/#jugendspielleiter) und [Jugendsprecher Alexander](/vorstand/#jugendsprecher-und-schiedsrichterobmann).
 
 ---
 

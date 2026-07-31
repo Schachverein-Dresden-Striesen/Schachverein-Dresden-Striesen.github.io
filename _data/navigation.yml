@@ -3,27 +3,27 @@ main:
   - title: "Startseite"
     url: /
   - title: "Termine"
-    url: /pages/terminplaene/
+    url: /terminplaene
   - title: "Ausschreibungen"
-    url: /pages/ausschreibungen/
+    url: /ausschreibungen
   - title: "Vereinsturniere"
-    url: /pages/vereinsturniere/
+    url: /vereinsturniere
   - title: "Jugend"
-    url: /pages/jugend/
+    url: /jugend
   - title: "DWZ-Liste"
-    url: /pages/dwz-liste/
+    url: /dwz-liste
   - title: "Mannschaftskämpfe"
-    url: /pages/mannschaftskaempfe/
+    url: /mannschaftskaempfe
   - title: "Turnierberichte"
-    url: /pages/turnierberichte/
+    url: /turnierberichte
   - title: "Schulschach"
-    url: /pages/schulschach/
+    url: /schulschach
   - title: "Archiv"
-    url: /pages/archiv/
+    url: /archiv
   - title: "Vorstand"
-    url: /pages/vorstand/
+    url: /vorstand
   - title: "Satzung und Ordnungen"
-    url: /pages/ordnungen/
+    url: /ordnungen
   - title: "Impressum"
-    url: /pages/impressum/
+    url: /impressum
 
