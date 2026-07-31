@@ -105,7 +105,7 @@ defaults:
       author_profile: false
       sidebar:
         nav: "main"
-  # pages folder
+  # pages folder - permalink removes /pages/ subpath from URL
   - scope:
       path: "pages"
       type: pages
@@ -114,3 +114,13 @@ defaults:
       author_profile: false
       sidebar:
         nav: "main"
+      permalink: /:basename
+  # pages/turnierberichte subdirectory - preserve /turnierberichte/ in URL
+  - scope:
+      path: "pages/turnierberichte"
+      type: pages
+    values:
+      layout: single
+      sidebar:
+        nav: "main"
+      permalink: /turnierberichte/:basename
