@@ -4,7 +4,8 @@
         {
             "label": "Jekyll: Serve",
             "type": "shell",
-            "command": "bundle exec jekyll serve --baseurl ''",
+            // https://github.com/microsoft/WSL/issues/216
+            "command": "bundle exec jekyll serve --incremental --force_polling",
             "group": {
                 "kind": "build",
                 "isDefault": true
@@ -18,8 +19,7 @@
                 "clear": false
             },
             "isBackground": true,
-            "problemMatcher": [],
-            "detail": "Start Jekyll development server with empty baseurl"
+            "detail": "Start Jekyll development server with incremental build and force polling"
         },
         {
             "label": "Jekyll: Build",
