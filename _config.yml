@@ -28,6 +28,13 @@ exclude:
   - "README.md"
   - "THEME_MIGRATION.md"
   - "GITHUB-EINSTIEG.md"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "node_modules"
+  - "vendor/bundle/"
+  - "vendor/cache/"
+  - "vendor/gems/"
+  - "vendor/ruby/"
 
 # Conversion
 markdown: kramdown
