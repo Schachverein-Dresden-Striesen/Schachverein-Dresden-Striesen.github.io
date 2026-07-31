@@ -1,3 +1,11 @@
+- name: "Gesamt"
+  born:
+  age_from: 0
+  age_to: 140
+- name: "Senioren"
+  born: "geboren bis 1976"
+  age_from: 50
+  age_to: 140
 - name: "U18"
   born: "geboren 2009-10"
   age_from: 16
