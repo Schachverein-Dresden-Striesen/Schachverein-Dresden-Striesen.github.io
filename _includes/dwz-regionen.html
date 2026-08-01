@@ -32,7 +32,8 @@
         <tr>
             {% for region in site.data.regionen %}
             <td>
-                <u>{{ born_label | strip }}</u>
+                <u class="dwz-born-label" data-group-name="{{ group.name }}" data-age-from="{{ group.age_from }}"
+                    data-age-to="{{ group.age_to }}">{{ born_label | strip }}</u>
                 <div style="margin-top: auto;">
                     <span class="{{ region.flag }}"></span>
                     <a href="https://www.schachbund.de/dwz-verbaende/{{ region.code }}.html?toplist=100&sex=&age_from={{ group.age_from }}&age_to={{ group.age_to }}"
@@ -49,3 +50,47 @@
         {% endfor %}
     </tbody>
 </table>
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+        const berlinDateParts = new Intl.DateTimeFormat('de-DE', {
+            timeZone: 'Europe/Berlin',
+            year: 'numeric',
+            month: 'numeric'
+        }).formatToParts(new Date()).reduce(function (parts, part) {
+            if (part.type !== 'literal') {
+                parts[part.type] = Number(part.value);
+            }
+            return parts;
+        }, {});
+
+        const currentYear = berlinDateParts.year;
+        const ageClassYearOffset = berlinDateParts.month >= 7 ? 1 : 0;
+
+        function formatBornLabel(groupName, ageFrom, ageTo) {
+            if (groupName === 'Gesamt') {
+                return '';
+            }
+
+            if (groupName === 'Senioren') {
+                return 'geboren bis ' + (currentYear - ageFrom + ageClassYearOffset);
+            }
+
+            if (groupName === 'U10') {
+                return 'Jg ' + (currentYear - ageTo + ageClassYearOffset) + '+';
+            }
+
+            const bornFrom = currentYear - ageTo + ageClassYearOffset;
+            const bornTo = currentYear - ageFrom + ageClassYearOffset;
+
+            return 'geboren ' + bornFrom + '-' + String(bornTo % 100).padStart(2, '0');
+        }
+
+        document.querySelectorAll('.dwz-born-label').forEach(function (element) {
+            const groupName = element.dataset.groupName;
+            const ageFrom = Number(element.dataset.ageFrom);
+            const ageTo = Number(element.dataset.ageTo);
+
+            element.textContent = formatBornLabel(groupName, ageFrom, ageTo);
+        });
+    });
+</script>
