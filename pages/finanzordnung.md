@@ -1,7 +1,6 @@
 ---
 layout: single
 title: "Finanzordnung"
-permalink: /ordnungen/finanzordnung/
 sidebar:
   nav: "main"
 ---
