@@ -9,7 +9,7 @@ Berichte zu Turnieren des SV Dresden-Striesen und Turnieren, an denen der Verein
 
 ## 2026 - Sommeraktivitäten
 
-Der Sommer 2026 war geprägt durch vielfältige Aktivitäten unserer Spieler an internationalen und überregionalen Schachturnieren. Von Greifswald bis Wrocław und darüber hinaus – unsere Vereinsmitglieder haben sich erfolgreich in verschiedenen Kategorien präsentiert.
+Während der Sommerferien 2026 haben unserer Spieler an internationalen und überregionalen Schachturnieren teilgenommen. Von Greifswald bis Wrocław und darüber hinaus!
 
 Zum [ausführlichen Bericht über die Sommeraktivitäten 2026](turnierberichte/Sommeraktivitäten-2026.md)
 

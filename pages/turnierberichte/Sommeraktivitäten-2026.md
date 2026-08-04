@@ -5,11 +5,9 @@ sidebar:
   nav: "main"
 ---
 
-Der Sommer 2026 war eine erfolgreiche Zeit für unseren Verein mit zahlreichen Teilnahmen an internationalen und überregionalen Schachtournieren. Unsere Spieler haben sich bei verschiedenen Veranstaltungen präsentiert und dabei beachtliche Leistungen gezeigt.
+Im Sommer 2026 nahmen Spieler unseres Vereins an mehreren internationalen und überregionalen Schachturnieren teil.
 
 ## Ryck Open – Greifswald (15.–19. Juli 2026)
-
-Das Ryck Open in Greifswald war ein beeindruckendes Ereignis mit hochklassigen Schachspielern. Die Veranstaltung fand im VCH Hotel in Greifswald statt und zeichnete sich durch einen wunderbar schönen Spielort aus.
 
 Zwei unserer Vereinsmitglieder nahmen teil und erreichten beachtliche Platzierungen:
 
@@ -22,7 +20,7 @@ Unsere jungen Talente **Thanh An**, **Eric** und **Shravan** nahmen am Kaderlehr
 
 ## Adolf-Anderssen-Schachfestival – Wrocław, Polen
 
-Das Adolf-Anderssen-Schachfestival in Wrocław zog diesen Sommer insgesamt acht Spieler aus Sachsen an – vier davon vom SV Dresden-Striesen. Das Festival bot mehrere Spielklassen, in denen unsere Mitglieder unterschiedlicher Spielstärken teilnahmen:
+Das Adolf-Anderssen-Schachfestival in Wrocław zog diesen Sommer wieder mehr Spieler aus Sachsen an – vier davon vom SV Dresden-Striesen. Das klassische Turnier bot vier Spielklassen, in denen unsere Mitglieder teilnahmen:
 
 **Klasse B:**
 - [**Martin Röbke**](https://www.chessmanager.com/de-de/tournaments/5176915073433600/players/6332770611757056)
@@ -36,7 +34,7 @@ Das Festival war eine ausgezeichnete Gelegenheit für internationale Erfahrung u
 
 ## ChessCamp4Kids – Dźwirzyno, Polen
 
-Drei unserer jungen Spieler – **Maximilian**, **Yan** und **Yannik** – nahmen am **VI ChessCamp4Kids** in Dźwirzyno teil. Das ChessCamp ist ein etabliertes Trainingslager für junge Schachtalente und bietet eine Kombination aus intensivem Training und unterhaltsamen Aktivitäten. Die [Teilnehmerliste](https://www.chessmanager.com/de-de/tournaments/6039982150123520/players) zeigt die gute Besetzung dieses internationalen Camps.
+Drei unserer jungen Spieler – **Maximilian**, **Yan** und **Yannik** – nahmen am **VI ChessCamp4Kids** in Dźwirzyno teil. Das [ChessCamp ist ein etabliertes Trainingslager](https://chesscamp4kids.eu/schachcamps/) in den Sommerferien für junge Schachtalente und bietet eine Kombination aus intensivem Training und Austausch mit der polnischen Jugend. Die [diesjährige Teilnehmerliste](https://www.chessmanager.com/de-de/tournaments/6039982150123520/players) zeigt die gute Besetzung 2026.
 
 ## Czech Open 2026 – Kategorie B
 
@@ -44,7 +42,7 @@ Unser Spieler **Gustav** nahm an der [Czech Open 2026 in Kategorie B](https://s3
 
 ## Fazit
 
-Die Sommeraktivitäten 2026 zeigen das großartige Engagement unseres Vereins in der Förderung und Unterstützung unserer Mitglieder – von etablierten Spielern über talentierte Jugendliche bis hin zu Nachwuchsspielern. Die Teilnahme an nationalen und internationalen Turnieren trägt wesentlich zur Entwicklung unserer Spieler und zur Stärkung des Vereins bei.
+Die Sommeraktivitäten 2026 dokumentieren die breite Turnierteilnahme unseres Vereins – von etablierten Spielern über Jugendliche bis zu Nachwuchsspielern. Die Teilnahme an nationalen und internationalen Turnieren unterstützt die sportliche Entwicklung und den Austausch.
 
 ---
 
