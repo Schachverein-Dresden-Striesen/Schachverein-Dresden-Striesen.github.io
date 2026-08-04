@@ -5,9 +5,10 @@ permalink: /ordnungen/finanzordnung/
 sidebar:
   nav: "main"
 ---
-
+<!-- markdownlint-disable-next-line MD033 -->
+<p class="issue-highlight-title">
 Diese Seite enthält eine Textfassung der Ordnung bzw. des Dokuments. Die offizielle Version bleibt die PDF-Datei.
-
+</p>
 - [PDF herunterladen](/files/ordnungen/20250214%20Finanzordnung.pdf)
 
 ## Finanzordnung des {{ site.author.name }}
