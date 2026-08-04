@@ -7,6 +7,12 @@ sidebar:
 
 Berichte zu Turnieren des SV Dresden-Striesen und Turnieren, an denen der Verein teilgenommen hat.
 
+## 2026 - Sommeraktivitäten
+
+Der Sommer 2026 war geprägt durch vielfältige Aktivitäten unserer Spieler an internationalen und überregionalen Schachturnieren. Von Greifswald bis Wrocław und darüber hinaus – unsere Vereinsmitglieder haben sich erfolgreich in verschiedenen Kategorien präsentiert.
+
+Zum [ausführlichen Bericht über die Sommeraktivitäten 2026](turnierberichte/Sommeraktivitäten-2026.md)
+
 ## 2026 - DSAM-Turnierserie
 
 Teilnahmen des SV Dresden-Striesen an der Deutschen Schach-Amateurmeisterschaft 2025/2026 mit Links zu den offiziellen Ergebnislisten:
