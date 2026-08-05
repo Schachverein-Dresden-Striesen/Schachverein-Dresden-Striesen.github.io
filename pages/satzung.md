@@ -138,7 +138,7 @@ Beschlussfähige Organe sind in dieser Reihenfolge:
 
 3. Die Tagesordnung richtet sich nach den konkret zu behandelnden Themen. Der Vorstand gibt in jedem Fall eine Stellungnahme ab.
 
-4. Hinsichtlich von Beschlüssen gilt §9 §10 Abs. 4 und 5
+4. Hinsichtlich von Beschlüssen gilt §10 Abs. 4 und 5.
 
 ### § 12 Der Vorstand
 
@@ -170,7 +170,7 @@ Beschlussfähige Organe sind in dieser Reihenfolge:
 
 4. Das Schiedsgericht entscheidet über Streitigkeiten und Satzungsverstöße innerhalb des Vereins, sofern nicht die Zuständigkeit des Schiedsgerichtes eines Dachverbandes gegeben ist.
 
-5. Das Schiedsgericht entscheidet gemeinsam mit dem Vorstand über Ausschlüsse gemäß §5, Abs. 4 Abs. 5c.
+5. Das Schiedsgericht entscheidet gemeinsam mit dem Vorstand über Ausschlüsse gemäß §5 Abs. 5c.
 
 6. Das Schiedsgericht ist befugt, nach mündlicher und öffentlicher Verhandlung Disziplinarmaßnahmen zu verhängen.
 
@@ -178,7 +178,7 @@ Beschlussfähige Organe sind in dieser Reihenfolge:
 
 ### § 14 Die Kassenprüfer
 
-1. Die gemäß §9 §10, Abs.3, 5 Anstrich auf der JHV gewählten Kassenprüfer haben mindestens einmal jährlich gemeinsam und eine genaue Kassenprüfung vorzunehmen.
+1. Die gemäß §10 Abs. 3 und 5 auf der JHV gewählten Kassenprüfer haben mindestens einmal jährlich gemeinsam eine genaue Kassenprüfung vorzunehmen.
 
 2. Das Ergebnis ist jeweils zu protokollieren und dem/der 1. Vorsitzenden zwecks Berichterstattung bei der JHV zuzustellen.
 
@@ -198,7 +198,7 @@ Beschlussfähige Organe sind in dieser Reihenfolge:
 
     Das Protokoll ist von dem Versammlungsleiter/der Versammlungsleiterin und von dem Protokollanten/der Protokollantin zu unterschreiben.
 
-2. Der Verein trifft konkrete Festlegungen in einer Geschäftsordnung, in welcher eine Finanzordnung, eine Jugendordnung, eine Rechts- und Verfahrensordnung und eine Ehrenordnung enthalten sind.
+2. Der Verein trifft konkrete Festlegungen in einer Geschäftsordnung. Diese kann insbesondere Regelungen zu einer Finanzordnung, einer Jugendordnung, einer Rechts- und Verfahrensordnung und einer Ehrenordnung enthalten. Einzelne Themen können bei Bedarf auch in gesonderten Ordnungen oder Richtlinien geregelt werden.
 
 3. Ausscheidenden Mitgliedern steht ein Anteil am Vermögen des Vereins nicht zu.
 
