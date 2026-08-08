@@ -30,11 +30,11 @@ Der Verein ist selbstlos tätig, er verfolgt nicht in erster Linie eigenwirtscha
 
 ### § 3 Mitgliedschaft in Organisationen und Verbänden
 
-Der Verein strebt an, Mitglied des Dresdner Schachbundes, des Stadtsportbundes Dresden, und des Schachverbandes Sachsen und des Landessportbundes Sachen zu sein
+Der Verein strebt an, Mitglied des Dresdner Schachbundes, des Stadtsportbundes Dresden, des Schachverbandes Sachsen und des Landessportbundes Sachsen zu sein.
 
 ### § 4 Rechtsgrundlage
 
-Die Rechte und Pflichten der Mitglieder sowie aller Organe des Vereins werden durch die vorliegende Satzung ausschließlich geregelt. Für Streitigkeiten, die aus der Mitgliedschaft zum Verein und aller damit im Zusammenhang stehender Fragen entstehen, ist der ordentliche Rechtsweg erst zulässig, nachdem ein Schiedsgericht des Vereins eine Entscheidung getroffen hat
+Die Rechte und Pflichten der Mitglieder sowie aller Organe des Vereins werden durch die vorliegende Satzung ausschließlich geregelt. Für Streitigkeiten, die aus der Mitgliedschaft zum Verein und aller damit im Zusammenhang stehender Fragen entstehen, ist der ordentliche Rechtsweg erst zulässig, nachdem ein Schiedsgericht des Vereins eine Entscheidung getroffen hat.
 
 ### § 5 Mitgliedschaft
 
@@ -56,7 +56,7 @@ Die Rechte und Pflichten der Mitglieder sowie aller Organe des Vereins werden du
 
     d) durch Tod.
 
-6. Mit dem Ausscheiden aus dem Verein erlöschen alle Rechte gegenüber dem Verein
+6. Mit dem Ausscheiden aus dem Verein erlöschen alle Rechte gegenüber dem Verein.
 
 ### § 6 Jugend
 
@@ -64,7 +64,7 @@ Die Rechte und Pflichten der Mitglieder sowie aller Organe des Vereins werden du
 2. Die SJDS ist die steuerlich unselbstständige Kinder- und Jugendorganisation und vertritt alle jungen Menschen des Vereins.
 3. Die SJDS führt und verwaltet sich selbstständig und entscheidet eigenständig über die Planung und Verwendung der ihr von Dritten zufließenden und der ihr durch den Haushalt des Vereins zugewiesenen Mittel im Rahmen der gemeinnützigkeits- und zuwendungsrechlichen Vorgaben.
 4. Organe der SJDS sind die Jugendversammlung und der Jugendvorstand als Leitungsorgan. Der Jugendvorstand besteht aus den von der Jugendversammlung gewählten Mitgliedern und den von der Mitgliederversammlung gewählten Jugendspielleitern.
-5. Weiteres regelt die Jugendordnung, die von der Jugendversammlung zu beschließen ist und vom Vereinsvorstand mit einfacher Mehrheit bestätigt wird
+5. Weiteres regelt die Jugendordnung, die von der Jugendversammlung zu beschließen ist und vom Vereinsvorstand mit einfacher Mehrheit bestätigt wird.
 
 ### § 7 Rechte und Pflichten der Mitglieder
 
@@ -86,7 +86,7 @@ Die Rechte und Pflichten der Mitglieder sowie aller Organe des Vereins werden du
 
     b) Bei Aufnahme von Mitgliedern in den Verein ist eine Aufnahmegebühr zu entrichten, deren Höhe von der Jahreshauptversammlung festgelegt wird.
 
-    c) Jedes Vereinsmitglied hat einen monatlichen Mitgliedsbeitrag zu zahlen. Die Höhe des Beitrages legt die Jahreshauptversammlung fest
+    c) Jedes Vereinsmitglied hat einen monatlichen Mitgliedsbeitrag zu zahlen. Die Höhe des Beitrages legt die Jahreshauptversammlung fest.
 
 ### § 8 Finanzierung des Vereins
 
@@ -94,7 +94,7 @@ Die Rechte und Pflichten der Mitglieder sowie aller Organe des Vereins werden du
 
 2. Die verfügbaren Mittel sind ausschließlich zur Aufgabenerfüllung des Vereins unter Beachtung von Zweck und Gemeinnützigkeit zu verwenden.
 
-3. Die Bildung von Vereinsvermögen in Form einer Sportstätte, von Sportgeräten und Sportmaterialien sowie eines finanziellen Guthabens ist möglich, wenn der Zweck des Gemeinnutzes allumfassend gewährt bleibt
+3. Die Bildung von Vereinsvermögen in Form einer Sportstätte, von Sportgeräten und Sportmaterialien sowie eines finanziellen Guthabens ist möglich, wenn der Zweck des Gemeinnutzes allumfassend gewährt bleibt.
 
 ### § 9 Organe des Vereins
 
@@ -128,7 +128,7 @@ Beschlussfähige Organe sind in dieser Reihenfolge:
 
 4. Beschlüsse werden mit einfacher Stimmenmehrheit gefasst. Satzungsänderungen bedürfen einer 2/3 Mehrheit.
 
-5. Die Auflösung des Vereins kann nur mit einer Mehrheit von 3/4 der anwesenden Mitglieder beschlossen werden. Der Beschluss ist sämtlichen Vereinsmitgliedern in Textform bekannt zu geben. Er wird rechtswirksam, wenn nicht innerhalb von zwei Monaten nach Absendung dieser Benachrichtigung 1/10 aller Mitglieder des Vereins eine schriftliche Urabstimmung hierüber fordert und der Auflösungsbeschluss in dieser Urabstimmung nicht aufgehoben wird
+5. Die Auflösung des Vereins kann nur mit einer Mehrheit von 3/4 der anwesenden Mitglieder beschlossen werden. Der Beschluss ist sämtlichen Vereinsmitgliedern in Textform bekannt zu geben. Er wird rechtswirksam, wenn nicht innerhalb von zwei Monaten nach Absendung dieser Benachrichtigung 1/10 aller Mitglieder des Vereins eine schriftliche Urabstimmung hierüber fordert und der Auflösungsbeschluss in dieser Urabstimmung nicht aufgehoben wird.
 
 ### § 11 Die außerordentliche Mitgliederversammlung
 
@@ -142,11 +142,11 @@ Beschlussfähige Organe sind in dieser Reihenfolge:
 
 ### § 12 Der Vorstand
 
-1. Den geschäftsführenden Vorstand nach §26 BGB bilden der/die 1. Vorsitzende, der/die 2. Vorsitzende und der/die 3.Vorsitzende (Schatzmeister/Schatzmeisterin).
+1. Den geschäftsführenden Vorstand nach §26 BGB bilden der/die 1. Vorsitzende, der/die 2. Vorsitzende und der/die 3. Vorsitzende (Schatzmeister/Schatzmeisterin).
 
 2. Zusätzlich gehört zum Vorstand ein von der JHV gewählter Jugendspielleiter.
 
-3. Ein vom Jugendvorstand gewählter Vertreter ist als Jugendsprecher/Jugedsprecherin ebenfalls stimmberechtigtes Mitglied im Vorstand.
+3. Ein vom Jugendvorstand gewählter Vertreter ist als Jugendsprecher/Jugendsprecherin ebenfalls stimmberechtigtes Mitglied im Vorstand.
 
 4. Der Vorstand kann um weitere Mitglieder und auf Beschluss der JHV je nach Bedarf erweitert werden.
 
@@ -158,7 +158,7 @@ Beschlussfähige Organe sind in dieser Reihenfolge:
 
 8. Der Vorstand hat die Geschäfte des Vereins entsprechend der Satzung und der Beschlüsse der Mitgliederversammlung zu führen.
 
-9. Die Aufgaben der einzelnen Personen des Vorstandes sind eindeutig zu fixieren. Gleiches gilt für die Befugnisse der einzelnen Vereinsfunktionäre
+9. Die Aufgaben der einzelnen Personen des Vorstandes sind eindeutig zu fixieren. Gleiches gilt für die Befugnisse der einzelnen Vereinsfunktionäre.
 
 ### § 13 Das Schiedsgericht
 
@@ -174,15 +174,15 @@ Beschlussfähige Organe sind in dieser Reihenfolge:
 
 6. Das Schiedsgericht ist befugt, nach mündlicher und öffentlicher Verhandlung Disziplinarmaßnahmen zu verhängen.
 
-7. Die detaillierten Aufgaben und Befugnisse sind von der Mitgliederversammlung als gesonderte Ordnung zu beschließen
+7. Die detaillierten Aufgaben und Befugnisse sind von der Mitgliederversammlung als gesonderte Ordnung zu beschließen.
 
 ### § 14 Die Kassenprüfer
 
-1. Die gemäß §10 Abs. 3 und 5 auf der JHV gewählten Kassenprüfer haben mindestens einmal jährlich gemeinsam eine genaue Kassenprüfung vorzunehmen.
+1. Die gemäß §10, Abs. 3, 5. Anstrich auf der JHV gewählten Kassenprüfer haben mindestens einmal jährlich gemeinsam eine genaue Kassenprüfung vorzunehmen.
 
 2. Das Ergebnis ist jeweils zu protokollieren und dem/der 1. Vorsitzenden zwecks Berichterstattung bei der JHV zuzustellen.
 
-3. Die Wahl der Kassenprüfer erfolgt auf die Dauer von einem Jahr. Wiederwahl ist möglich, doch darf die fortlaufende Ausübung der Funktion die Dauer von zwei Jahren nicht überschreiten
+3. Die Wahl der Kassenprüfer erfolgt auf die Dauer von einem Jahr. Wiederwahl ist möglich, doch darf die fortlaufende Ausübung der Funktion die Dauer von zwei Jahren nicht überschreiten.
 
 ### § 15 Allgemeine Bestimmungen
 
