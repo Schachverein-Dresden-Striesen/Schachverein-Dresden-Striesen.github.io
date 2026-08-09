@@ -50,7 +50,6 @@ Auch in Reichenbach war der SV Dresden-Striesen vertreten: **Leon** und **Felix*
 - Ort: Reichenbach
 - Rundenanzahl: 5
 - Turniermodus: Einzel-Schweizersystem
-- Zeitraum: 07.08.2026 bis 09.08.2026
 - [Ergebnisliste bei Chess-Results](https://s3.chess-results.com/tnr1471029.aspx?lan=0&art=1&turdet=YES&SNode=S0)
 
 ## Fazit
