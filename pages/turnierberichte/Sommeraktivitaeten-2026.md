@@ -43,6 +43,16 @@ Vier unserer Spieler – [**Maximilian**](https://www.chessmanager.com/de-de/tou
 - [Schnellschach Rangliste](https://www.chessmanager.com/de-de/tournaments/6046639712239616/results/)
 - [Blitz Rangliste](https://www.chessmanager.com/de-de/tournaments/6046639712239616/results/)
 
+## Turnier in Reichenbach (07.08.2026 bis 09.08.2026)
+
+Auch in Reichenbach war der SV Dresden-Striesen vertreten: **Leon** und **Felix** nahmen am Turnier teil.
+
+- Ort: Reichenbach
+- Rundenanzahl: 5
+- Turniermodus: Einzel-Schweizersystem
+- Zeitraum: 07.08.2026 bis 09.08.2026
+- [Ergebnisliste bei Chess-Results](https://s3.chess-results.com/tnr1471029.aspx?lan=0&art=1&turdet=YES&SNode=S0)
+
 ## Fazit
 
 Die Sommeraktivitäten 2026 dokumentieren die mittlerweile breite Turnierteilnahme von etablierten Spielern bis zu Nachwuchsspielern unseres Vereins.
