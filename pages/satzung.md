@@ -5,14 +5,14 @@ sidebar:
   nav: "main"
 ---
 
-<!-- markdownlint-disable-next-line MD033 -->
+<!-- markdownlint-disable-next-line no-inline-html -->
 <p class="issue-highlight-title">
-Diese Seite enthält eine Textfassung des Dokuments. Die offizielle Version bleibt die PDF-Datei.
+Diese Seite enthält eine Textfassung des Dokuments (Fassung vom 26.01.2024). Die offizielle Version bleibt die PDF-Datei.
 </p>
 
 - [PDF herunterladen](/files/ordnungen/20240126%20Satzung.pdf)
 
-## Satzung {{ site.author.name }}
+## Satzung des "Schachverein Dresden-Striesen e.V."
 
 ### § 1 Name, Sitz und Tätigkeitsbereich
 
@@ -20,7 +20,7 @@ Der Verein führt den Namen „Schachverein Dresden-Striesen e.V.“ und hat sei
 
 ### § 2 Ziel und Zweck des Vereins
 
-Ziel des Vereins ist es, die Sportart Schach individuell und gemeinschaftlich zu betreiben und den Schachsport in seiner Gesamtheit zu fördern und auszubreiten. Der Verein verfolgt aus- schließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.
+Ziel des Vereins ist es, die Sportart Schach individuell und gemeinschaftlich zu betreiben und den Schachsport in seiner Gesamtheit zu fördern und auszubreiten. Der Verein verfolgt ausschließlich und unmittelbar gemeinnützige Zwecke im Sinne des Abschnitts „Steuerbegünstigte Zwecke“ der Abgabenordnung.
 
 Der Satzungszweck wird insbesondere durch die Gestaltung eines regelmäßigen Trainings- und Wettkampfbetriebes mittels der Durchführung und Förderung von Schachturnieren für Vereinsmitglieder und Gäste unter besonderer Berücksichtigung der Jugend verwirklicht.
 
