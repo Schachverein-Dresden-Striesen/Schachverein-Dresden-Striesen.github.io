@@ -34,7 +34,7 @@ Ergebnisse älterer Jugendturniere auf chess-results.com:
 | [Frühlingsturnier 2024](https://s2.chess-results.com/tnr909773.aspx?lan=0&art=1&SNode=S0){:target="_blank"} | 01.03. – 24.05.2024 | Frühlingsturnier der Jugend mit 51 Teilnehmern |
 | [Jugend VM Dresden-Striesen 2023/24](https://s2.chess-results.com/tnr844688.aspx?lan=0&art=1&SNode=S0){:target="_blank"} | 01.09.2023 – 02.02.2024 | Jugend-Vereinsmeisterschaft Saison 2023/24 |
 
-Aktuelle Turnierergebnisse sind auf der [Jugendseite](/pages/jugend#jugendturniere) zu finden.
+Aktuelle Turnierergebnisse sind auf der [Jugendseite](/jugend#jugendturniere) zu finden.
 
 ## Vereinschronik
 
