@@ -65,7 +65,7 @@ sparsam wie möglich durchzuführen.
 
     - Teilnahme an Bezirks-Einzelmeisterschaften 20,00 € pro Spieler
     - Teilnahme an Landes-Einzelmeisterschaften 20,00 € pro Spieler
-    - Teilnahme an Kaderlehrgängen und –turnieren 20,00 € pro Spieler
+    - Teilnahme an Kaderlehrgängen und –Turnieren 20,00 € pro Spieler
     - Teilnahme an Deutschen Mannschaftsmeisterschaften 30,00 € pro Spieler
     - Teilnahme an Deutschen-Einzelmeisterschaften 60,00 € pro Spieler
 
