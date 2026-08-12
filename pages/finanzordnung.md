@@ -30,7 +30,7 @@ sind berechtigt eine Handkasse zu führen. Das Bargeld-Limit dieser Handkasse is
 auf 450,00 € festgelegt.
 
 6. Alle Zahlungen sind durch den Schatzmeister oder durch den Kassierer – dieser jedoch nur nach schriftlicher Zustimmung durch den 1. bzw. 2. Vorsitzenden – entsprechend des genehmigten Finanzplanes zu leisten.
-
+   <!-- Absatz -->
    Bis zur Genehmigung des Finanzplanes sind Zahlungen nach Maßgabe des Vorjahres möglich.
 
 7. Durch den 3. Vorsitzenden bzw. in Vertretung durch den Kassierer wird ein Kassenbuch für
@@ -46,22 +46,21 @@ vorhandene finanzielle Vermögen aufzuführen.
 Kassenprüfer. Die Kassenprüfer erstatten dem 1. Vorsitzenden schriftlich und der
 Jahreshauptversammlung mündlich ihren Prüfungsbericht.
 
-11. Fahrten zu Tagungen und Wettkämpfen außerhalb von Dresden sind grundsätzlich so
-sparsam wie möglich durchzuführen.
- <!-- Absatz -->
-  Der Verein trägt die Fahrtkosten für alle Mannschaftsmeisterschaften und Mannschaftspokalturniere, für die Einzelmeisterschaften im Jugendbereich, für das Blitzmannschaftsturnier um den Pokal des Spielzeuglandes in Seiffen und für das Chemnitzer Jugend-Open.
- <!-- Absatz -->
-  Berechnungsgrundlage bei Fahrten mit dem PKW sind 0,50 Euro pro Entfernungskilometer (Strecke von Dresden zum Spielort, im Fall von Umwegen aufgrund gesperrter Straßen werden die zusätzlichen Kilometer entsprechend berücksichtigt) und pro PKW (max. 1 PKW je 4 Teilnehmer (Spieler und Betreuer))
-  <!-- Absatz -->
-  Bei Fahrten mit dem Öffentlichen Personenverkehr (Bus / Bahn) werden die tatsächlichen Kosten abgerechnet.
-  <!-- Absatz -->
-  Für Spiele der Jugendmannschaften in Dresden erhalten die Mannschaftsleiter eine Fahrtkostenpauschale entsprechend einer Entfernung von 10 Kilometern. Für alle weiteren Wettkämpfe tragen die Teilnehmer die Fahrtkosten selbst.
+11. Fahrten zu Tagungen und Wettkämpfen außerhalb von Dresden sind grundsätzlich so sparsam wie möglich durchzuführen.
+      <!-- Absatz -->
+      Der Verein trägt die Fahrtkosten für alle Mannschaftsmeisterschaften und Mannschaftspokalturniere, für die Einzelmeisterschaften im Jugendbereich, für das Blitzmannschaftsturnier um den Pokal des Spielzeuglandes in Seiffen und für das Chemnitzer Jugend-Open.
+      <!-- Absatz -->
+      Berechnungsgrundlage bei Fahrten mit dem PKW sind 0,50 Euro pro Entfernungskilometer (Strecke von Dresden zum Spielort, im Fall von Umwegen aufgrund gesperrter Straßen werden die zusätzlichen Kilometer entsprechend berücksichtigt) und pro PKW (max. 1 PKW je 4 Teilnehmer (Spieler und Betreuer))
+      <!-- Absatz -->
+      Bei Fahrten mit dem Öffentlichen Personenverkehr (Bus / Bahn) werden die tatsächlichen Kosten abgerechnet.
+      <!-- Absatz -->
+      Für Spiele der Jugendmannschaften in Dresden erhalten die Mannschaftsleiter eine Fahrtkostenpauschale entsprechend einer Entfernung von 10 Kilometern. Für alle weiteren Wettkämpfe tragen die Teilnehmer die Fahrtkosten selbst.
 
- 1. Tagegelder, Übernachtungs- und Verpflegungskosten werden grundsätzlich nicht gewährt. Ausnahmen sind Tagegelder zu Tagungen des Schachverbandes Sachsen und des Spielbezirkes Dresden für vom Vorstand beauftragte Vereinsmitglieder. Die Höhe der Tagegelder beträgt 8,00 Euro.
+12. Tagegelder, Übernachtungs- und Verpflegungskosten werden grundsätzlich nicht gewährt. Ausnahmen sind Tagegelder zu Tagungen des Schachverbandes Sachsen und des Spielbezirkes Dresden für vom Vorstand beauftragte Vereinsmitglieder. Die Höhe der Tagegelder beträgt 8,00 Euro.
 
- 2. Für alle Meisterschaften und Pokalturniere des Schachverbandes Sachsen und für Dresdner Meisterschaften und Pokalturniere (jeweils im Jugend- und Erwachsenenbereich) werden die Startgelder gegen Beleg rückerstattet. Die Erstattung beträgt jeweils höchstens 20,00 €.
+13. Für alle Meisterschaften und Pokalturniere des Schachverbandes Sachsen und für Dresdner Meisterschaften und Pokalturniere (jeweils im Jugend- und Erwachsenenbereich) werden die Startgelder gegen Beleg rückerstattet. Die Erstattung beträgt jeweils höchstens 20,00 €.
 
- 3. Folgende Zuschüsse werden den jeweils Qualifizierten aller Altersklassen im Jugendbereich gewährt:
+14. Folgende Zuschüsse werden den jeweils Qualifizierten aller Altersklassen im Jugendbereich gewährt:
 
     - Teilnahme an Bezirks-Einzelmeisterschaften 20,00 € pro Spieler
     - Teilnahme an Landes-Einzelmeisterschaften 20,00 € pro Spieler
@@ -73,14 +72,14 @@ sparsam wie möglich durchzuführen.
     Die Entscheidung darüber trifft der Vorstand nach Eingang eines schriftlichen Antrages.
     Für Mädchen werden die Zuschüsse auch ohne Qualifizierung gewährt.
 
- 4. Für die Teilnahme von Mannschaften des Vereins an überregionalen Meisterschaften
+15. Für die Teilnahme von Mannschaften des Vereins an überregionalen Meisterschaften
 kann auf Beschluss des Vorstandes ein Zuschuss von höchstens 150,00 € gezahlt werden.
 
- 5. Für die aktive Teilnahme an Schachturnieren werden allen Mitgliedern älter 18 Jahre
+16. Für die aktive Teilnahme an Schachturnieren werden allen Mitgliedern älter 18 Jahre
 Zuschüsse in Höhe von maximal 50,00 € gegen Beleg nach folgender Maßgabe gewährt:
 DWZ (oder ELO bei Spielern ohne DWZ) ab 1900 (1600 w) = 1 Turnier pro Jahr
 
- 6. Aufwandsentschädigungen
+17. Aufwandsentschädigungen
 Turnierleiter- und Schiedsrichterentschädigungen
 außer Vereinsmeisterschaften gemäß Veranstaltungsplan:
 
@@ -97,7 +96,7 @@ außer Vereinsmeisterschaften gemäß Veranstaltungsplan:
     Übungsleiter können pro Lehreinheit (45 min) einen Betrag bis zu 12,00 € erhalten.
     Die konkrete Höhe wird nach Haushaltslage des Vereins vom Vorstand jährlich aktualisiert und beschlossen.
 
- 7. Betreuung / Schiedsrichter von Einzel –und Mannschaftskämpfen der Jugend je Einsatztag
+18. Betreuung / Schiedsrichter von Einzel –und Mannschaftskämpfen der Jugend je Einsatztag
 
     - Heimspiel: 10,00 €
     - Auswärtsspiel (weniger als 8 Stunden): 10,00 €
@@ -106,22 +105,22 @@ außer Vereinsmeisterschaften gemäß Veranstaltungsplan:
 
     Die Übernachtungs- und Verpflegungskosten der durch den Verein bestellten Betreuer trägt der Verein.
 
- 8. Lehrgangskosten für Trainer, Übungsleiter und Schiedsrichter
+19. Lehrgangskosten für Trainer, Übungsleiter und Schiedsrichter
 
     Lehrgangskosten für Trainer, Übungsleiter und Schiedsrichter können auf schriftlichen Antrag und Beschluss des Vorstandes teilweise oder voll erstattet     werden.
 
- 9. Folgende Schreibarbeiten werden rückvergütet:
+20. Folgende Schreibarbeiten werden rückvergütet:
 
     - je A4-Original-Erstellung: 0,25 €
     - je A4-Kopie: 0,10 €
 
-10. Für die Gestaltung von Urkunden werden gezahlt:
+21. Für die Gestaltung von Urkunden werden gezahlt:
 
     - Farbdruck: 1,00 € pro Urkunde
     - Schwarz/Weiß-Druck 0,50 € pro Urkunde
 
-11. Portokosten für die Zustellung von wichtigen Schreiben (z.B. Einladungen für besondere Turniere, Beitrags- und Mahnschreiben) werden übernommen, soweit sie erforderlich sind.
+22. Portokosten für die Zustellung von wichtigen Schreiben (z.B. Einladungen für besondere Turniere, Beitrags- und Mahnschreiben) werden übernommen, soweit sie erforderlich sind.
 
-12. Änderungen der Finanzordnung, auch einzelner Sätze, bedürfen des Beschlusses der Jahreshauptversammlung.
+23. Änderungen der Finanzordnung, auch einzelner Sätze, bedürfen des Beschlusses der Jahreshauptversammlung.
 
-13. Die Finanzordnung tritt am 14.02.2025 in Kraft.
+24. Die Finanzordnung tritt am 14.02.2025 in Kraft.
