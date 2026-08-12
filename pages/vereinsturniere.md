@@ -13,7 +13,7 @@ Hier finden Sie Informationen zu allen Turnieren, die von unserem Verein ausgeri
 [Ausschreibung](/files/ausschreibungen/20250807%20VM%202025-2026%20Ausschreibung.pdf)  
 [aktueller Stand](/files/turniertabellen/VM%202025-2026%20Kreuztabelle.pdf)
 
-### VM Schnellschch 2025/2026
+### VM Schnellschach 2025/2026
 [Ausschreibung](/files/ausschreibungen/20250807%20VMS%202025-2026%20Ausschreibung.pdf)  
 [aktueller Stand](/files/turniertabellen/VMS%202025-2026%20Kreuztabelle.pdf)
 
