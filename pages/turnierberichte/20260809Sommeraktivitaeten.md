@@ -47,7 +47,7 @@ Vier unserer Spieler – [**Maximilian**](https://www.chessmanager.com/de-de/tou
 
 ## 4. Reichenbacher Einladungsturnier (7. - 9. August)
 
-Auch in Reichenbach war der SV Dresden-Striesen vertreten: [Leon](https://s3.chess-results.com/tnr1471029.aspx?lan=0&art=9&turdet=YES&snr=24&SNode=S0) und [Felix](https://s1.chess-results.com/tnr1471029.aspx?lan=0&art=9&turdet=YES&snr=13&SNode=S0) nahmen am Turnier teil.
+Auch in Reichenbach ([Webseite](https://www.vogtland-schach.de/reichenbacher-einladungsturnier/4-reichenbacher-einladungsturnier-2026)) war der SV Dresden-Striesen vertreten: [Leon](https://s3.chess-results.com/tnr1471029.aspx?lan=0&art=9&turdet=YES&snr=24&SNode=S0) und [Felix](https://s1.chess-results.com/tnr1471029.aspx?lan=0&art=9&turdet=YES&snr=13&SNode=S0) nahmen am Turnier teil.
 
 Von den 40 Teilnehmern mit durchschnittlicher Elo von 1978, dabei je zwei Großmeister, IM und FIDE-Meister, wurden im Schweizer System von Freitag bis Sonntag 5 Runden gespielt.
 
