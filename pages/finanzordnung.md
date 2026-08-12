@@ -1,0 +1,129 @@
+---
+layout: single
+title: "Finanzordnung"
+sidebar:
+  nav: "main"
+---
+<!-- markdownlint-disable-next-line no-inline-html -->
+<p class="issue-highlight-title">
+Diese Seite enthält eine Textfassung der Ordnung bzw. des Dokuments. Die offizielle Version bleibt die PDF-Datei.
+</p>
+- [PDF herunterladen](/files/ordnungen/20250214%20Finanzordnung.pdf)
+
+## Finanzordnung des "Schachverein Dresden-Striesen e.V."
+
+1. Das Finanzjahr entspricht dem Kalenderjahr.
+
+2. Die Erstellung eines Finanzplanes obliegt dem Vorstand und hat jährlich zu erfolgen.
+
+3. Der Finanzplan ist genehmigt, wenn er von den anwesenden Mitgliedern auf der
+Jahreshauptversammlung mit einfacher Stimmenmehrheit angenommen wird.
+
+4. Der Schachverein Dresden-Striesen e.V. führt ein Girokonto, für welches die
+drei Vorsitzenden jeweils allein zeichnungsberechtigt sind. Mit der Führung des
+Girokontos ist der 3. Vorsitzende (Schatzmeister) beauftragt. Für den Fall eines
+Kontowechsels können für eine Übergangsphase parallel zwei Girokonten geführt
+werden.
+
+5. Der Schatzmeister oder in seiner Vertretung ein vom Vorstand bestimmter Kassierer
+sind berechtigt eine Handkasse zu führen. Das Bargeld-Limit dieser Handkasse ist
+auf 450,00 € festgelegt.
+
+6. Alle Zahlungen sind durch den Schatzmeister oder durch den Kassierer – dieser jedoch nur nach schriftlicher Zustimmung durch den 1. bzw. 2. Vorsitzenden – entsprechend des genehmigten Finanzplanes zu leisten.
+   <!-- Absatz -->
+   Bis zur Genehmigung des Finanzplanes sind Zahlungen nach Maßgabe des Vorjahres möglich.
+
+7. Durch den 3. Vorsitzenden bzw. in Vertretung durch den Kassierer wird ein Kassenbuch für
+die Handkasse geführt. Der Nachweis für das Girokonto wird über die Kontoauszüge geführt.
+
+8. Jede Geldbewegung ist zu belegen und alle Belege sind von Beginn bis Ende des
+Finanzjahres fortlaufend zu nummerieren. Alle Belege sind 10 Jahre aufzubewahren.
+
+9. Im Jahresabschluss sind die Einnahmen und Ausgaben nachzuweisen und das
+vorhandene finanzielle Vermögen aufzuführen.
+
+10. Die Kontrolle der Finanzgeschäfte erfolgt einmal jährlich durch die gewählten
+Kassenprüfer. Die Kassenprüfer erstatten dem 1. Vorsitzenden schriftlich und der
+Jahreshauptversammlung mündlich ihren Prüfungsbericht.
+
+11. Fahrten zu Tagungen und Wettkämpfen außerhalb von Dresden sind grundsätzlich so sparsam wie möglich durchzuführen.
+      <!-- Absatz -->
+      Der Verein trägt die Fahrtkosten für alle Mannschaftsmeisterschaften und Mannschaftspokalturniere, für die Einzelmeisterschaften im Jugendbereich, für das Blitzmannschaftsturnier um den Pokal des Spielzeuglandes in Seiffen und für das Chemnitzer Jugend-Open.
+      <!-- Absatz -->
+      Berechnungsgrundlage bei Fahrten mit dem PKW sind 0,50 Euro pro Entfernungskilometer (Strecke von Dresden zum Spielort, im Fall von Umwegen aufgrund gesperrter Straßen werden die zusätzlichen Kilometer entsprechend berücksichtigt) und pro PKW (max. 1 PKW je 4 Teilnehmer (Spieler und Betreuer))
+      <!-- Absatz -->
+      Bei Fahrten mit dem Öffentlichen Personenverkehr (Bus / Bahn) werden die tatsächlichen Kosten abgerechnet.
+      <!-- Absatz -->
+      Für Spiele der Jugendmannschaften in Dresden erhalten die Mannschaftsleiter eine Fahrtkostenpauschale entsprechend einer Entfernung von 10 Kilometern. Für alle weiteren Wettkämpfe tragen die Teilnehmer die Fahrtkosten selbst.
+
+12. Tagegelder, Übernachtungs- und Verpflegungskosten werden grundsätzlich nicht gewährt. Ausnahmen sind Tagegelder zu Tagungen des Schachverbandes Sachsen und des Spielbezirkes Dresden für vom Vorstand beauftragte Vereinsmitglieder. Die Höhe der Tagegelder beträgt 8,00 Euro.
+
+13. Für alle Meisterschaften und Pokalturniere des Schachverbandes Sachsen und für Dresdner Meisterschaften und Pokalturniere (jeweils im Jugend- und Erwachsenenbereich) werden die Startgelder gegen Beleg rückerstattet. Die Erstattung beträgt jeweils höchstens 20,00 €.
+
+14. Folgende Zuschüsse werden den jeweils Qualifizierten aller Altersklassen im Jugendbereich gewährt:
+
+    - Teilnahme an Bezirks-Einzelmeisterschaften 20,00 € pro Spieler
+    - Teilnahme an Landes-Einzelmeisterschaften 20,00 € pro Spieler
+    - Teilnahme an Kaderlehrgängen und –Turnieren 20,00 € pro Spieler
+    - Teilnahme an Deutschen Mannschaftsmeisterschaften 30,00 € pro Spieler
+    - Teilnahme an Deutschen-Einzelmeisterschaften 60,00 € pro Spieler
+
+    Ein höherer Zuschuss ist in Einzelfällen möglich.
+    Die Entscheidung darüber trifft der Vorstand nach Eingang eines schriftlichen Antrages.
+    Für Mädchen werden die Zuschüsse auch ohne Qualifizierung gewährt.
+
+15. Für die Teilnahme von Mannschaften des Vereins an überregionalen Meisterschaften
+kann auf Beschluss des Vorstandes ein Zuschuss von höchstens 150,00 € gezahlt werden.
+
+16. Für die aktive Teilnahme an Schachturnieren werden allen Mitgliedern älter 18 Jahre
+Zuschüsse in Höhe von maximal 50,00 € gegen Beleg nach folgender Maßgabe gewährt:
+DWZ (oder ELO bei Spielern ohne DWZ) ab 1900 (1600 w) = 1 Turnier pro Jahr
+
+17. Aufwandsentschädigungen
+Turnierleiter- und Schiedsrichterentschädigungen
+außer Vereinsmeisterschaften gemäß Veranstaltungsplan:
+
+    - Turnierleiter 25,00 €
+    - Schiedsrichter 15,00 €
+
+    Turnierleiterentschädigungen Vereinsmeisterschaften:
+
+    - Turnierleiter 25,00 €
+
+    Mannschaftsleiter:
+
+    - Pro Saison und Mannschaft 25,00 €
+
+    Übungsleiterentschädigungen:
+
+    Übungsleiter können pro Lehreinheit (45 min) einen Betrag bis zu 12,00 € erhalten.
+    Die konkrete Höhe wird nach Haushaltslage des Vereins vom Vorstand jährlich aktualisiert und beschlossen.
+
+18. Betreuung / Schiedsrichter von Einzel –und Mannschaftskämpfen der Jugend je Einsatztag
+
+    - Heimspiel: 10,00 €
+    - Auswärtsspiel (weniger als 8 Stunden): 10,00 €
+    - Auswärtsspiel (mehr als 8 Stunden): 20,00 €
+    - Auswärtsveranstaltung mit Übernachtung: 20,00 €
+
+    Die Übernachtungs- und Verpflegungskosten der durch den Verein bestellten Betreuer trägt der Verein.
+
+19. Lehrgangskosten für Trainer, Übungsleiter und Schiedsrichter
+
+    Lehrgangskosten für Trainer, Übungsleiter und Schiedsrichter können auf schriftlichen Antrag und Beschluss des Vorstandes teilweise oder voll erstattet     werden.
+
+20. Folgende Schreibarbeiten werden rückvergütet:
+
+    - je A4-Original-Erstellung: 0,25 €
+    - je A4-Kopie: 0,10 €
+
+21. Für die Gestaltung von Urkunden werden gezahlt:
+
+    - Farbdruck: 1,00 € pro Urkunde
+    - Schwarz/Weiß-Druck 0,50 € pro Urkunde
+
+22. Portokosten für die Zustellung von wichtigen Schreiben (z.B. Einladungen für besondere Turniere, Beitrags- und Mahnschreiben) werden übernommen, soweit sie erforderlich sind.
+
+23. Änderungen der Finanzordnung, auch einzelner Sätze, bedürfen des Beschlusses der Jahreshauptversammlung.
+
+24. Die Finanzordnung tritt am 14.02.2025 in Kraft.
