@@ -89,7 +89,10 @@ außer Vereinsmeisterschaften gemäß Veranstaltungsplan:
     Turnierleiterentschädigungen Vereinsmeisterschaften:
 
     - Turnierleiter 25,00 €
-    - Mannschaftsleiter 25,00 €/Saison und Mannschaft
+
+    Mannschaftsleiter:
+
+    - Pro Saison und Mannschaft 25,00 €
 
     Übungsleiterentschädigungen:
 

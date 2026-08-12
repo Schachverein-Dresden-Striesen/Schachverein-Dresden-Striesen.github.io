@@ -100,13 +100,13 @@ Die Rechte und Pflichten der Mitglieder sowie aller Organe des Vereins werden du
 
 Beschlussfähige Organe sind in dieser Reihenfolge:
 
-    a) die Jahreshauptversammlung 
-    
-    b) die außerordentliche Mitgliederversammlung 
-    
-    c) der Vorstand 
-    
-    d) das Schiedsgericht
+a) die Jahreshauptversammlung
+
+b) die außerordentliche Mitgliederversammlung
+
+c) der Vorstand
+
+d) das Schiedsgericht
 
 ### § 10 Die Jahreshauptversammlung
 
