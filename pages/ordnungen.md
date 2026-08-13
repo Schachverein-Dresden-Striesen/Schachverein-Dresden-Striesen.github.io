@@ -11,7 +11,7 @@ sidebar:
 
 - [Finanzordnung](/files/ordnungen/20250214%20Finanzordnung.pdf) — [Textfassung](/finanzordnung)
 - [Wettkampf- und Turnierordnung](/files/ordnungen/20260708%20WTO.pdf)
-- [Jugendordnung](/files/ordnungen/20240702%20Jugendordnung.pdf)
+- [Jugendordnung](/files/ordnungen/20240702%20Jugendordnung.pdf) — [Textfassung](/jugendordnung)
 - [Ehrenordnung](/files/ordnungen/20260708%20Ehrenordnung.pdf)
 
 ## weitere Dokumente
