@@ -7,11 +7,17 @@ sidebar:
 
 Unser Verein legt großen Wert auf die Förderung des Nachwuchses im Schachsport.
 
+## Trainingszeiten
+
+Großer Vereinsabend: siehe [Terminpläne](/pages/terminplaene.md)
+
+[PDF Trainingstermine Dienstags im Freiraum (August-Februar 2027)](/files/terminplaene/Trainingstermine%20Schach%20Freiraum%20August-Feb2027.pdf)
+
+[PDF Trainingstermine Mittwochs im Nexo Raum 218 (August-Februar 2027)](/files/terminplaene/Trainingstermine%20Schach%20Nexö%202026-08-14.pdf)
+
 ## Jugendmannschaften
 
 Unsere Jugendmannschaften nehmen an verschiedenen Ligen teil:
-
-### Saison 2025/26
 
 - [**Sachsenliga U16**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1817963&pageState=vorrunde&championship=Sachsen+Jugend+25%2F26&group=4441)
 - [**Bezirksliga U20**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818186&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=4464)
@@ -27,14 +33,6 @@ Unsere Jugendmannschaften nehmen an verschiedenen Ligen teil:
 Informationen zur Teilnahme an den Deutschen Meisterschaften:
 
 [→ SV Dresden-Striesen Teilnahmen DVM](https://schach.in/sv-dresden-striesen)
-
-## Jugendgruppen
-
-*[Informationen zu unseren verschiedenen Jugendgruppen nach Altersklassen.](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/issues/54)*
-
-## Trainingszeiten
-
-*[Übersicht über die Trainingszeiten für Kinder und Jugendliche.](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/issues/55)*
 
 ## Jugendturniere
 
