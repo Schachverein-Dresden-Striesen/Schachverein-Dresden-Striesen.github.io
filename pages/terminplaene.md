@@ -39,7 +39,8 @@ _Sonderveranstaltungen, Feiern und Vereinsfeste._
 
 ## Ferienzeiten
 
-[Issue 12](https://github.com/Schachverein-Dresden-Striesen/Vereins-Wiki/issues/12)
+In den Ferienzeiten [Sachsens](https://www.schulferien.org/deutschland/ferien/sachsen/) ist ein offener Vereinsabend mit den Erwachsenen bis 21:30 Uhr, für Jugend ab 16:30 Uhr, üblich.
+An Feiertagen wird normalerweise kein Training organisiert.
 
 ---
 
