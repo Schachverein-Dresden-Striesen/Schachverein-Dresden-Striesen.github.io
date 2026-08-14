@@ -15,19 +15,15 @@ _Regelmäßige Termine für das Vereinsleben._
 
 [Terminplan Jugend als PDF herunterladen (Stand 24.07.2025)](/files/terminplaene/Terminplan Jugend Herbst 2025-07-24.pdf)
 
-[Trainingstermine Dienstags im Freiraum (Januar–Juli 2026)](/files/terminplaene/Trainingstermine%20Schach%20Freiraum%20Januar-Juli2026.pdf)
-
-[Trainingstermine Mittwochs Schach Nexo (Januar–Juli 2026)](/files/terminplaene/Trainingstermine%20Schach%20Nexo%20Januar-Juli2026.pdf)
-
 ## Turniertermine
 
 _Übersicht über anstehende Turniere und Wettkämpfe._
 
-<https://www.schulschach-sachsen.de/>
+<https://www.schachverband-sachsen.de/> und <https://www.schachbund.de/>
 
 <https://www.jugendschachbund-sachsen.de/> und <https://www.deutsche-schachjugend.de/>
 
-<https://www.schachverband-sachsen.de/> und <https://www.schachbund.de/>
+<https://www.schulschach-sachsen.de/>
 
 ## Versammlungen
 
