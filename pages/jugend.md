@@ -9,11 +9,11 @@ Unser Verein legt großen Wert auf die Förderung des Nachwuchses im Schachsport
 
 ## Trainingszeiten
 
-Großer Vereinsabend: siehe [Terminpläne](/pages/terminplaene.md)
+Großer Vereinsabend: siehe [Terminpläne](/terminplaene)
 
 [PDF Trainingstermine Dienstags im Freiraum (August-Februar 2027)](/files/terminplaene/Trainingstermine%20Schach%20Freiraum%20August-Feb2027.pdf)
 
-[PDF Trainingstermine Mittwochs im Nexo Raum 218 (August-Februar 2027)](/files/terminplaene/Trainingstermine%20Schach%20Nexö%202026-08-14.pdf)
+[PDF Trainingstermine Mittwochs im Nexo Raum 218 (August-Februar 2027)](/files/terminplaene/Trainingstermine-Schach-Nexoe-2026-08-14.pdf)
 
 ## Jugendmannschaften
 
