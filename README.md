@@ -30,7 +30,7 @@ Aktueller Webseite-Meilenstein: [Milestones](https://github.com/Schachverein-Dre
 
 ### Von der Idee bis zur Veröffentlichung
 
-Unser Mitwirkungsprozess ist bewusst offen und nachvollziehbar. Wer ähnliche redaktionelle Workflows sucht, findet eine gute Einordnung auch im README der [Finanzordnung der Deutschen Schachjugend](https://github.com/Schachjugend/Finanzordnung/blob/master/README.md), das auf [bundesgit](https://github.com/bundestag/gesetze) verweist.
+Unser Mitwirkungsprozess ist bewusst offen und nachvollziehbar. Wer ähnliche redaktionelle Workflows sucht, findet eine gute Einordnung auch im README der [Finanzordnung der Deutschen Schachjugend](https://github.com/Schachjugend/Finanzordnung/blob/master/README.md); dort wird auch auf [bundesgit (`bundestag/gesetze`)](https://github.com/bundestag/gesetze) verwiesen.
 
 ```mermaid
 flowchart LR
@@ -39,7 +39,7 @@ flowchart LR
     C --> D[Pull Request erstellen]
     D --> E[Automatische Jekyll-Prüfung]
     E --> F[Review und Freigabe]
-    F --> G[Merge in den website-Branch]
+    F --> G[Änderung zusammenführen]
     G --> H[Veröffentlichung über GitHub Pages]
 ```
 
