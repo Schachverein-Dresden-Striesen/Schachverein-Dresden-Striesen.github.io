@@ -28,6 +28,23 @@ Dies ermöglicht es Copilot, Ruby-Dependencies automatisch zu installieren und d
 Beiträge sind willkommen! Bitte erstellen Sie einen Pull Request oder öffnen Sie ein [Issue](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/issues) für Vorschläge oder Verbesserungen.
 Aktueller Webseite-Meilenstein: [Milestones](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/milestone/1).
 
+### Von der Idee bis zur Veröffentlichung
+
+Unser Mitwirkungsprozess ist bewusst offen und nachvollziehbar. Wer ähnliche redaktionelle Workflows sucht, findet eine gute Einordnung auch im README der [Finanzordnung der Deutschen Schachjugend](https://github.com/Schachjugend/Finanzordnung/blob/master/README.md), das auf [bundesgit](https://github.com/bundestag/gesetze) verweist.
+
+```mermaid
+flowchart LR
+    A[Änderungsidee oder Fundstelle] --> B[Issue anlegen oder Thema abstimmen]
+    B --> C[Inhalt in Markdown bearbeiten]
+    C --> D[Pull Request erstellen]
+    D --> E[Automatische Jekyll-Prüfung]
+    E --> F[Review und Freigabe]
+    F --> G[Merge in den website-Branch]
+    G --> H[Veröffentlichung über GitHub Pages]
+```
+
+Kurz gesagt: Idee notieren, Änderung vorschlagen, automatisch prüfen lassen und anschließend veröffentlichen.
+
 
 Bei Fragen schaue auch durch die 
 - [Historie an Pull-Requests](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/pulls?q=is%3Apr) 
