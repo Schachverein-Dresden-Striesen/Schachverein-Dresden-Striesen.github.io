@@ -13,7 +13,7 @@ _Regelmäßige Termine für das Vereinsleben._
 
 [Terminplan Erwachsene als PDF herunterladen (Stand 18.08.2025)](/files/terminplaene/20260705-Terminplan-2025-2026-Erwachsene.pdf)
 
-[Terminplan Jugend als PDF herunterladen (Stand 24.07.2025)](/files/terminplaene/Terminplan Jugend Herbst 2025-07-24.pdf)
+[Terminplan Jugend als PDF (Stand 16.08.2026)](/files/terminplaene/Terminplan-Jugend-Herbst-2026-08-16.pdf)
 
 ## Turniertermine
 
@@ -27,11 +27,20 @@ _Übersicht über anstehende Turniere und Wettkämpfe._
 
 ## Versammlungen
 
-[Issue 13](https://github.com/Schachverein-Dresden-Striesen/Vereins-Wiki/issues/13)
+Am Freitag, 21.08.2026, 18:45 Uhr findet in unserem Spiellokal
 
-## Besondere Veranstaltungen
+Martin-Andersen-Nexö-Gymnasium, Haydnstraße 49 - Raum 020
 
-_Sonderveranstaltungen, Feiern und Vereinsfeste._
+unsere diesjährige Zusammenkunft für die Vorbereitung der neuen Spielsaison 2026/2027 statt.
+
+Die Tagesordnung beinhaltet folgende Punkte:
+
+1. Ehrung besonders verdienstvoller Mitglieder
+2. Siegerehrung der vergangenen Spielsaison 2025/2026
+3. Vorstellung der vereinsinternen Veranstaltungen 2026/2027
+4. Vorstellung des Aufstellkonzeptes unserer Erwachsenenmannschaften 2026/2027
+   - Diskussion und Beschluss der Mannschaftsaufstellungen
+   - Wahl der Mannschaftsleiter
 
 ## Ferienzeiten
 
