@@ -38,10 +38,16 @@ Informationen zur Teilnahme an den Deutschen Meisterschaften:
 
 Ergebnisse unserer Jugendturniere auf chess-results.com:
 
+### Saison 2026/27
+
+| Turnier | Zeitraum | Ergebnisse |
+| ------- | -------- | ---------- |
+| [Jugend-Stadteinzelmeisterschaft Dresden 2026](https://s1.chess-results.com/tnr1478755.aspx?lan=0&art=79&SNode=S0){:target="_blank"} | 22.08.2026 – 23.08.2026 | Stadtmeisterschaft im Rathaus mit 83 Teilnehmern (16 Mädchen) |
+
 ### Saison 2025/26
 
 | Turnier | Zeitraum | Ergebnisse |
-|---------|----------|------------|
+| ------- | -------- | ---------- |
 | [Jugend-Frühling Dresden-Striesen 2026](https://s2.chess-results.com/tnr1360162.aspx?lan=0&art=1&SNode=S0){:target="_blank"} | 27.02. – 05.06.2026 | Frühlingsturnier der Jugend mit 70 Teilnehmern |
 | [Tandem-Turnier Striesen Winter 2026](https://s2.chess-results.com/tnr1347913.aspx?lan=0&art=1&SNode=S0){:target="_blank"} | 06.02.2026 | Schnellschachturnier im Tandem-Format (7 min) |
 | [Jugend-Rangliste 2025/26](https://s2.chess-results.com/tnr1252302.aspx?lan=0&art=1&SNode=S0){:target="_blank"} | 29.08.2025 – 01.06.2026 | Vereinsinterne Jugend-Rangliste der Saison 2025/26 |
@@ -49,6 +55,7 @@ Ergebnisse unserer Jugendturniere auf chess-results.com:
 | [Tandem-Turnier Striesen Weihnachten 2025](https://s2.chess-results.com/tnr1319807.aspx?lan=0&art=1&SNode=S0){:target="_blank"} | 19.12.2025 | Weihnachtliches Tandem-Turnier (7 min), 25 Teilnehmer |
 | [Adventsturnier 2025](https://s2.chess-results.com/tnr1311906.aspx?lan=0&art=1&SNode=S0){:target="_blank"} | 05.12.2025 | Adventsturnier der Jugend (10'+15''), 40 Teilnehmer |
 | [Jugend-Herbst Dresden-Striesen 2025](https://s2.chess-results.com/tnr1238984.aspx?lan=0&art=1&SNode=S0){:target="_blank"} | 22.08.2025 – 30.01.2026 | Herbstturnier der Jugend mit 72 Teilnehmern |
+| [Jugend-Stadteinzelmeisterschaft Dresden 2025](https://s3.chess-results.com/tnr1238964.aspx?lan=0&art=79&SNode=S0){:target="_blank"} | 23.08.2025 – 24.08.2025 | Stadtmeisterschaft im Rathaus mit 82 Teilnehmern (17 Mädchen) |
 
 ### Saison 2024/25
 
