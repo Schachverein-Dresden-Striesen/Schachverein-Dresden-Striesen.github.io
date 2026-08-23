@@ -23,7 +23,7 @@ Aktuelle Ausschreibungen für Turniere und Veranstaltungen.
 
 ## Jugendturniere
 
-*Spezielle Ausschreibungen für Kinder- und Jugendturniere.*
+[20. Striesener Kinder- und Jugendsommerschachfest 06.09.2026](</files/ausschreibungen/Einladung-20_Sommerschachfest-2026.pdf>)
 
 ## Anmeldeverfahren
 
