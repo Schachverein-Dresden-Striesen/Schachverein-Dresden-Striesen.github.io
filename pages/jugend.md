@@ -59,14 +59,7 @@ Siehe auch: [→ Ausschreibungen Jugend](ausschreibungen.md#jugendturniere)
 | [Jugend-Herbst Dresden-Striesen 2025](https://s2.chess-results.com/tnr1238984.aspx?lan=0&art=1&SNode=S0){:target="_blank"} | 22.08.2025 – 30.01.2026 | Herbstturnier der Jugend mit 72 Teilnehmern |
 | [Jugend-Stadteinzelmeisterschaft Dresden 2025](https://s3.chess-results.com/tnr1238964.aspx?lan=0&art=79&SNode=S0){:target="_blank"} | 23.08.2025 – 24.08.2025 | Stadtmeisterschaft im Rathaus mit 82 Teilnehmern (17 Mädchen) |
 
-### Saison 2024/25
-
-| Turnier | Zeitraum | Ergebnisse |
-|---------|----------|------------|
-| [Jugend-Frühling Dresden-Striesen 2025](https://s2.chess-results.com/tnr1104691.aspx?lan=0&art=1&SNode=S0){:target="_blank"} | 24.01. – 06.06.2025 | Frühlingsturnier der Jugend mit 57 Teilnehmern |
-| [Jugend-Rangliste 2024/25](https://s2.chess-results.com/tnr1101129.aspx?lan=0&art=1&SNode=S0){:target="_blank"} | 23.08.2024 – 20.06.2025 | Vereinsinterne Jugend-Rangliste der Saison 2024/25 |
-
-Ältere Turnierergebnisse sind im [Archiv](/archiv#jugendturniere-archiv) zu finden.
+Ältere Turnierergebnisse sind im [Archiv](archiv.md#jugendturniere-archiv) zu finden.
 
 ## Die Mädchen im Verein
 
