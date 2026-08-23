@@ -36,7 +36,9 @@ Informationen zur Teilnahme an den Deutschen Meisterschaften:
 
 ## Jugendturniere
 
-Ergebnisse unserer Jugendturniere auf chess-results.com:
+Siehe auch: [→ Ausschreibungen Jugend](ausschreibungen.md#jugendturniere)
+
+---
 
 ### Saison 2026/27
 
