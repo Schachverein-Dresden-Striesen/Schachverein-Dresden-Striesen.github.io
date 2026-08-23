@@ -25,23 +25,6 @@ _Übersicht über anstehende Turniere und Wettkämpfe._
 
 <https://www.schulschach-sachsen.de/>
 
-## Versammlungen
-
-Am Freitag, 21.08.2026, 18:45 Uhr findet in unserem Spiellokal
-
-Martin-Andersen-Nexö-Gymnasium, Haydnstraße 49 - Raum 020
-
-unsere diesjährige Zusammenkunft für die Vorbereitung der neuen Spielsaison 2026/2027 statt.
-
-Die Tagesordnung beinhaltet folgende Punkte:
-
-1. Ehrung besonders verdienstvoller Mitglieder
-2. Siegerehrung der vergangenen Spielsaison 2025/2026
-3. Vorstellung der vereinsinternen Veranstaltungen 2026/2027
-4. Vorstellung des Aufstellkonzeptes unserer Erwachsenenmannschaften 2026/2027
-   - Diskussion und Beschluss der Mannschaftsaufstellungen
-   - Wahl der Mannschaftsleiter
-
 ## Ferienzeiten
 
 In den Ferienzeiten [Sachsens](https://www.schulferien.org/deutschland/ferien/sachsen/) ist ein offener Vereinsabend mit den Erwachsenen bis 21:30 Uhr, für Jugend ab 16:30 Uhr, üblich.
