@@ -16,7 +16,9 @@ Die Deutsche Wertungszahl (DWZ) ist das offizielle Bewertungssystem für Schachs
 
 ## Einmalige DWZ-Anhebung bis DWZ 2110
 
-Der Deutsche Schachbund (DSB) hat eine einmalige DWZ-Anhebung bis zur DWZ 2110 durchgeführt. Diese Anhebung wurde bereits automatisch für alle Mitglieder angewendet. Eine Anmeldung ist nur erforderlich, um die Entwicklung und Historie der eigenen DWZ im DSB-Portal anzuschauen:
+Der Deutsche Schachbund (DSB) hat eine einmalige DWZ-Anhebung bis zur DWZ 2110 durchgeführt. Diese Anhebung wurde bereits automatisch für alle Mitglieder angewendet. 
+
+Eine Anmeldung ist nur erforderlich, um die Entwicklung und Historie der eigenen DWZ im DSB-Portal anzuschauen:
 
 1. [Einmalige DWZ-Anhebung bis DWZ 2110 - Informationen des DSB](https://www.schachbund.de/einmalige-dwz-anhebung-bis-dwz-2110.html){:target="_blank"}
 1. [DSB-Portal zur Einsicht der DWZ-Historie](https://www.schachbund.de/anmelden.html){:target="_blank"}
