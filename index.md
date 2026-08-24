@@ -18,30 +18,6 @@ am **Samstag 22.08.26 und Sonntag 23.08.26 im Festsaal Rathaus Dresden** stattge
 
 Ergebnisse der Gruppen: [U8-U10](https://s3.chess-results.com/tnr1478737.aspx?lan=0&art=1&SNode=S0) & [U12](https://s3.chess-results.com/tnr1478747.aspx?lan=0&art=1&SNode=S0) & [U14](https://s2.chess-results.com/tnr1478750.aspx?lan=0&art=1&SNode=S0) & [U16-U20](https://s3.chess-results.com/tnr1478755.aspx?lan=0&art=1&SNode=S0)
 
-### Einladung zur Auszeichnung/Siegerehrung 2025/26 und Mannschaftsaufstellung 2026/27
-
-Liebe Schachfreunde,
-
-am Freitag, 21.08.2026, 18:45 Uhr findet in unserem Spiellokal
-
-Martin-Andersen-Nexö-Gymnasium - Raum 020  
-Haydnstraße 49  
-01309 Dresden
-
-unsere diesjährige Zusammenkunft für die Vorbereitung der neuen Spielsaison 2026/2027 statt.
-
-Die Tagesordnung beinhaltet folgende Punkte:
-
-1. Ehrung besonders verdienstvoller Mitglieder
-2. Siegerehrung der vergangenen Spielsaison 2025/2026
-3. Vorstellung der vereinsinternen Veranstaltungen 2026/2027
-4. Vorstellung des Aufstellkonzeptes unserer Erwachsenenmannschaften 2026/2027
-   - Diskussion und Beschluss der Mannschaftsaufstellungen
-   - Wahl der Mannschaftsleiter
-
-Orland Krug  
-1.Vorsitzender
-
 <div class="notice--warning" markdown="1">
 <div class="issue-highlight-title">Wichtiger Hinweis</div>
 (Block versteckt durch css in _includes/head/custom.html)
