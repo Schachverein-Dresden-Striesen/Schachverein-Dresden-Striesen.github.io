@@ -38,6 +38,7 @@ Im Fechtergebäude befindet sich der Raum am **linken** Gang - siehe [Karte von 
 ## Trainingszeiten
 
 - Erwachsenentraining: **Freitags 16:30–21:00 Uhr** im **Manos, Raum 020**
+- Jugendtraining: **Freitags 16:30–18:30 Uhr** im **Martin-Andersen-Nexö-Gymnasium, Raum 019**
 - Jugendtraining: **Dienstags 16:30–18:00 Uhr** im **Freiraum, Borsbergstraße 23b**
 - Jugendtraining: **Mittwochs 15:00–16:30 Uhr** im **Martin-Andersen-Nexö-Gymnasium, Raum 218**
 
