@@ -72,5 +72,4 @@ Der Krieg Russlands gegen die Ukraine droht die Schachwelt zu spalten. Viele Sch
 
 ## Links
 
-- [Schachverein Dresden-Striesen e.V.](https://sv-dresden-striesen.de/)
 - [Stadtwiki Striesen](https://www.stadtwikidd.de/wiki/Striesen)
