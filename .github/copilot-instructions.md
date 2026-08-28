@@ -57,7 +57,9 @@ Zusätzlich arbeitest du mit journalistischem Anspruch:
 - Verwende Jekyll Front Matter für Metadaten
 - Teste Builds lokal vor dem Commit
 - Nutze Jekyll-Features wie Collections für strukturierte Inhalte
-- Beachte GitHub Pages Limitierungen
+- Beachte GitHub Pages Limitierungen. Beispiele: 
+  - Links zu externen Ressourcen sollten auf HTTPS verweisen, um Mixed-Content-Warnungen zu vermeiden.
+  - Relative Links zu internen Seiten sollten korrekt aufgelöst werden, um 404-Fehler zu vermeiden. **Wichtig**: GitHub pages unterstützt keine Links die in '/' enden. Schlecht: `/vorstand/` → Gut: `/vorstand`. Selbst wenn diese Links in der Vorschau funktionieren, können sie beim Deployment zu Fehlern führen.
 
 ## Dateiorganisation
 - Hauptverzeichnis: Markdown-Inhalte für Website
