@@ -13,7 +13,7 @@ _Regelmäßige Termine für das Vereinsleben._
 
 [Terminplan Erwachsene als PDF herunterladen (Stand 20.08.2026)](/files/terminplaene/20260820%20Terminplan%202026-2027%20Erwachsene.pdf)
 
-[Terminplan Jugend als PDF (Stand 16.08.2026)](/files/terminplaene/Terminplan-Jugend-Herbst-2026-08-16.pdf)
+[Terminplan Jugend als PDF (Stand 30.08.2026)](/files/terminplaene/Terminplan-Jugend-Herbst-2026-08-30.pdf)
 
 ## Turniertermine
 
