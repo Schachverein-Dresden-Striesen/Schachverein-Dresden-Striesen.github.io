@@ -18,6 +18,8 @@ main:
     url: /turnierberichte
   - title: "Schulschach"
     url: /schulschach
+  - title: "Schach-Material"
+    url: /material
   - title: "Archiv"
     url: /archiv
   - title: "Vorstand"
