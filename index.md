@@ -37,21 +37,19 @@ Im Fechtergebäude befindet sich der Raum am **linken** Gang - siehe [Karte von 
 
 ## Trainingszeiten
 
-### **Jugendtraining**
+### Jugendtraining
 Dienstags 16:30–18:00 Uhr im **Freiraum, Borsbergstraße 23b**
-
 
 Mittwochs 15:00–16:30 Uhr im **Martin-Andersen-Nexö-Gymnasium, Raum 218**
 
- 
 Freitags 16:30–18:30 Uhr im **Martin-Andersen-Nexö-Gymnasium, Raum 019**
-
 
 > Aktuelle Terminpläne und Ausschreibungen finden Sie auf der [Jugendseite](/jugend) und unter [Terminpläne](/terminplaene).
 
-### **Vereinsabend**
+### Vereinsabend
 
 Freitags 16:30–21:30 Uhr im **Manos**, Raum 020
+
 ## Über uns
 
 Unser Verein blickt auf eine lange und erfolgreiche Geschichte zurück. Erfahrt mehr über:
