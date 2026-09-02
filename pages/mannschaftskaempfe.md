@@ -5,13 +5,13 @@ sidebar:
   nav: "main"
 ---
 
-Informationen zu unseren Mannschaften und deren Kämpfen in den verschiedenen Ligen.
+Informationen zu unseren Mannschaften und ihrem Spielbetrieb in den verschiedenen Ligen.
 
 ## Aktuelle Saison
 
 ### Frauenmannschaft
 
-Ab der **Saison 2026/27** nimmt der SV Dresden-Striesen mit zwei **Frauenmannschaften** (jeweils 4er-Team) teil: eine in der [**Frauenregionalliga Ost**](https://ergebnisdienst.schachbund.de/bedt.php?liga=fro) und eine in der [**Sachsenliga Frauen**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/groupPage?championship=Sachsen+26%2F27&group=6579).
+Ab der **Saison 2026/27** nimmt der SV Dresden-Striesen mit zwei **Frauenmannschaften** (jeweils in 4er-Teams) teil: eine in der [**Frauenregionalliga Ost**](https://ergebnisdienst.schachbund.de/bedt.php?liga=fro) und eine in der [**Sachsenliga Frauen**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/groupPage?championship=Sachsen+26%2F27&group=6579).
 
 ### Unsere Mannschaften
 
@@ -19,7 +19,7 @@ Ab der **Saison 2026/27** nimmt der SV Dresden-Striesen mit zwei **Frauenmannsch
 - [**2. Mannschaft**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1823644&pageState=vorrunde&championship=Dresden+26%2F27&group=6590) - [1. Bezirksklasse B](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/groupPage?championship=Dresden+26%2F27&group=6590)
 - [**3. Mannschaft**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1823641&pageState=vorrunde&championship=Dresden+26%2F27&group=6582) - [1. Bezirksklasse A](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/groupPage?championship=Dresden+26%2F27&group=6582)
 - [**4. Mannschaft**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1823664&pageState=vorrunde&championship=Dresden+26%2F27&group=6580) - [2. Bezirksklasse A](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/groupPage?championship=Dresden+26%2F27&group=6580)
-- [**Frauenmannschaft 1**](https://ergebnisdienst.schachbund.de/bedt.php?liga=fro) - [Frauenregionalliga Ost](https://ergebnisdienst.schachbund.de/bedt.php?liga=fro)
+- [**Frauenmannschaft 1**](https://ergebnisdienst.schachbund.de/bedm.php?liga=fro&nummer=5) - [Frauenregionalliga Ost](https://ergebnisdienst.schachbund.de/bedt.php?liga=fro)
 - [**Frauenmannschaft 2**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1824242&pageState=vorrunde&championship=Sachsen+26%2F27&group=6579) - [Sachsenliga Frauen](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/groupPage?championship=Sachsen+26%2F27&group=6579)
 
 Übersicht über alle Vereinsmannschaften auf nuLiga:
