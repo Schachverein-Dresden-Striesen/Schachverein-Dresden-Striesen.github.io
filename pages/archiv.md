@@ -23,6 +23,13 @@ Historische Dokumente und Erinnerungen aus der langen Vereinsgeschichte.
 
 Ergebnisse älterer Jugendturniere auf chess-results.com:
 
+### Saison 2024/25
+
+| Turnier | Zeitraum | Ergebnisse |
+|---------|----------|------------|
+| [Jugend-Frühling Dresden-Striesen 2025](https://s2.chess-results.com/tnr1104691.aspx?lan=0&art=1&SNode=S0){:target="_blank"} | 24.01. – 06.06.2025 | Frühlingsturnier der Jugend mit 57 Teilnehmern |
+| [Jugend-Rangliste 2024/25](https://s2.chess-results.com/tnr1101129.aspx?lan=0&art=1&SNode=S0){:target="_blank"} | 23.08.2024 – 20.06.2025 | Vereinsinterne Jugend-Rangliste der Saison 2024/25 |
+
 ### Saison 2023/24 und 2024
 
 | Turnier | Zeitraum | Ergebnisse |
