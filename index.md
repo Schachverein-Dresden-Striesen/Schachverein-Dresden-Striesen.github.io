@@ -11,37 +11,12 @@ sidebar:
   nav: "main"
 ---
 
-### Einladung zur Auszeichnung/Siegerehrung 2025/26 und Mannschaftsaufstellung 2026/27
+### 22.-23. August 2026: Offene Jugend-Stadtmeisterschaft Dresden
 
-Liebe Schachfreunde,
+Das Turnier der Jahrgänge **2007 und jünger** hat mit 5 Runden
+am **Samstag 22.08.26 und Sonntag 23.08.26 im Festsaal Rathaus Dresden** stattgefunden.
 
-am Freitag, 21.08.2026, 18:45 Uhr findet in unserem Spiellokal 
-
-Martin-Andersen-Nexö-Gymnasium - Raum 020  
-Haydnstraße 49  
-01309 Dresden
-
-unsere diesjährige Zusammenkunft für die Vorbereitung der neuen Spielsaison 2026/2027 statt.
-
-Die Tagesordnung beinhaltet folgende Punkte:
-1. Ehrung besonders verdienstvoller Mitglieder
-2. Siegerehrung der vergangenen Spielsaison 2025/2026
-3. Vorstellung der vereinsinternen Veranstaltungen 2026/2027
-4. Vorstellung des Aufstellkonzeptes unserer Erwachsenenmannschaften 2026/2027
-   - Diskussion und Beschluss der Mannschaftsaufstellungen
-   - Wahl der Mannschaftsleiter
-
-Orland Krug  
-1.Vorsitzender 
-
-### <u>22.-23. August 2026: <br>Offene Jugend-Stadtmeisterschaft Dresden</u>
-
-Das Turnier der Jahrgänge **2007 und jünger** wird mit 5 Runden <br>
-am **Samstag 22.08.26 und Sonntag 23.08.26 im Festsaal Rathaus Dresden** stattfinden.
-
-Alle wichtigen Informationen in der [Ausschreibung!](</files/ausschreibungen/Ausschreibung-Offene-Jugend-Stadtmeisterschaft-Dresden-2026.pdf>)
-
-**Anmeldung per E-Mail bis 20.08.2026 an den Turnierleiter** ist wichtig, dass wir entsprechend Bestuhlung im großen Saal rechtzeitig planen können.
+Ergebnisse der Gruppen: [U8-U10](https://s3.chess-results.com/tnr1478737.aspx?lan=0&art=1&SNode=S0) & [U12](https://s3.chess-results.com/tnr1478747.aspx?lan=0&art=1&SNode=S0) & [U14](https://s2.chess-results.com/tnr1478750.aspx?lan=0&art=1&SNode=S0) & [U16-U20](https://s3.chess-results.com/tnr1478755.aspx?lan=0&art=1&SNode=S0)
 
 <div class="notice--warning" markdown="1">
 <div class="issue-highlight-title">Wichtiger Hinweis</div>
@@ -60,6 +35,16 @@ Im Fechtergebäude befindet sich der Raum am **linken** Gang - siehe [Karte von 
 > Die Jahresreinigung im Nexö-Gymnasium geht über einen längeren Zeitraum - wir werden ab dem 31. Juli  in gewohnten Räumen sein.
 </div>
 
+## Trainingszeiten
+
+- Vereinsabend: **Freitags 16:30–21:30 Uhr** im **Manos, Raum 020**
+  > Viele der Mitglieder treffen ab 18 Uhr ein. Es können bereits zuvor sowohl freie als auch Turnierpartien begonnen werden!
+- Jugendtraining: **Freitags 16:30–18:30 Uhr** im **Martin-Andersen-Nexö-Gymnasium, Raum 019**
+- Jugendtraining: **Dienstags 16:30–18:00 Uhr** im **Freiraum, Borsbergstraße 23b**
+- Jugendtraining: **Mittwochs 15:00–16:30 Uhr** im **Martin-Andersen-Nexö-Gymnasium, Raum 218**
+
+Aktuelle Terminpläne und Ausschreibungen finden Sie auf der [Jugendseite](/jugend) und unter [Terminpläne](/terminplaene).
+
 ## Über uns
 
 Unser Verein blickt auf eine lange und erfolgreiche Geschichte zurück. Erfahrt mehr über:
@@ -68,6 +53,6 @@ Unser Verein blickt auf eine lange und erfolgreiche Geschichte zurück. Erfahrt 
 
 ## Kontakt
 
-Bei Fragen oder Interesse an unserem Verein kontaktieren Sie uns gerne über unsere offiziellen Kanäle. Wir freuen uns auf Ihre Nachricht! Der [Vorstand](/vorstand/)
+Bei Fragen oder Interesse an unserem Verein kontaktieren Sie uns gerne über unsere offiziellen Kanäle. Wir freuen uns auf Ihre Nachricht! Der [Vorstand](/vorstand)
 
 ![Logo Stützpunktverein DOSB Integration durch Sport](/files/LogoStuetzpunktvereinIntegration.jpg) ![Logo zur Förderung durch den Freistaat Sachsen](/files/LogoFoerderungSachsen.jpg)

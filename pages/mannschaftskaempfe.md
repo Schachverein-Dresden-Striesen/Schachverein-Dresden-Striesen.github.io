@@ -13,20 +13,25 @@ Informationen zu unseren Mannschaften und deren Kämpfen in den verschiedenen Li
 
 Ab der **Saison 2026/27** nimmt der SV Dresden-Striesen mit einer **Frauenmannschaft** (4er-Team) an der [**Frauenregionalliga Ost**](https://ergebnisdienst.schachbund.de/bedt.php?liga=fro) teil.
 
-## Unsere Mannschaften
+### Unsere Mannschaften
+
+- [**1. Mannschaft**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1823542&pageState=vorrunde&championship=Sachsen+26%2F27&group=6568) - [Landesklasse A](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/groupPage?championship=Sachsen+26%2F27&group=6568)
+- [**2. Mannschaft**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1823644&pageState=vorrunde&championship=Dresden+26%2F27&group=6590) - [1. Bezirksklasse B](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/groupPage?championship=Dresden+26%2F27&group=6590)
+- [**3. Mannschaft**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1823641&pageState=vorrunde&championship=Dresden+26%2F27&group=6582) - [1. Bezirksklasse A](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/groupPage?championship=Dresden+26%2F27&group=6582)
+- [**4. Mannschaft**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1823664&pageState=vorrunde&championship=Dresden+26%2F27&group=6580) - [2. Bezirksklasse A](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/groupPage?championship=Dresden+26%2F27&group=6580)
 
 Übersicht über alle Vereinsmannschaften auf nuLiga:
 
 [→ Mannschaften des SV Dresden-Striesen auf nuLiga](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/clubTeams?club=10109)
 
-### Erwachsenenmannschaften
+## Vergangene Saisons
 
-**Saison 2025/26:**
+### Saison 2025/26
 
-- [**1. Mannschaft**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1817680&pageState=vorrunde&championship=Dresden+25%2F26&group=4421) - Bezirksliga
-- [**2. Mannschaft**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1817675&pageState=vorrunde&championship=Dresden+25%2F26&group=4421) - Bezirksliga
-- [**3. Mannschaft**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1817688&pageState=vorrunde&championship=Dresden+25%2F26&group=4418) - 1. Bezirksklasse
-- [**4. Mannschaft**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1817704&pageState=vorrunde&championship=Dresden+25%2F26&group=4427) - 2. Bezirksklasse
+- [**1. Mannschaft**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1817680&pageState=vorrunde&championship=Dresden+25%2F26&group=4421) - [Bezirksliga](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/groupPage?championship=Dresden+25%2F26&group=4421)
+- [**2. Mannschaft**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1817675&pageState=vorrunde&championship=Dresden+25%2F26&group=4421) - [Bezirksliga](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/groupPage?championship=Dresden+25%2F26&group=4421)
+- [**3. Mannschaft**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1817688&pageState=vorrunde&championship=Dresden+25%2F26&group=4418) - [1. Bezirksklasse A](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/groupPage?championship=Dresden+25%2F26&group=4418)
+- [**4. Mannschaft**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1817704&pageState=vorrunde&championship=Dresden+25%2F26&group=4427) - [2. Bezirksklasse A](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/groupPage?championship=Dresden+25%2F26&group=4427)
 
 ---
 
