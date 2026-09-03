@@ -96,7 +96,7 @@ Unser Verein wird auch am [**DSJ Mädchenschachkongress 2026**](https://www.deut
 
 ## Ansprechpartner
 
-Siehe: Kontakt zu den [Jugendspielleitern](/vorstand/#jugendspielleiter) und [Jugendsprecher Alexander](/vorstand/#jugendsprecher-und-schiedsrichterobmann).
+Siehe: Kontakt zu den [Jugendspielleitern](/vorstand#jugendspielleiter) und [Jugendsprecher Alexander](/vorstand#jugendsprecher-und-schiedsrichterobmann).
 
 ---
 
