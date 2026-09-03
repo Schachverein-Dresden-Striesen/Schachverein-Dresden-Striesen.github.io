@@ -8,8 +8,10 @@ sidebar:
 Herzlich Willkommen bei der Schachjugend Dresden-Striesen!
 
 ## Training
+
 ### Themen am Freitag
-- Einsteiger: König und Bauer gegen König 
+
+- Einsteiger: König und Bauer gegen König
 - Fortgeschrittene: Zeit in der Eröffnung
 
 > Falls ihr individuelle Fragen habt (Welche Eröffnungen, Wie trainier' ich zu Hause?, Was macht man gegen London?, ...), dann könnt ihr jederzeit die **Trainer** anschreiben!
@@ -54,13 +56,14 @@ Informationen zur Teilnahme an den Deutschen Meisterschaften:
 
 ### Saison 2026/27
 
-| Turnier | Zeitraum | Ergebnisse |
+| Turnier | Zeitraum | Kommentar |
 | ------- | -------- | ---------- |
+| [Jugend-Herbstmeisterschaft 2026](https://s3.chess-results.com/tnr1486078.aspx?lan=0&art=4&SNode=S0){:target="_blank"} | 28.08.2026 – 08.02.2027 | Langschach Turnier für Jahrgang 2007 und jünger zum Vereinsabend |
 | [Jugend-Stadteinzelmeisterschaft Dresden 2026](https://s1.chess-results.com/tnr1478755.aspx?lan=0&art=79&SNode=S0){:target="_blank"} | 22.08.2026 – 23.08.2026 | Stadtmeisterschaft im Rathaus mit 83 Teilnehmern (16 Mädchen) |
 
 ### Saison 2025/26 (Archiv)
 
-| Turnier | Zeitraum | Ergebnisse |
+| Turnier | Zeitraum | Kommentar |
 | ------- | -------- | ---------- |
 | [Jugend-Frühling Dresden-Striesen 2026](https://s2.chess-results.com/tnr1360162.aspx?lan=0&art=1&SNode=S0){:target="_blank"} | 27.02. – 05.06.2026 | Frühlingsturnier der Jugend mit 70 Teilnehmern |
 | [Tandem-Turnier Striesen Winter 2026](https://s2.chess-results.com/tnr1347913.aspx?lan=0&art=1&SNode=S0){:target="_blank"} | 06.02.2026 | Schnellschachturnier im Tandem-Format (7 min) |
