@@ -23,9 +23,17 @@ Informationen zum [Dienstags-](/files/terminplaene/Trainingstermine%20Schach%20F
 
 ## Aktuelles
 
-### Jugendmannschaften
+### Jugendmannschaften 2026/27
 
-Hier spielen unsere Jugendmannschaften:
+Hier spielen unsere Jugendmannschaften in der aktuellen Saison:
+
+[**Übersicht aller Mannschaften 2026/27**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/clubTeams?club=10109)
+
+*Für Informationen zu den jeweiligen Mannschaftsleitern wenden Sie sich bitte an den Verein.*
+
+### Jugendmannschaften 2025/26 (Vorherige Saison)
+
+In der Saison 2025/26 spielten unsere Jugendmannschaften in folgenden Ligen:
 
 - [**Sachsenliga U16**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1817963&pageState=vorrunde&championship=Sachsen+Jugend+25%2F26&group=4441)
 - [**Bezirksliga U20**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818186&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=4464)
@@ -33,8 +41,6 @@ Hier spielen unsere Jugendmannschaften:
 - [**Bezirksliga U14/2**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818203&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=5021)
 - [**Bezirksliga U12/1**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818075&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=4457)
 - [**Bezirksliga U12/2**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818073&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=4457)
-
-*Für Informationen zu den jeweiligen Mannschaftsleitern wenden Sie sich bitte an den Verein.*
 
 ### Deutsche Vereinsmeisterschaften
 
@@ -52,7 +58,7 @@ Informationen zur Teilnahme an den Deutschen Meisterschaften:
 | ------- | -------- | ---------- |
 | [Jugend-Stadteinzelmeisterschaft Dresden 2026](https://s1.chess-results.com/tnr1478755.aspx?lan=0&art=79&SNode=S0){:target="_blank"} | 22.08.2026 – 23.08.2026 | Stadtmeisterschaft im Rathaus mit 83 Teilnehmern (16 Mädchen) |
 
-### Saison 2025/26
+### Saison 2025/26 (Archiv)
 
 | Turnier | Zeitraum | Ergebnisse |
 | ------- | -------- | ---------- |
