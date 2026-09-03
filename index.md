@@ -48,7 +48,8 @@ Freitags 16:30–18:30 Uhr im **Martin-Andersen-Nexö-Gymnasium, Raum 019**
 
 ### Vereinsabend
 
-Freitags 16:30–21:30 Uhr im **Manos**, Raum 020
+Freitags 16:30–21:30 Uhr im **Manos**, Raum 020  
+Viele der Mitglieder treffen ab 18 Uhr ein. Es können bereits zuvor sowohl freie als auch Turnierpartien begonnen werden!
 
 ## Über uns
 
