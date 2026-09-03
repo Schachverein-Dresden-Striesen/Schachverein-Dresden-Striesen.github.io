@@ -16,7 +16,7 @@ Herzlich Willkommen bei der Schachjugend Dresden-Striesen!
 Im Rahmen des Freitagstrainings gibt es ein Schnellschach- und Langschachturnier!
 Siehe auch: [→ Ausschreibungen Jugend](ausschreibungen#jugendturniere)
 
-Alle Informationen zum Freitagstraining sind im [Terminplan](/files/terminplaene/Terminplan-Jugend-Herbst-2026-08-30.pdf) zu finden.
+Alle Informationen zu Turnieren am Freitag sind im [Terminplan](/files/terminplaene/Terminplan-Jugend-Herbst-2026-08-30.pdf) zu finden.
 
 Informationen zum [Dienstags-](/files/terminplaene/Trainingstermine%20Schach%20Freiraum%20August-Feb2027.pdf) und [Mittwochstraining](/files/terminplaene/Trainingstermine-Schach-Nexoe-2026-08-14.pdf) sind den jeweiligen PDF's gesammelt.
 
