@@ -15,7 +15,7 @@ Herzlich Willkommen bei der Schachjugend Dresden-Striesen!
 > Falls ihr individuelle Fragen habt (Welche Eröffnungen, Wie trainier' ich zu Hause?, Was macht man gegen London?, ...), dann könnt ihr jederzeit die **Trainer** anschreiben!
 >
 Im Rahmen des Freitagstrainings gibt es ein Schnellschach- und Langschachturnier!
-Siehe auch: [→ Ausschreibungen Jugend](ausschreibungen#jugendturniere)
+Siehe auch: [→ Ausschreibungen Jugend](/ausschreibungen#jugendturniere)
 
 Alle Informationen zu Turnieren am Freitag sind im [Terminplan](/files/terminplaene/Terminplan-Jugend-Herbst-2026-08-30.pdf) zu finden.
 
