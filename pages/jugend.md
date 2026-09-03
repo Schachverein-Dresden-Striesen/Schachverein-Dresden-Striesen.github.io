@@ -11,8 +11,9 @@ Herzlich Willkommen bei der Schachjugend Dresden-Striesen!
 ### Themen am Freitag
 - Einsteiger: König und Bauer gegen König 
 - Fortgeschrittene: Zeit in der Eröffnung
-> Falls Ihr individuelle Fragen habt (Welche Eröffnungen, Wie trainier ich zu Hause?, Was macht man gegen London?, ...), dann könnt Ihr jederzeit die **Trainer** anschreiben!
-> 
+
+> Falls ihr individuelle Fragen habt (Welche Eröffnungen, Wie trainier' ich zu Hause?, Was macht man gegen London?, ...), dann könnt ihr jederzeit die **Trainer** anschreiben!
+>
 Im Rahmen des Freitagstrainings gibt es ein Schnellschach- und Langschachturnier!
 Siehe auch: [→ Ausschreibungen Jugend](ausschreibungen#jugendturniere)
 
