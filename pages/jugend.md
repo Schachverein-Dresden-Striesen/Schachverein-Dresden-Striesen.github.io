@@ -1,23 +1,31 @@
 ---
 layout: single
-title: "Jugend"
+title: "Schachjugend Dresden-Striesen"
 sidebar:
   nav: "main"
 ---
 
-Unser Verein legt großen Wert auf die Förderung des Nachwuchses im Schachsport.
+Herzlich Willkommen bei der Schachjugend Dresden-Striesen!
 
-## Trainingszeiten
+## Training
+### Themen am Freitag
+- Einsteiger: König und Bauer gegen König 
+- Fortgeschrittene: Zeit in der Eröffnung
 
-Großer Vereinsabend: siehe [Terminpläne](/terminplaene)
+> Falls ihr individuelle Fragen habt (Welche Eröffnungen, Wie trainier' ich zu Hause?, Was macht man gegen London?, ...), dann könnt ihr jederzeit die **Trainer** anschreiben!
+>
+Im Rahmen des Freitagstrainings gibt es ein Schnellschach- und Langschachturnier!
+Siehe auch: [→ Ausschreibungen Jugend](/ausschreibungen#jugendturniere)
 
-[PDF Trainingstermine Dienstags im Freiraum (August-Februar 2027)](/files/terminplaene/Trainingstermine%20Schach%20Freiraum%20August-Feb2027.pdf)
+Alle Informationen zu Turnieren am Freitag sind im [Terminplan](/files/terminplaene/Terminplan-Jugend-Herbst-2026-08-30.pdf) zu finden.
 
-[PDF Trainingstermine Mittwochs im Nexo Raum 218 (August-Februar 2027)](/files/terminplaene/Trainingstermine-Schach-Nexoe-2026-08-14.pdf)
+Informationen zum [Dienstags-](/files/terminplaene/Trainingstermine%20Schach%20Freiraum%20August-Feb2027.pdf) und [Mittwochstraining](/files/terminplaene/Trainingstermine-Schach-Nexoe-2026-08-14.pdf) sind den jeweiligen PDF's gesammelt.
 
-## Jugendmannschaften
+## Aktuelles
 
-Unsere Jugendmannschaften nehmen an verschiedenen Ligen teil:
+### Jugendmannschaften
+
+Hier spielen unsere Jugendmannschaften:
 
 - [**Sachsenliga U16**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1817963&pageState=vorrunde&championship=Sachsen+Jugend+25%2F26&group=4441)
 - [**Bezirksliga U20**](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/teamPortrait?teamtable=1818186&pageState=vorrunde&championship=Dresden+Jugend+25%2F26&group=4464)
@@ -34,11 +42,9 @@ Informationen zur Teilnahme an den Deutschen Meisterschaften:
 
 [→ SV Dresden-Striesen Teilnahmen DVM](https://schach.in/sv-dresden-striesen)
 
-## Jugendturniere
-
-Siehe auch: [→ Ausschreibungen Jugend](ausschreibungen#jugendturniere)
-
 ---
+
+## Jugendturniere
 
 ### Saison 2026/27
 
@@ -65,9 +71,9 @@ Siehe auch: [→ Ausschreibungen Jugend](ausschreibungen#jugendturniere)
 
 Es sind von den Grundschülern bis zu den jungen Damen viele Mädchen im Verein (und Schachsport der Region) aktiv.
 
-Teilnahme an vielen Einzel- und Mannschaftsturnieren.
+Wir als Verein motivieren zur Teilnahme an vielen Einzel- und Mannschaftsturnieren und stellen diese Saison 2 Frauenmannschaften in der [Regionalliga](https://ergebnisdienst.schachbund.de/bedh.php?liga=fro) und [Sachsenliga](https://svs-schach.liga.nu/cgi-bin/WebObjects/nuLigaSCHACHDE.woa/wa/groupPage?championship=Sachsen+26%2F27&group=6579).
 
-Auf Initiative von Martin Röbke, dem USV TU Dresden, dem JSBS Leiter Mädchenschach und der Schachgemeinschaft Leipzig, organisieren wir ein offenes Mädchen-Schnellschachturnier aus.
+Auf Initiative von Martin Röbke, dem USV TU Dresden, dem JSBS Leiter Mädchenschach und der Schachgemeinschaft Leipzig, organisieren wir jedes Jahr ein offenes Mädchen-Schnellschachturnier.
 
 Hier geht es zum [Bericht 25.04.2026 - Mädchen-Schnellschachturnier des JSBS](/turnierberichte/20260425-Maedchen-Schnellschach-Turnier-Leipzig)
 
