@@ -13,7 +13,7 @@ sidebar:
 
 ## 25. September 2026: Open Integration und Jugendopen Integration
 
-Auch in diesem Jahr führen wir wieder unsere beiden schon traditionellen Schnellturniere innerhalb der [Interkulturellen Tage](https://www.dresden.de/apps_ext/IKT/?3) in Dresden durch. Es ist ein Gemeinschaftsprojekt mit dem Landessportbund Sachsen und seinem Programm **Integration durch Sport**. Gespielt werden am **Freitag, 25.09.2026** zwei Schnellturniere in der Aula des Dresdner „Martin-Andersen-Nexö-Gymnasium".
+Auch in diesem Jahr führen wir die schon traditionellen Schnellschachturniere innerhalb der [Interkulturellen Tage](https://www.dresden.de/de/leben/gesellschaft/migration/aktuelles/ikt.php) in Dresden durch. Es ist ein Gemeinschaftsprojekt mit dem Landessportbund Sachsen und seinem Programm **Integration durch Sport**. Gespielt werden am **Freitag, 25.09.2026** zwei Schnellturniere in der Aula des Dresdner „Martin-Andersen-Nexö-Gymnasium".
 > Zu beachten ist der Meldeschluss zu Runde 1:
 **16:00 Uhr** im Jugendopen (U14) und **16:30 Uhr** im Open.
 
@@ -23,6 +23,8 @@ Die kompletten Ausschreibungen sind hier einsehbar:
 
 - [Jugendopen Integration](/files/ausschreibungen/Ausschreibung%20Jugendopen%20Integration%202026.pdf)
 - [Open Integration](/files/ausschreibungen/Ausschreibung%20Open%20Integration%202026.pdf)
+
+Wir freuen uns auf Jung und Alt aus Dresden oder von weiter her!
 
 ## 22.-23. August 2026: Offene Jugend-Stadtmeisterschaft Dresden
 
