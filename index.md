@@ -13,7 +13,7 @@ sidebar:
 
 ## 25. September 2026: Open Integration und Jugendopen Integration
 
-Auch in diesem Jahr führen wir wieder unsere beiden schon traditionellen Schnellturniere innerhalb der `Interkulturellen Tage` in Dresden durch. Es ist ein Gemeinschaftsprojekt mit dem Landessportbund Sachsen und seinem Programm **Integration durch Sport**. Gespielt werden am **Freitag, 25.09.2026** zwei Schnellturniere in der Aula des Dresdner „Martin-Andersen-Nexö-Gymnasium".
+Auch in diesem Jahr führen wir wieder unsere beiden schon traditionellen Schnellturniere innerhalb der [Interkulturellen Tage](https://www.dresden.de/apps_ext/IKT/?3) in Dresden durch. Es ist ein Gemeinschaftsprojekt mit dem Landessportbund Sachsen und seinem Programm **Integration durch Sport**. Gespielt werden am **Freitag, 25.09.2026** zwei Schnellturniere in der Aula des Dresdner „Martin-Andersen-Nexö-Gymnasium".
 > Zu beachten ist der Meldeschluss zu Runde 1:
 **16:00 Uhr** im Jugendopen (U14) und **16:30 Uhr** im Open.
 
