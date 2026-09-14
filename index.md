@@ -11,7 +11,20 @@ sidebar:
   nav: "main"
 ---
 
-### 22.-23. August 2026: Offene Jugend-Stadtmeisterschaft Dresden
+## 25. September 2026: Open Integration und Jugendopen Integration
+
+Auch in diesem Jahr führen wir wieder unsere beiden schon traditionellen Schnellturniere innerhalb der `Interkulturellen Tage` in Dresden durch. Es ist ein Gemeinschaftsprojekt mit dem Landessportbund Sachsen und seinem Programm **Integration durch Sport**. Gespielt werden am **Freitag, 25.09.2026** zwei Schnellturniere in der Aula des Dresdner „Martin-Andersen-Nexö-Gymnasium".
+> Zu beachten ist der Meldeschluss zu Runde 1:
+**16:00 Uhr** im Jugendopen (U14) und **16:30 Uhr** im Open.
+
+Gespielt werden in beiden Turnieren **5 Runden Schweizer System**.
+
+Die kompletten Ausschreibungen sind hier einsehbar:
+
+- [Jugendopen Integration](/files/ausschreibungen/Ausschreibung%20Jugendopen%20Integration%202026.pdf)
+- [Open Integration](/files/ausschreibungen/Ausschreibung%20Open%20Integration%202026.pdf)
+
+## 22.-23. August 2026: Offene Jugend-Stadtmeisterschaft Dresden
 
 Das Turnier der Jahrgänge **2007 und jünger** hat mit 5 Runden
 am **Samstag 22.08.26 und Sonntag 23.08.26 im Festsaal Rathaus Dresden** stattgefunden.
@@ -38,6 +51,7 @@ Im Fechtergebäude befindet sich der Raum am **linken** Gang - siehe [Karte von 
 ## Trainingszeiten
 
 ### Jugendtraining
+
 Dienstags 16:30–18:00 Uhr im **Freiraum, Borsbergstraße 23b**
 
 Mittwochs 15:00–16:30 Uhr im **Martin-Andersen-Nexö-Gymnasium, Raum 218**
