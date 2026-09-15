@@ -14,7 +14,7 @@ import logging
 import re
 from dataclasses import asdict, dataclass
 from datetime import datetime
-from typing import Any
+from typing import Any, Literal
 
 from scraping.extractors import (
     HistoricalTournamentEntry,
@@ -78,6 +78,7 @@ class NormalizedMatch:
     result: float | None  # 1.0, 0.5, 0.0
     expected_value: float | None
     scoresheet_url: str | None
+    piece_color: Literal["white", "black"] | None  # Canonicalized piece color
     source_page: str
     snapshot_timestamp: datetime
 
@@ -145,8 +146,19 @@ class Normalizer:
         source_page: str,
         snapshot_timestamp: datetime,
     ) -> NormalizedMatch | None:
-        """Normalize a match result from tournament detail page."""
+        """Normalize a match result from tournament detail page.
+
+        Raises ValueError if piece_color is missing (ambiguous data).
+        """
         try:
+            # Check for missing piece_color - this flags ambiguous/malformed source data
+            if match.piece_color is None:
+                raise ValueError(
+                    f"Match result missing piece_color (ambiguous data): "
+                    f"opponent={match.opponent_name}, round={match.round}, "
+                    f"source={source_page}"
+                )
+
             return NormalizedMatch(
                 player=player,
                 tournament=tournament,
@@ -156,6 +168,7 @@ class Normalizer:
                 result=self._parse_result(match.result),
                 expected_value=self._parse_float(match.expected_value),
                 scoresheet_url=match.scoresheet_url,
+                piece_color=self._canonicalize_piece_color(match.piece_color),
                 source_page=source_page,
                 snapshot_timestamp=snapshot_timestamp,
             )
@@ -259,6 +272,33 @@ class Normalizer:
 
         # Try to parse as float
         return self._parse_float(result)
+
+    def _canonicalize_piece_color(self, color: str | None) -> Literal["white", "black"] | None:
+        """Canonicalize piece color to lowercase standard form.
+
+        Handles variants like "White", "Weiß", "w", "B" (black in German),
+        "Schwarz", etc. Returns "white", "black", or None.
+        Raises ValueError if an unrecognized variant is provided (data quality flag).
+        """
+        if not color:
+            return None
+
+        color = color.strip().lower()
+
+        # Map common variants to canonical form
+        white_variants = {"white", "w", "weiß", "weiss"}
+        black_variants = {"black", "b", "schwarz"}
+
+        if color in white_variants:
+            return "white"
+        elif color in black_variants:
+            return "black"
+
+        # Unrecognized variant - flag as data quality issue
+        raise ValueError(
+            f"Unrecognized piece color: '{color}' (expected 'white', 'black', or variant). "
+            f"This indicates ambiguous or malformed source data."
+        )
 
     def dedup_key(self, record: Any) -> str:
         """Generate a deduplication key for a record.

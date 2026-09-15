@@ -77,6 +77,7 @@ This is the detailed view: one row = one game played.
 - result: game result (1, 0.5, or 0)
 - expected_value: expected score for this game
 - score_sheet_url: URL to the match scoresheet (if available)
+- piece_color: the piece color ('white' or 'black') that the player used. Source: DWZ Spielberichtsbogen CSS class on result cell. ✅ **Implemented**: extracted from CSS classes, canonicalized variants (White, Weiß, w, Black, Schwarz, b), raises error if missing (ambiguous data)
 - captured_at: timestamp when this record was extracted
 
 ---

@@ -12,7 +12,7 @@ from __future__ import annotations
 import logging
 import re
 from dataclasses import dataclass
-from typing import Any
+from typing import Any, Literal
 from urllib.parse import urljoin
 
 from bs4 import BeautifulSoup
@@ -56,6 +56,7 @@ class MatchResult:
     result: str | None
     expected_value: str | None
     scoresheet_url: str | None
+    piece_color: Literal["white", "black"] | None  # Extracted from CSS class
 
 
 class ClubRosterScraper:
@@ -345,6 +346,15 @@ class TournamentDetailScraper:
         result = cols[4].get_text(strip=True) if len(cols) > 4 else None
         result = result if result else None
 
+        # Extract piece color from result cell CSS classes (fifth column)
+        piece_color = None
+        if len(cols) > 4:
+            result_classes = cols[4].get("class", [])
+            if "white" in result_classes:
+                piece_color = "white"
+            elif "black" in result_classes:
+                piece_color = "black"
+
         # Extract expected value (sixth column)
         expected_value = cols[5].get_text(strip=True) if len(cols) > 5 else None
         expected_value = expected_value if expected_value else None
@@ -356,4 +366,5 @@ class TournamentDetailScraper:
             result=result,
             expected_value=expected_value,
             scoresheet_url=scoresheet_url,
+            piece_color=piece_color,
         )

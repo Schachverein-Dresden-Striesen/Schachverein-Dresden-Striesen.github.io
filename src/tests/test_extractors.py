@@ -36,7 +36,24 @@ def tournament_detail_html() -> str:
     fixture_path = (
         Path(__file__).parent.parent.parent
         / "docs"
-        / "dwz-turniere-019f75b9-af1b-77c0-9614-6aaa54318656-019f75bb-27e6-7af4-9050-9065be61a5fc.html"
+        / (
+            "dwz-turniere-019f75b9-af1b-77c0-9614-6aaa54318656-"
+            "019f75bb-27e6-7af4-9050-9065be61a5fc.html"
+        )
+    )
+    return fixture_path.read_text(encoding="utf-8")
+
+
+@pytest.fixture
+def tournament_detail_html_black_pieces() -> str:
+    """Load a tournament detail fixture with black pieces."""
+    fixture_path = (
+        Path(__file__).parent.parent.parent
+        / "docs"
+        / (
+            "dwz-turniere-c20ee10e-fba0-4b31-9fc6-5539a037b5be-"
+            "edb2919d-dcce-46c2-91fb-ea8ab6a06389.html"
+        )
     )
     return fixture_path.read_text(encoding="utf-8")
 
@@ -192,6 +209,45 @@ class TestTournamentDetailScraper:
         for match in matches:
             assert match.round != "Σ"
             assert match.round != "Sum"
+
+    def test_extract_includes_piece_color_field(self, tournament_detail_html: str):
+        """Test that piece_color field is present in all matches."""
+        scraper = TournamentDetailScraper()
+        matches = scraper.extract(tournament_detail_html)
+
+        # All matches should have a piece_color attribute (may be None)
+        for match in matches:
+            assert hasattr(match, "piece_color")
+
+    def test_extract_white_pieces(self, tournament_detail_html: str):
+        """Test that white pieces are correctly extracted."""
+        scraper = TournamentDetailScraper()
+        matches = scraper.extract(tournament_detail_html)
+
+        # Should have at least one white piece match
+        white_matches = [m for m in matches if m.piece_color == "white"]
+        assert len(white_matches) > 0
+
+    def test_extract_black_pieces(self, tournament_detail_html_black_pieces: str):
+        """Test that black pieces are correctly extracted."""
+        scraper = TournamentDetailScraper()
+        matches = scraper.extract(tournament_detail_html_black_pieces)
+
+        # Should have at least one black piece match
+        black_matches = [m for m in matches if m.piece_color == "black"]
+        assert len(black_matches) > 0
+
+    def test_extract_mixed_piece_colors(self, tournament_detail_html_black_pieces: str):
+        """Test that a tournament can have both white and black pieces."""
+        scraper = TournamentDetailScraper()
+        matches = scraper.extract(tournament_detail_html_black_pieces)
+
+        # Should have both white and black pieces
+        white_matches = [m for m in matches if m.piece_color == "white"]
+        black_matches = [m for m in matches if m.piece_color == "black"]
+
+        assert len(white_matches) > 0
+        assert len(black_matches) > 0
 
 
 class TestExtractorIntegration:
