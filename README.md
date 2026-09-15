@@ -232,11 +232,22 @@ All code follows the conventions in [CODING_STANDARDS.md](CODING_STANDARDS.md).
 
 ### Pre-Commit Hooks
 
-Before committing, Husky runs automated checks (via `pre-commit`):
-- `black` formats Python files
-- `ruff` checks for linting violations
+Before committing, Husky automatically runs checks to ensure code quality:
+- **Formatting**: `black` auto-formats Python files to 100-char line length
+- **Linting**: `ruff` catches undefined names, import ordering, and style violations
+- **Type Checking**: `mypy` validates type annotations (strict mode on `src/`)
 
-Fix violations and recommit. You can skip with `git commit --no-verify` if needed.
+**What happens on commit:**
+1. `black` auto-fixes formatting issues (if it makes changes, re-stage and commit again)
+2. `ruff` auto-fixes some issues, reports others that need manual attention
+3. `mypy` checks types; any errors block the commit
+
+If checks fail, fix the reported errors and commit again. To skip checks (not recommended): `git commit --no-verify`.
+
+**Key references:**
+- See [CODING_STANDARDS.md](CODING_STANDARDS.md) for type annotation guidelines and data quality patterns
+- See `.lintstagedrc.json` for the exact check sequence
+- Run `python run_mypy.py` to check types without committing
 
 ### Running Checks Locally
 

@@ -46,19 +46,41 @@ ignore = []
 [tool.ruff.lint.per-file-ignores]
 "__init__.py" = ["F401"]  # allow unused imports in __init__
 
+# Type checking configuration with mypy (strict mode)
+# See CODING_STANDARDS.md for type annotation guidelines and patterns
+# Run type checking with: python run_mypy.py
 [tool.mypy]
-python_version = "3.10"
+# Target Python 3.14 (project minimum version)
+python_version = "3.14"
+
+# Warn when functions return values typed as Any (can hide type errors)
 warn_return_any = true
+
+# Warn if mypy config contains unused options (catches typos in settings)
 warn_unused_configs = true
+
+# STRICT MODE: Require type annotations on all function parameters and return types
+# This enforces high type coverage on public APIs and catches errors early
 disallow_untyped_defs = true
+
+# Allow untyped imports from third-party libraries (many lack stub files)
+# Set to false to catch missing stub imports; set to true for practicality with older packages
 disallow_any_unimported = false
+
+# Enable PEP 420 namespace packages (used by this project structure)
 namespace_packages = true
+
+# Ignore missing type stubs for third-party packages
+# Many packages don't provide .pyi stub files; mypy will check what it can infer
 ignore_missing_imports = true
 
+# Tests have more lenient type checking (mocks, fixtures often elude strict typing)
 [[tool.mypy.overrides]]
 module = "src.tests.*"
 disallow_untyped_defs = false
 
+# numpy stubs use Python 3.12+ syntax incompatible with 3.10 target
+# Ignore numpy errors to prevent "Type statement only supported in 3.12+" false positives
 [[tool.mypy.overrides]]
 module = "numpy.*"
 ignore_errors = true
