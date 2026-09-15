@@ -17,7 +17,7 @@ class ClubScraper:
 
     def open_browser(self) -> webdriver.Firefox:
         options = webdriver.FirefoxOptions()
-        options.headless = True
+        options.add_argument("--headless")
         driver = webdriver.Firefox(options=options)
         return driver
 
@@ -35,7 +35,8 @@ class ClubScraper:
         try:
             self.login(driver)
             driver.get(self.club_url)
-            return driver.page_source
+            page_source: str = driver.page_source
+            return page_source
         finally:
             driver.quit()
 

@@ -20,6 +20,7 @@ from __future__ import annotations
 import logging
 from datetime import datetime
 from pathlib import Path
+from typing import Any
 
 from normalize.normalizer import Normalizer
 from scraping.club_scraper import ClubScraper
@@ -128,7 +129,7 @@ class PlayerTournamentHistoryWorkflow:
 
     def _process_player_history(
         self,
-        player_ref: any,
+        player_ref: Any,
         club_snapshot_path: Path,
         result: WorkflowResult,
     ) -> None:
@@ -138,18 +139,12 @@ class PlayerTournamentHistoryWorkflow:
         # Fetch player profile page
         # (Note: In a real implementation, would use selenium_scraper to fetch)
         # For now, we'll assume the player profile page exists
-        player_profile_url = player_ref.profile_url
+        # player_profile_url = player_ref.profile_url
 
         # Extract year from profile URL for test fixture matching
         # In production, this would fetch fresh HTML from the URL
-        player_id = player_profile_url.split("/")[-1].replace(".html", "")
-
-        # Normalize player once
-        normalized_player = self.normalizer.normalize_player(
-            player_ref,
-            source_page=player_profile_url,
-            snapshot_timestamp=datetime.utcnow(),
-        )
+        # Note: player_id extraction here for future use in production
+        # (commented out to satisfy linter until used)
 
         # In a real implementation, would fetch player profile:
         # player_html = self.selenium_scraper.fetch_player_profile(player_profile_url)
@@ -160,7 +155,7 @@ class PlayerTournamentHistoryWorkflow:
     def _save_snapshot(self, name_prefix: str, html: str) -> Path:
         """Save raw HTML snapshot with timestamp."""
         timestamped_name = self.snapshot_store.timestamped_name(name_prefix, "html")
-        path = self.snapshot_store.save_raw_html(timestamped_name, html)
+        path: Path = self.snapshot_store.save_raw_html(timestamped_name, html)
         LOGGER.info(f"Saved snapshot to {path}")
         return path
 
@@ -168,7 +163,7 @@ class PlayerTournamentHistoryWorkflow:
 class WorkflowResult:
     """Result summary from the workflow execution."""
 
-    def __init__(self):
+    def __init__(self) -> None:
         """Initialize result tracking."""
         self.players_extracted: int = 0
         self.players_stored: int = 0
@@ -184,9 +179,12 @@ class WorkflowResult:
         """Format result summary."""
         summary = (
             f"\nWorkflow Result:\n"
-            f"  Players: {self.players_extracted} extracted, {self.players_stored} stored\n"
-            f"  Tournaments: {self.tournaments_extracted} extracted, {self.tournaments_stored} stored\n"
-            f"  Matches: {self.matches_extracted} extracted, {self.matches_stored} stored\n"
+            f"  Players: {self.players_extracted} extracted, "
+            f"{self.players_stored} stored\n"
+            f"  Tournaments: {self.tournaments_extracted} extracted, "
+            f"{self.tournaments_stored} stored\n"
+            f"  Matches: {self.matches_extracted} extracted, "
+            f"{self.matches_stored} stored\n"
             f"  Changes detected: {self.changes_detected}\n"
             f"  Ambiguous records: {self.ambiguous_records}"
         )

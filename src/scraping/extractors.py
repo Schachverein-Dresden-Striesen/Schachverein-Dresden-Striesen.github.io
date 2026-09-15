@@ -74,7 +74,7 @@ class ClubRosterScraper:
             List of PlayerReference objects with stable identities
         """
         soup = BeautifulSoup(html, "html.parser")
-        players = []
+        players: list[PlayerReference] = []
 
         # Find the main roster table
         table = soup.find("table", {"class": "body tablesorter"})
@@ -149,7 +149,7 @@ class PlayerHistoryScraper:
             List of HistoricalTournamentEntry objects
         """
         soup = BeautifulSoup(html, "html.parser")
-        tournaments = []
+        tournaments: list[HistoricalTournamentEntry] = []
 
         # Find the tournament history table
         table = soup.find("table", {"class": "body tablesorter"})
@@ -264,7 +264,7 @@ class TournamentDetailScraper:
             List of MatchResult objects
         """
         soup = BeautifulSoup(html, "html.parser")
-        matches = []
+        matches: list[MatchResult] = []
 
         # Find the tournament detail table (Spielberichtsbogen)
         # Look for table with thead containing "Runde", "Gegner" headers
@@ -280,7 +280,7 @@ class TournamentDetailScraper:
         tbody = table.find("tbody")
         if not tbody:
             LOGGER.warning("Could not find tbody in tournament detail table")
-            return tbody
+            return matches
 
         # Process each row (skip summary row with "Σ" or "Sum")
         for row in tbody.find_all("tr", recursive=False):
@@ -347,7 +347,7 @@ class TournamentDetailScraper:
         result = result if result else None
 
         # Extract piece color from result cell CSS classes (fifth column)
-        piece_color = None
+        piece_color: Literal["white", "black"] | None = None
         if len(cols) > 4:
             result_classes = cols[4].get("class", [])
             if "white" in result_classes:

@@ -36,6 +36,50 @@ def extract_players(html: str) -> list[PlayerReference]:
 
 Type annotations on local variables are optional but encouraged for complex types. 
 
+### Type Checking with mypy
+
+The project uses **mypy** for static type checking in pre-commit hooks. mypy catches common type errors before code review:
+
+**Running mypy locally:**
+```bash
+cd c:\Users\marti\Documents\GitHub\Schachverein-Dresden-Striesen
+python -m mypy src/ --ignore-missing-imports
+```
+
+**Type annotation guidelines:**
+- Use `Literal["value1", "value2"]` for constrained string types (e.g., `piece_color: Literal["white", "black"]`)
+- Use union types `X | Y` for optional or multiple possible types (e.g., `value: str | None`)
+- Avoid bare `str | None` for constrained enums — always use `Literal` instead
+- Type empty lists explicitly: `items: list[ItemType] = []` (not just `items = []`)
+- When raising errors for data quality issues, use `ValueError` with a clear message explaining why the data is invalid
+
+**Common patterns:**
+```python
+# Good: Constrained enum with Literal
+piece_color: Literal["white", "black"] | None = None
+if some_condition:
+    piece_color = "white"
+
+# Good: Explicit list type annotation
+players: list[PlayerReference] = []
+for row in rows:
+    players.append(extract_player(row))
+
+# Good: Data quality validation
+if not piece_color:
+    raise ValueError("piece_color is required but was None (data quality issue)")
+    
+return normalized_match
+```
+
+**mypy is strict by default** (Python 3.10+):
+- All public functions must have type annotations
+- All function arguments must have type annotations
+- Return types must be explicitly specified
+- Untyped functions in tests are allowed (override in pyproject.toml)
+
+Tests and temporary override settings are documented in `pyproject.toml` under `[tool.mypy]`.
+
 ## Docstrings
 
 Follow the existing project style: **one-line docstrings for simple functions, multi-line for complex ones.**

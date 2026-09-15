@@ -2,6 +2,7 @@
   "*.py": [
     "python -m black",
     "python -m ruff check --fix",
-    "python -m ruff check"
+    "python -m ruff check",
+    "python run_mypy.py"
   ]
 }
