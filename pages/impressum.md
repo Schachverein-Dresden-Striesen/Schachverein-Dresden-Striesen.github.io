@@ -1,8 +1,6 @@
 ---
 layout: single
 title: "Impressum"
-sidebar:
-  nav: "main"
 ---
 
 ## Impressum

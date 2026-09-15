@@ -2,8 +2,6 @@
 layout: single
 title: "Tags Übersicht"
 permalink: /tags/
-sidebar:
-  nav: "main"
 ---
 
 Diese Seite zeigt alle verwendeten Tags und die dazugehörigen Artikel.

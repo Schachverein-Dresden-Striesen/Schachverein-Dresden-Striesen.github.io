@@ -1,8 +1,6 @@
 ---
 layout: single
 title: "Schulschach"
-sidebar:
-  nav: "main"
 ---
 
 Unser Engagement für Schach an Schulen und in der Bildungsförderung.
