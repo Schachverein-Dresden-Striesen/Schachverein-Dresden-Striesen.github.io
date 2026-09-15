@@ -132,9 +132,7 @@ class ClubRosterScraper:
         if profile_url and not profile_url.startswith("http"):
             profile_url = urljoin(self.BASE_URL, profile_url)
 
-        return PlayerReference(
-            name=player_name, zps_number=zps_number, profile_url=profile_url
-        )
+        return PlayerReference(name=player_name, zps_number=zps_number, profile_url=profile_url)
 
 
 class PlayerHistoryScraper:
@@ -176,9 +174,7 @@ class PlayerHistoryScraper:
         LOGGER.info(f"Extracted {len(tournaments)} tournament entries from player profile")
         return tournaments
 
-    def _extract_tournament_row(
-        self, row: Any
-    ) -> HistoricalTournamentEntry | None:
+    def _extract_tournament_row(self, row: Any) -> HistoricalTournamentEntry | None:
         """Extract a single tournament entry from a table row.
 
         Expected columns:

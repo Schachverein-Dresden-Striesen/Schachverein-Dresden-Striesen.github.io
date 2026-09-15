@@ -1,7 +1,6 @@
 from __future__ import annotations
 
 import logging
-from datetime import datetime
 from typing import Any, Iterable
 
 from neo4j import GraphDatabase
@@ -21,8 +20,7 @@ class Neo4jClient:
     def create_player(self, player_name: str, club_id: str | None = None) -> None:
         with self.driver.session(database="neo4j") as session:
             session.run(
-                "MERGE (p:Player {name: $name}) "
-                "SET p.club_id = coalesce($club_id, p.club_id)",
+                "MERGE (p:Player {name: $name}) " "SET p.club_id = coalesce($club_id, p.club_id)",
                 name=player_name,
                 club_id=club_id,
             )

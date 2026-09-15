@@ -4,14 +4,15 @@ Tests for the scraper extractors using fixture HTML from docs/
 
 from __future__ import annotations
 
-import pytest
 from pathlib import Path
+
+import pytest
 
 from scraping.extractors import (
     ClubRosterScraper,
     PlayerHistoryScraper,
-    TournamentDetailScraper,
     PlayerReference,
+    TournamentDetailScraper,
 )
 
 
@@ -126,9 +127,7 @@ class TestPlayerHistoryScraper:
         tournaments = scraper.extract(player_profile_html)
 
         # Find a tournament with points
-        tournament_with_points = next(
-            (t for t in tournaments if t.points), None
-        )
+        tournament_with_points = next((t for t in tournaments if t.points), None)
         assert tournament_with_points is not None
         assert tournament_with_points.points
 

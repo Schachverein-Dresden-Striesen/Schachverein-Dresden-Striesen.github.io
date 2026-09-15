@@ -10,9 +10,9 @@ import pytest
 
 from normalize.normalizer import Normalizer
 from scraping.extractors import (
-    PlayerReference,
     HistoricalTournamentEntry,
     MatchResult,
+    PlayerReference,
 )
 
 

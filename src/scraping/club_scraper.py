@@ -1,9 +1,6 @@
 from __future__ import annotations
 
 import logging
-import os
-from pathlib import Path
-from typing import Any
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By

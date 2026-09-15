@@ -20,15 +20,14 @@ from __future__ import annotations
 import logging
 from datetime import datetime
 from pathlib import Path
-from typing import Optional
 
+from normalize.normalizer import Normalizer
 from scraping.club_scraper import ClubScraper
 from scraping.extractors import (
     ClubRosterScraper,
     PlayerHistoryScraper,
     TournamentDetailScraper,
 )
-from normalize.normalizer import Normalizer
 from storage.neo4j_client import Neo4jClient
 from storage.snapshot_store import SnapshotStore
 
@@ -107,17 +106,13 @@ class PlayerTournamentHistoryWorkflow:
             LOGGER.info("Stage 2-3: Processing player histories and tournament details")
             for player_ref in players:
                 try:
-                    self._process_player_history(
-                        player_ref, club_snapshot_path, result
-                    )
+                    self._process_player_history(player_ref, club_snapshot_path, result)
                 except Exception as e:
                     LOGGER.error(
                         f"Error processing player {player_ref.name}: {e}",
                         exc_info=True,
                     )
-                    result.errors.append(
-                        f"Failed to process {player_ref.name}: {str(e)}"
-                    )
+                    result.errors.append(f"Failed to process {player_ref.name}: {str(e)}")
                     continue
 
             LOGGER.info("Workflow completed successfully")
