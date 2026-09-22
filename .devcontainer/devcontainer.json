@@ -10,8 +10,22 @@
 	},
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	"forwardPorts": [4000],
+	"containerEnv": {
+		"BUNDLE_APP_CONFIG": ".bundle",
+		"BUNDLE_PATH": "vendor/bundle",
+		"BUNDLE_USER_HOME": "/home/vscode/.bundle",
+		"GEM_HOME": "/home/vscode/.local/share/gem",
+		"GEM_PATH": "/home/vscode/.local/share/gem"
+	},
+	"remoteEnv": {
+		"BUNDLE_APP_CONFIG": ".bundle",
+		"BUNDLE_PATH": "vendor/bundle",
+		"BUNDLE_USER_HOME": "/home/vscode/.bundle",
+		"GEM_HOME": "/home/vscode/.local/share/gem",
+		"GEM_PATH": "/home/vscode/.local/share/gem"
+	},
 	// Install dependencies after container is created
-	"postCreateCommand": "bundle install && git config pull.ff only",
+	"postCreateCommand": "mkdir -p /home/vscode/.bundle /home/vscode/.local/share/gem && bundle config set --local path vendor/bundle && bundle install && git config pull.ff only",
 	// Configure tool-specific properties.
 	"customizations": {
 		"vscode": {

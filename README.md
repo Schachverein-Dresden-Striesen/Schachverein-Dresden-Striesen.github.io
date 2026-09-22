@@ -1,4 +1,4 @@
-# Schachverein Dresden-Striesen e.V.
+# Schachverein Dresden-Striesen e.V
 
 Diese Website wird mit GitHub Pages und Jekyll erstellt und automatisch bereitgestellt. Sie enthält alle notwendigen Dateien und Konfigurationen für die automatische Veröffentlichung bei Änderungen.
 
@@ -28,88 +28,55 @@ Dies ermöglicht es Copilot, Ruby-Dependencies automatisch zu installieren und d
 Beiträge sind willkommen! Bitte erstellen Sie einen Pull Request oder öffnen Sie ein [Issue](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/issues) für Vorschläge oder Verbesserungen.
 Aktueller Webseite-Meilenstein: [Milestones](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/milestone/1).
 
+Bei Fragen schaue auch durch die
 
-Bei Fragen schaue auch durch die 
-- [Historie an Pull-Requests](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/pulls?q=is%3Apr) 
+- [Historie an Pull-Requests](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/pulls?q=is%3Apr)
 - [einzelnen Änderungen](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/commits/website/)
 
 beziehungsweise wende dich gerne an [unser Team](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/people) 😊.
 
-> **Neu bei GitHub?** Lies zuerst unseren [GitHub-Einstiegsleitfaden](GITHUB-EINSTIEG.md), um die Grundlagen zu verstehen. 
+> **Neu bei GitHub?** Lies zuerst unseren [GitHub-Einstiegsleitfaden](GITHUB-EINSTIEG.md), um die Grundlagen zu verstehen.
 
 ## Lokale Entwicklung
 
 ### Voraussetzungen
 
-**Option A – GitHub Codespaces:** kein lokales Setup erforderlich, nur ein GitHub-Account
-
-**Gemeinsame Voraussetzungen für Option B und C:**
-
 - [Git](https://git-scm.com/)
+- Für die lokale Installation zusätzlich: Ruby 3.x oder kompatibel
 
-**Option B – VSCode mit Devcontainer (zusätzlich):**
+### Schnellstart
 
-- [VSCode](https://code.visualstudio.com/)
-- [Docker](https://www.docker.com/)
+1. Repository klonen:
 
-**Option C – Lokale Installation (zusätzlich):**
+      ```bash
+      git clone https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io.git
+      cd Schachverein-Dresden-Striesen.github.io
+      ```
 
-- Ruby (Version 2.7 oder höher)
-  - Windows: [RubyInstaller](https://rubyinstaller.org/)
-  - macOS: `brew install ruby` (mit [Homebrew](https://brew.sh/))
-  - Linux: Paketmanager Ihrer Distribution verwenden
+1. Entwicklungsumgebung wählen:
 
-### Setup
+   **Devcontainer (empfohlen):**
 
-1. **Repository klonen** *(nur für Option B und C nötig)*:
+      `code .`
 
-Zum Beispiel in `PowerShell` via [Git](https://git-scm.com/):
+      - In VS Code: `F1` → `Dev Containers: Reopen in Container`
+   
+      Die Abhängigkeiten werden dort automatisch installiert
 
-```bash
-# Herunterladen in den aktuellen Datei-Ordner unter "Schachverein-Dresden-Striesen.github.io"
-git clone https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io.git
+   **Lokale Installation:**
 
-# Wechseln in den heruntergeladenen Ordner:
-cd "Schachverein-Dresden-Striesen.github.io"
-```
+      ```bash
+      gem install bundler
+      bundle install
+      ```
 
-2. **Entwicklungsumgebung wählen:**
+1. Website starten:
 
-   **Option A: GitHub Codespaces (kein lokales Setup nötig)**
+   ```bash
+   bundle exec jekyll serve
+   ```
 
-   [GitHub Codespaces](https://docs.github.com/de/codespaces/overview) startet eine vollständige Entwicklungsumgebung direkt im Browser – keine lokale Installation erforderlich.
-
-   - Auf der Repository-Seite: **Code → Codespaces → Codespace erstellen auf ...**
-   - Oder per [GitHub CLI](https://cli.github.com/): `gh codespace create`
-   - Die Umgebung basiert auf `.devcontainer/devcontainer.json` und startet fertig konfiguriert mit allen Abhängigkeiten
-
-   > **Kosten:** Jeder GitHub-Account bietet ein monatliches [kostenloses Kontingent](https://docs.github.com/de/billing/concepts/product-billing/github-codespaces#free-quota) (Kernstunden + Speicher). Nach Überschreitung des Kontingents können Kosten entstehen. Weitere Informationen unter [Codespaces-Abrechnung](https://docs.github.com/de/billing/concepts/product-billing/github-codespaces).
-
-   **Option B: VSCode mit Devcontainer (empfohlen)**
-
-```bash
-code .
-```
-
-- VSCode wird automatisch vorschlagen, den Container zu öffnen
-- Oder: `F1` → "Dev Containers: Reopen in Container"
-- Abhängigkeiten werden automatisch installiert
-
-   **Option C: Lokale Installation**
-
-```bash
-gem install bundler
-bundle install
-```
-
-3. **Website starten**:
-
-```bash
-# Mit Standard-Konfiguration:
-bundle exec jekyll serve
-```
-
-Die Website ist dann unter `http://localhost:4000` erreichbar.
+   Die Seite läuft dann unter `http://localhost:4000`.
 
 ### Inhalte bearbeiten
 
