@@ -37,10 +37,10 @@ Informationen zur Wartung und Weiterentwicklung der Skills Library findest du in
 
 ---
 
-## Repository-spezifische Dokumentation
+## Agent Operator Guides
 
-Für weitere Informationen zu diesem Repository siehe auch:
+Für Agent-Operators (z.B. GitHub Copilot-Nutzer) sind diese Dokumente essentiell:
 
-- [Issue Tracker](issue-tracker.md)
-- [Triage Labels](triage-labels.md)
-- [Domain Documentation](domain.md)
+- [Issue Tracker](issue-tracker.md) — Wie Agents Issues verwalten
+- [Triage Labels](triage-labels.md) — Label-Mapping für Ask Matt Rollen
+- [Domain Documentation](domain.md) — Wie Agents die Projekt-Glossare lesen

@@ -1,88 +1,106 @@
 # Schachverein Dresden-Striesen e.V
 
-Diese Website wird mit GitHub Pages und Jekyll erstellt und automatisch bereitgestellt. Sie enthält alle notwendigen Dateien und Konfigurationen für die automatische Veröffentlichung bei Änderungen.
+Diese Website wird mit GitHub Pages und Jekyll erstellt und automatisch bereitgestellt.
 
 **Live-Website:** [www.sv-dresden-striesen.de](https://www.sv-dresden-striesen.de)
 
-## Projektstruktur
+---
 
-- **_config.yml**: Jekyll-Konfiguration für GitHub Pages
-- **index.md**: Hauptseite der Website
-- **pages/**: Inhaltsseiten des Vereins
-- **files/**: Dateien, Bilder und Dokumente
-- **data/navigation.yml**: Menü der Webseite
-- **CNAME**: Konfiguration des Domainnamen der Webseite. Achtung, muss auch im DNS entsprechend konfiguriert sein.
-- **.devcontainer/**: Vorlage für Entwicklungsumgebung (z.B. in [VS Code](https://code.visualstudio.com/docs/devcontainers/faq))
+## Schnellstart für deine Rolle
 
-### Deployment
+### Ich möchte einen Turnierbericht oder eine Ankündigung hinzufügen
 
-Änderungen werden automatisch über GitHub Actions veröffentlicht, wenn sie in den `website`-Branch gepusht werden.
+→ Siehe [Content Creator Guide](CONTENT-GUIDE.md)  
+(Keine technischen Kenntnisse nötig; alles läuft im Browser.)
 
-### GitHub Copilot Support
+### Ich bin ein Entwickler und möchte lokal arbeiten
 
-Das Repository enthält eine Copilot-Setup-Workflow (`.github/workflows/copilot-setup-steps.yml`), der die Jekyll-Entwicklungsumgebung für GitHub Copilot-Agenten vorbereitet.
-Dies ermöglicht es Copilot, Ruby-Dependencies automatisch zu installieren und die Jekyll-Build-Umgebung einzurichten.
+→ Siehe [Developer Setup](#developer-setup) unten.
 
-Siehe auch [`docs/agents/`](docs/agents/) für Ressourcen zu Agentic Work und der Skills Library.
+### Ich bin Agent-Operator und nutze GitHub Copilot
 
-## Mitwirkung
+→ Siehe [`docs/agents/`](docs/agents/) für Setup und Bedienungsanleitung.
 
-Beiträge sind willkommen! Bitte erstellen Sie einen Pull Request oder öffnen Sie ein [Issue](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/issues) für Vorschläge oder Verbesserungen.
-Aktueller Webseite-Meilenstein: [Milestones](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/milestone/1).
+---
 
-Bei Fragen schaue auch durch die
-
-- [Historie an Pull-Requests](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/pulls?q=is%3Apr)
-- [einzelnen Änderungen](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/commits/website/)
-
-beziehungsweise wende dich gerne an [unser Team](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/people) 😊.
-
-> **Neu bei GitHub?** Lies zuerst unseren [GitHub-Einstiegsleitfaden](GITHUB-EINSTIEG.md), um die Grundlagen zu verstehen.
-
-## Lokale Entwicklung
+## Developer Setup
 
 ### Voraussetzungen
 
 - [Git](https://git-scm.com/)
-- Für die lokale Installation zusätzlich: Ruby 3.x oder kompatibel
+- Für die lokale Installation: Ruby 3.x (oder Devcontainer nutzen)
 
 ### Schnellstart
 
 1. Repository klonen:
 
-      ```bash
-      git clone https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io.git
-      cd Schachverein-Dresden-Striesen.github.io
-      ```
+   ```bash
+   git clone https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io.git
+   cd Schachverein-Dresden-Striesen.github.io
+   ```
 
-1. Entwicklungsumgebung wählen:
+2. Entwicklungsumgebung aufsetzen:
 
    **Devcontainer (empfohlen):**
 
-      `code .`
+   ```bash
+   code .
+   # In VS Code: F1 → Dev Containers: Reopen in Container
+   ```
 
-      - In VS Code: `F1` → `Dev Containers: Reopen in Container`
-   
-      Die Abhängigkeiten werden dort automatisch installiert
+   **Oder lokal:**
 
-   **Lokale Installation:**
+   ```bash
+   gem install bundler && bundle install
+   ```
 
-      ```bash
-      gem install bundler
-      bundle install
-      ```
-
-1. Website starten:
+3. Website starten:
 
    ```bash
    bundle exec jekyll serve
    ```
 
-   Die Seite läuft dann unter `http://localhost:4000`.
+   → Läuft unter `http://localhost:4000`
 
-### Inhalte bearbeiten
+### Weitere Developer-Docs
 
-- Bearbeiten Sie Markdown-Dateien (`.md`) in VSCode oder Ihrem bevorzugten Editor
-- **Oder direkt in GitHub über die Weboberfläche**
-- Änderungen werden automatisch beim Speichern übernommen (Live-Reload)
-- Neue Seiten können im `pages/` Verzeichnis erstellt werden
+- [GitHub Anfänger-Guide](GITHUB-EINSTIEG.md) — wenn du mit GitHub nicht vertraut bist
+- [Developer Guide](DEVELOPER.md) — Workflow, Features bauen, Testing, Deployment
+
+---
+
+## Projektstruktur
+
+- **_config.yml**: Jekyll-Konfiguration
+- **index.md**: Hauptseite
+- **pages/**: Inhaltsseiten (Turnierberichte, Ankündigungen, etc.)
+- **files/**: Dokumente, Bilder, Assets
+- **data/navigation.yml**: Menü-Struktur
+- **.devcontainer/**: Vorlagen für Entwicklungsumgebung
+- **docs/adr/**: Architektur-Entscheidungen
+- **docs/agents/**: Agent-Setup und Skills
+
+### Deployment
+
+Änderungen werden automatisch über GitHub Actions veröffentlicht, wenn sie in den `website`-Branch gepusht werden.
+
+---
+
+## Mitwirkung
+
+Alle Beiträge sind willkommen!
+
+- **Turnierberichte oder Ankündigungen?** → [Content Creator Guide](CONTENT-GUIDE.md)
+- **Code-Änderungen oder Features?** → [Developer Guide](DEVELOPER.md)
+- **Bugs gefunden?** → Öffne ein [Issue](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/issues)
+- **Fragen oder Diskussionen?** → Wende dich an [unser Team](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/people)
+
+Aktueller Meilenstein: [Milestones](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/milestone/1)
+
+---
+
+## Dokumentation
+
+- **[CONTEXT.md](CONTEXT.md)** — Glossar der Domänenbegriffe
+- **[docs/adr/](docs/adr/)** — Architektur-Entscheidungen
+- **[docs/agents/](docs/agents/)** — Agent-Operator-Guides
