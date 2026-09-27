@@ -1,4 +1,4 @@
 source "https://rubygems.org"
 gem "github-pages", group: :jekyll_plugins
 gem "jekyll-extlinks"
-gem "html-proofer"
+gem "html-proofer", "~> 5.0"
