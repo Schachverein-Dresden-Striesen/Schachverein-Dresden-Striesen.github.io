@@ -28,6 +28,9 @@ jobs:
       - name: Test Jekyll build
         run: bundle exec jekyll build --verbose
       
+      - name: Check for broken links
+        run: bundle exec htmlproofer ./_site --allow-hash-href --disable-external --enforce-https
+      
       - name: Upload Jekyll build artifacts
         uses: actions/upload-artifact@v7
         with:

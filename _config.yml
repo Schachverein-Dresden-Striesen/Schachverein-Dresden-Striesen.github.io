@@ -28,13 +28,14 @@ include:
   - files
   - pages
   - _pages
+  - CONTEXT.md
+  - GITHUB-EINSTIEG.md
+  - docs/adr
 
 exclude:
   - AGENTS.md
   - AGENTS/
-  - CONTEXT.md
   - CONTEXT-MAP.md
-  - GITHUB-EINSTIEG.md
   - THEME_MIGRATION.md
   - .agents/
   - .github/
