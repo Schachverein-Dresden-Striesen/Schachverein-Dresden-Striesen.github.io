@@ -1,4 +1,4 @@
-# Schachverein Dresden-Striesen e.V
+# Schachverein Dresden-Striesen e.V.
 
 Diese Website wird mit GitHub Pages und Jekyll erstellt und automatisch bereitgestellt.
 
