@@ -11,8 +11,8 @@ Herzlich Willkommen bei der Schachjugend Dresden-Striesen!
 
 ### Themen am Freitag
 
-- Einsteiger: Dame gegen Bauer
-- Fortgeschrittene: Angriff auf den unrochierten König
+- Einsteiger: Turmendspiel (Lucena)
+- Fortgeschrittene: Halboffene Eröffnungen (e6, c6)
 
 > Falls ihr individuelle Fragen habt (Welche Eröffnungen, Wie trainier' ich zu Hause?, Was macht man gegen London?, ...), dann könnt ihr jederzeit die **Trainer** anschreiben!
 
