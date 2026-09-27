@@ -75,7 +75,7 @@ Diese Website wird mit GitHub Pages und Jekyll erstellt und automatisch bereitge
 - **index.md**: Hauptseite
 - **pages/**: Inhaltsseiten (Turnierberichte, Ankündigungen, etc.)
 - **files/**: Dokumente, Bilder, Assets
-- **data/navigation.yml**: Menü-Struktur
+- **_data/navigation.yml**: Menü-Struktur
 - **.devcontainer/**: Vorlagen für Entwicklungsumgebung
 - **docs/adr/**: Architektur-Entscheidungen
 - **docs/agents/**: Agent-Setup und Skills
