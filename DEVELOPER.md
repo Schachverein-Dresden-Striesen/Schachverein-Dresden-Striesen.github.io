@@ -109,7 +109,7 @@ Wenn alles ok ist, wird die PR gemerged. Congratulations! 🎉
 ### Wichtigste Dateien
 
 - **_config.yml**: Jekyll allgemein konfigurieren (Titel, URL, etc.)
-- **data/navigation.yml**: Menü-Einträge hinzufügen/ändern
+- **_data/navigation.yml**: Menü-Einträge hinzufügen/ändern
 - **pages/*.md**: Neue Seiten hinzufügen (Turnierberichte, Ankündigungen, etc.)
 - **docs/adr/*.md**: Warum habt ihr so designed? (Architektur-Entscheidungen)
 
