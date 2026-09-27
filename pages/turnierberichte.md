@@ -7,6 +7,12 @@ sidebar:
 
 Berichte zu Turnieren des SV Dresden-Striesen und Turnieren, an denen der Verein teilgenommen hat.
 
+## 2026 - Gründungsveranstaltung und Abschlusskonferenz FUMIS
+
+Im Juli/August 2026 fand die Gründungsveranstaltung und Abschlusskonferenz des neuen Fördervereins für Frauen und Mädchen im Schach (FUMIS) statt. Elisabeth Pähtz wurde zur Vorsitzenden gewählt.
+
+Zum [Bericht: Gründungsveranstaltung und Abschlusskonferenz FUMIS 2026](bericht-abschluss-konferenz-foerderverein-2026)
+
 ## 2026 - Sommeraktivitäten
 
 Während der Sommerferien 2026 haben unserer Spieler an internationalen und überregionalen Schachturnieren teilgenommen. Von Greifswald bis Wrocław und darüber hinaus!
