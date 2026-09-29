@@ -22,6 +22,15 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:info@sv-dresden-striesen.de"
+    - label: "Vorstand"
+      url: "/vorstand"
+    - label: "Satzung und Ordnungen"
+      url: "/ordnungen"
+    - label: "Impressum"
+      url: "/impressum"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io"
 
 # Reading Files
 include:
