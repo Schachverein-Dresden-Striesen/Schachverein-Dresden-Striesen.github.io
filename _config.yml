@@ -29,6 +29,25 @@ include:
   - pages
   - _pages
 
+exclude:
+  - AGENTS.md
+  - AGENTS/
+  - CONTEXT.md
+  - CONTEXT-MAP.md
+  - GITHUB-EINSTIEG.md
+  - THEME_MIGRATION.md
+  - .agents/
+  - .github/
+  - docs/agents/
+  - skills-lock.json
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+
 # Conversion
 markdown: kramdown
 highlighter: rouge

@@ -1,25 +1,8 @@
-<!-- Auszug aus https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/
-Polly Davidson @pollyday
+# GitHub für Anfänger – Dein erster Beitrag zur Vereinswebseite
 
-Formatiert, adaptiert und übersetzt von Martin Röbke
-Ergänzt um Inhalte aus https://pappater.github.io/docs/GitHub%20Pages%20and%20Jekyll/
--->
+**Du möchtest einen Turnierbericht, eine Ankündigung oder andere Inhalte für unsere Website hinzufügen?** Dieser Leitfaden zeigt dir, wie es funktioniert – Schritt für Schritt und ohne Jargon.
 
-# GitHub für Einsteiger: Dein Wegweiser zu den Grundlagen
-
-**Bist du neu bei GitHub?** Dieser Leitfaden erklärt dir die Versionskontrolle, Repositories, Pull-Requests und alles andere, was du für den Start mit GitHub brauchst.
-
-**Autorin:** Polly Davidson (@pollyday)  
-**Datum:** 15. Juli 2026  
-[Lies den vollständigen Original-Artikel (Englisch)](https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/)
-
----
-
-Jeder fängt mal an. Egal, ob du deine allererste Zeile Code schreibst oder schon seit Jahren entwickelst und die Werkzeuge dahinter nie ganz gelernt hast – dieser Leitfaden ist dein Einstieg.
-
-Dies ist die komplette „GitHub für Einsteiger“-Serie in einer zusammenhängenden Geschichte – ein detaillierter Pfad, der dich von „Was ist überhaupt ein Repository?“ bis zur Zusammenarbeit an echten Projekten und dem Mitwirken an Open Source führt.
-
-Lies ihn von oben bis unten, und du wirst ein vollständiges Verständnis dafür haben, wie moderne Software auf GitHub entwickelt wird. Spring zu einem beliebigen Abschnitt, und du findest eine eigenständige Antwort. Lass uns loslegen!
+**Hinweis:** Die GitHub-Oberfläche ist auf Englisch. Falls du dich unsicher fühlst, nutze die Browser-Übersetzung (rechts-Klick → Übersetzen) oder folge diesem Leitfaden als Anleitung.
 
 ---
 
@@ -27,209 +10,220 @@ Lies ihn von oben bis unten, und du wirst ein vollständiges Verständnis dafür
 
 **Du möchtest schnell einen neuen Turnierbericht oder eine Ankündigung hinzufügen?** Hier ist der kürzeste Weg:
 
-1. Öffne unser GitHub-Repository im Browser.
-1. Melde dich mit deinem GitHub-Konto an!
-1. Navigiere zum Ordner, in den dein neuer Text gehört (z. B. `pages` für neue Seiten oder [turnierberichte](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/tree/website/pages/turnierberichte) für Berichte).
-1. Klicke auf **Add file** (Auswahl `Create new file`="Leere Datei" oder `Upload files`="Datei hochladen") und benenne die Datei (z. B. `mein-artikel.md`).
-1. Schreibe deinen Text in Markdown (siehe Abschnitt 5 für Formatierungsbeispiele).
-1. Klicke **Commit changes** zum Speichern, und fülle das "Commit-Fenster" aus. Die Voreinstellung ist für den Anfang ausreichend", kann aber in `message` (Überschrift) und `description` erweitert werden.
-1. Klicke "Propose changes" - es erfolgt automatisch die Erstellung (oder Ergänzung) auf dem Zweig/Branch und die Weiterleitung zu "Open a pull request", um die Änderung auf dem haupt-Zweig vorzuschlagen.
-1. Fertig! Wenige Sekunden später ist deine Änderung in GitHub für andere sichtbar und kann diskutiert werden, bevor es Live geschaltet wird.
+1. Öffne unser [GitHub-Repository](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io) im Browser.
+2. Melde dich mit deinem GitHub-Konto an.
+3. Navigiere zu dem Ordner, in den dein Text gehört:
+   - **Neue Seite?** → Ordner `pages`
+   - **Turnierbericht?** → Ordner `pages/turnierberichte`
+   - **Ankündigung?** → Ordner `pages`
+4. Klicke auf **Add file** und wähle **Create new file**. Gib einen Namen ein, z. B. `2026-09-20-mein-turnierbericht.md`.
+5. Schreibe deinen Text. (Formatierungsbeispiele findest du weiter unten.)
+6. Klicke **Commit changes** und bestätige. GitHub speichert deine Änderung automatisch.
+7. Nach ein paar Sekunden erscheint dein Text auf der Website!
 
-> **Hinweis:** Das funktioniert nur für kleine Änderungen. Für umfangreichere Arbeiten lies weiter – der vollständige Leitfaden unten zeigt dir alle Möglichkeiten.
+> **Das funktioniert nur für kleine Änderungen über den Browser. Für größere Arbeiten (viele Dateien, Bilder hochladen) siehe die erweiterte Anleitung am Ende.**
 
 ---
 
-## Teil 1: Finde dich zurecht
+## Grundlagen: Text schreiben und formatieren
 
-### 1. Was ist Versionskontrolle (und warum ist sie wichtig)?
+### Markdown-Formatierung
 
-**Versionskontrolle ist ein System, das Änderungen an deinen Dateien über die Zeit verfolgt. Git ist das weltweit am weitesten verbreitete System dafür.**
+**Markdown ist eine einfache Sprache zur Formatierung von Text.** Du musst nichts über HTML oder Code wissen – einfache Zeichen wie `#`, `*` und `-` machen dein Text formatiert und lesbar.
 
-Wenn du jemals Dateien wie `Marken-Guide_v2`, `Marken-Guide_final` und `Marken-Guide_WIRKLICH_final` gespeichert hast, kennst du das Problem, das die Versionskontrolle löst. Git zeichnet jede Änderung auf, die du machst, sodass du sehen kannst, was sich wann und warum geändert hat. Wenn du zu einer früheren Version zurückkehren musst, ist das auch kein Problem. Du brauchst nie wieder einen Ordner voller „finaler“ Dateien.
+**Hier sind die wichtigsten Formatierungen:**
 
-Git arbeitet mit drei Bereichen: deinem **Arbeitsverzeichnis** (wo du arbeitest), dem **Staging-Bereich** (wo du prüfst, was hochgeladen werden soll) und dem **lokalen Speicher** (wo deine gespeicherte Historie liegt). Drei Befehle bewegen die Arbeit zwischen diesen Bereichen (`git status`, `git add` und `git commit`), und du wirst sie so oft benutzen, dass sie dir zur Routine werden.
+```markdown
+# Das ist eine große Überschrift
+## Das ist eine kleinere Überschrift
+### Noch kleiner
 
-> **Tipp:** Wenn jemand sagt „push deine Änderungen", meint er, du sollst deine Änderungen von deinem Computer auf GitHub hochladen.
+**Das ist fettgedruckter Text** (wichtig!)
+_Das ist kursiver Text_ (Betonung)
 
-### 2. Wie richte ich mein GitHub-Konto ein und sichere es ab?
+- Das ist eine Aufzählung
+- Mit mehreren Punkten
 
-**Dein GitHub-Konto ist deine digitale Identität als Schreiber. Du solltest sicherstellen, dass es gut geschützt ist.**
+1. Das ist eine nummerierte Liste
+2. Mit Nummern
 
-Die Aktivierung der Zwei-Faktor-Authentifizierung (2FA) fügt eine zweite Schutzebene hinzu, die dein Konto sicher hält, selbst wenn dein Passwort gestohlen wird. Passwörter allein sind anfällig. Aktiviere 2FA unter **Einstellungen → Passwort und Authentifizierung**.
+[Das ist ein Link](https://www.example.com)
+```
 
-Wenn du schon dabei bist, erstelle dir eine **Profil-Beschreibung**. Das ist eine Art lebendiges Portfolio deiner Fähigkeiten, Projekte und Interessen. Erstelle ein öffentliches Repository mit demselben Namen wie dein Benutzername, füge eine `README.md`-Datei hinzu, und alle deine Informationen werden auf deiner Profilseite für andere sichtbar.
+**Praktische Beispiele für Vereinsinhalte:**
 
-> **&#128161; Tipp:** Lade deine Wiederherstellungscodes herunter und speichere sie in einem Passwort-Manager. Sie sind dein einziger Weg zurück, falls du dein Gerät verlierst.
+```markdown
+# Turnier: Dresden Open 2026
 
-### 3. Welche Git-Befehle brauche ich wirklich?
+## Ergebnisse
 
-**Eine kleine Auswahl an Git-Befehlen deckt den täglichen Arbeitsablauf fast jedes Entwicklers ab.**
+**Sieger:** Anna Müller (1950 DWZ)
+**2. Platz:** Thomas Schmidt (1875 DWZ)
+**3. Platz:** Lisa Weber (1820 DWZ)
 
-Die Befehle, mit denen du vertraut werden solltest, sind `config`, `init`, `clone`, `add`, `commit`, `push`, `pull`, `branch` und `switch`.
+## Teilnehmer nach Altersklasse
 
-Du musst nicht ganz Git auswendig lernen. Hier sind die wichtigsten für den Anfang:
+- U10: 8 Spieler
+- U12: 12 Spieler
+- U14: 15 Spieler
+
+Mehr Infos: [Turnierausschreibung](turnierausschreibung.pdf)
+```
+
+### Wie funktioniert die Veröffentlichung?
+
+Sobald du einen Text speicherst, passiert das **ganz automatisch**:
+
+1. **Du speicherst** deinen Text auf GitHub (mit "Commit changes")
+2. **GitHub erkennt** die Änderung sofort
+3. **GitHub baut die Website** automatisch neu (mit Jekyll)
+4. **Dein Text ist live** auf der Website – normalerweise in Sekunden oder wenigen Minuten
+
+Du brauchst dich um nichts anderes zu kümmern. **Einfach schreiben, speichern, fertig!**
+
+---
+
+## Für erfahrenere Nutzer: Erweiterte Themen
+
+### Was ist Versionskontrolle?
+
+**Versionskontrolle ist ein System, das Änderungen an deinen Dateien über die Zeit verfolgt.**
+
+Wenn du jemals Dateien wie `Turnierbericht_v1.md`, `Turnierbericht_final.md` und `Turnierbericht_WIRKLICH_final.md` gespeichert hast, kennst du das Problem. Git löst das, indem es jede Änderung aufzeichnet – wer sie gemacht hat, wann und warum. Falls nötig, kannst du zu einer früheren Version zurück.
+
+> **Tipp:** Wenn jemand sagt "push deine Änderungen", meint er: lade deine Änderungen von deinem Computer auf GitHub hoch.
+
+### GitHub-Sicherheit: Dein Konto schützen
+
+**Dein GitHub-Konto ist wichtig – schütze es!**
+
+- **Zwei-Faktor-Authentifizierung (2FA):** Aktiviere sie unter **Einstellungen → Passwort und Authentifizierung**. Das macht dein Konto viel sicherer.
+- **Starkes Passwort:** Nutze ein eindeutiges Passwort, das du nirgendwo sonst verwendest.
+- **Wiederherstellungscodes:** Wenn du 2FA aktivierst, speichere die Wiederherstellungscodes in einem Passwort-Manager. Sie sind dein Rettungsanker.
+
+> **Wichtig:** Speichere niemals Passwörter oder geheime Schlüssel direkt in deinen Dateien!
+
+### Git-Befehle (für fortgeschrittene Nutzer)
+
+Wenn du lokal auf deinem Computer arbeiten möchtest, brauchst du Git-Befehle:
 
 | Befehl                      | Was er tut                                             |
 | --------------------------- | ------------------------------------------------------ |
 | `git config --global ...`   | Legt deinen Namen für deine Commits fest               |
-| `git init`                  | Macht den aktuellen Ordner zu einem Git-Repository     |
-| `git clone <url>`           | Erstellt eine lokale Kopie eines Online-Repositorys    |
-| `git status`                | Zeigt, was sich geändert hat und was bereit ist        |
-| `git add .`                 | Bereitet alle Änderungen für den nächsten Commit vor   |
-| `git commit -m "Nachricht"` | Speichert einen Schnappschuss deiner Änderungen        |
-| `git switch -c <branch>`    | Erstellt einen neuen Arbeitszweig und wechselt dorthin |
-| `git push`                  | Lädt deine lokalen Commits auf GitHub hoch             |
+| `git clone <url>`           | Erstellt eine lokale Kopie unseres Repositorys         |
+| `git add .`                 | Bereitet alle Änderungen vor                           |
+| `git commit -m "Nachricht"` | Speichert einen Schnappschuss mit Beschreibung         |
+| `git push`                  | Lädt deine Änderungen auf GitHub hoch                  |
 | `git pull`                  | Lädt die neuesten Änderungen von GitHub herunter       |
-| `git merge <branch>`        | Fügt einen anderen Branch in deinen aktuellen ein      |
+| `git switch -c <branch>`    | Erstellt einen neuen Branch (Arbeitszweig)             |
+| `git merge <branch>`        | Vereinigt einen Branch mit deinem aktuellen            |
 
-## Teil 2: Erstelle dein erstes Projekt
+### Dein eigenes Repository erstellen
 
-### 4. Wie erstelle ich mein erstes Repository?
+Du brauchst kein eigenes Repo für unsere Website – das existiert schon. Falls du aber ein Projekt starten möchtest:
 
-**Ein Repository (kurz „Repo“) ist ein Projektordner, der Änderungen verfolgt, die Historie speichert und es mehreren Personen ermöglicht, nahtlos zusammenzuarbeiten.**
+1. Gehe zu [github.com](https://github.com/) und klicke **New**
+2. Gib einen Namen ein (z. B. `mein-turnier-projekt`)
+3. Wähle "Public" oder "Private"
+4. Setz ein Häkchen bei "README" und klick "Create"
 
-Dies ist die Heimatbasis deines Projekts. Starte von deinem **Dashboard**, der Seite, auf der du nach der Anmeldung bei [github.com](https://github.com/) landest.
+Fertig! Dein Repository ist bereit.
 
-- Klicke auf den grünen **New**-Button.
-- Gib deinem Repo einen Namen.
-- Wähle, ob es öffentlich oder privat sein soll.
-- Setze ein Häkchen, um eine **README**-Datei hinzuzufügen. Dies ist das Erste, was Besucher sehen, und sollte als Eingangstür zu deinem Projekt dienen.
+### GitHub-Flow: Der komplette Arbeitsablauf
 
-Das war's! Du hast ein Repository. Optional kannst du eine `.gitignore`-Datei hinzufügen, um Datenmüll aus der Versionskontrolle fernzuhalten, und eine Lizenz, um anderen mitzuteilen, was sie mit deinem Code tun dürfen.
+Der **GitHub-Flow** ist die Reihenfolge, in der du arbeitest, wenn du lokal auf deinem Computer arbeiten willst:
 
-Wofür ist eine `.gitignore` gut? Während du arbeitest, füllt sich dein Projektordner mit Dateien, die du nie selbst geschrieben hast (z. B. Systemdateien, heruntergeladene Abhängigkeiten). Diese willst du nicht verfolgen oder teilen. Eine `.gitignore`-Datei listet sie auf und sagt Git, sie zu ignorieren.
+1. **Clone:** Lade das Repository auf deinen Computer
 
-### 5. Was ist Markdown und wie benutze ich es?
+   ```bash
+   git clone <url>
+   ```
 
-**Markdown ist eine einfache Sprache zur Formatierung von Text. So schreibst du READMEs, Issues, Pull-Requests und Kommentare auf GitHub.**
+2. **Branch:** Erstelle einen Arbeits-Zweig
 
-Markdown verwandelt einfache Symbole in saubere Formatierungen. Mit ein paar Tastenanschlägen erstellst du Texte, die angenehm zu lesen sind. Hier sind die wichtigsten Beispiele:
+   ```bash
+   git switch -c mein-turnierbericht
+   ```
 
-```markdown
-# Das ist eine grosse Überschrift
+3. **Edit:** Bearbeite deine Dateien im Editor
 
-## Das ist eine Zwischenüberschrift
+4. **Commit:** Speichere deine Änderungen
 
-### Das ist eine kleinere Überschrift
+   ```bash
+   git commit -m "Turnierbericht hinzugefügt"
+   ```
 
-**Das ist fettgedruckter Text** (wichtig!)
-_Das ist kursiver Text_ (betonung)
+5. **Push:** Lade hoch auf GitHub
 
-- Das ist
-- eine Aufzählung
+   ```bash
+   git push
+   ```
 
-1. Das ist
-2. eine Nummerierte Liste
+6. **Pull Request:** Öffne einen Änderungsvorschlag auf GitHub und lass ihn überprüfen
 
-[Das ist ein Link](https://www.example.com)
+> **Tipp:** Gib deinen Branches beschreibende Namen wie `2026-09-turnier-leipzig` oder `fehler-bei-spielerliste-beheben`
 
-`Das ist eingefuegter Code oder ein Befehl`
+### Pull Requests – Änderungen gemeinsam überprüfen
+
+Ein **Pull Request** (PR) ist ein Vorschlag, deine Änderungen in das Hauptprojekt einzubauen. So funktioniert es:
+
+1. Du pushst deinen Branch auf GitHub
+2. GitHub zeigt einen Button "Open a pull request"
+3. Du schreibst, was du geändert hast und warum
+4. Andere können deine Änderungen kommentieren
+5. Wenn alles passt, wird der PR "merged" (eingefügt)
+
+**Tipp:** Kleine PRs sind besser – sie sind schneller überprüft und weniger fehleranfällig.
+
+### Merge-Konflikte: Was tun wenn es Probleme gibt?
+
+Ein **Merge-Konflikt** tritt auf, wenn zwei Personen die gleiche Stelle in einer Datei bearbeitet haben.
+
+**Normalfall:** Die meisten Merges gehen automatisch. Klick auf den grünen **Merge pull request**-Button, bestätige – fertig!
+
+**Mit Konflikt:** GitHub markiert die widersprüchlichen Stellen. Du schaust sie an, entscheidest, welche Version du behalten möchtest, und markierst es als gelöst.
+
+### GitHub Issues und Projects
+
+**Issues** sind wie Aufgabenlisten:
+
+- Ein Issue ist eine Aufgabe, ein Fehler oder eine Idee
+- Du kannst Issues zuweisen, kennzeichnen und diskutieren
+
+**Projects** sind visuell:
+
+- Sie zeigen Issues auf einem Kanban-Board (Spalten: Zu tun, In Arbeit, Fertig)
+- Damit verliert niemand den Überblick
+
+**Clever:** Wenn dein Pull Request ein Issue behebt, schreib in der PR-Beschreibung:
+
+```
+Closes #42
 ```
 
-**Praktischer Tipp:** Wenn du einen Turnierbericht schreibst, nutze:
+Sobald der PR merged wird, schließt GitHub das Issue automatisch.
 
-- Überschriften für Abschnitte
-- Fettdruck für wichtige Ergebnisse
-- Listen für Spieler oder Ergebnisse
-- Links zu weiteren Informationen
+### Sicherheit für Fortgeschrittene
 
-### 6. Was ist der GitHub-Flow?
+GitHub hat eingebaute Sicherheitsfunktionen:
 
-**Der GitHub-Flow ist der wiederholbare Kreislauf, um sicher Arbeit zu einem gemeinsamen Projekt hinzuzufügen: Branch erstellen, Änderungen committen, pushen, einen Pull-Request öffnen, mergen.**
+- **Geheime Schlüssel:** Falls du zufällig ein Passwort in einer Datei speicherst, warnt dich GitHub
+- **Abhängigkeits-Überwachung:** GitHub prüft, ob deine Bibliotheken bekannte Sicherheitslücken haben
 
-Hier ist der Rhythmus, den du immer wieder wiederholen wirst:
+### Zu Open-Source beitragen
 
-1.  Klone das Repo auf deinen Computer _(falls noch nicht da)_
-2.  Erstelle einen Branch für deine Arbeit.
-3.  Mache Änderungen.
-4.  Commite sie (speichere sie).
-5.  Pushe sie auf GitHub (lade sie hoch).
-6.  Öffne einen Pull-Request (einen Änderungsvorschlag).
+**Open Source** bedeutet: Der Code ist frei verfügbar, und jeder kann mitwirken.
 
-> **&#128161; Tipp:** Gib Branches beschreibende Namen wie `fehler-im-login-beheben` oder `dunkelmodus-hinzufuegen`, damit jeder auf einen Blick weiß, worum es geht.
+Falls du zu anderen Projekten beitragen möchtest:
 
-## Teil 3: Arbeite mit anderen zusammen
+- Suche nach Projekten mit einer klaren `README` und einer `CONTRIBUTING.md`
+- Suche Issues mit dem Label `good first issue`
 
-### 7. Was ist ein Pull-Request?
+**Wichtiger Unterschied:**
 
-**Ein Pull-Request ist ein Vorschlag, eine Reihe von Änderungen von einem Branch in einen anderen zu übernehmen, mit einem eingebauten Bereich für Teamkollegen zur Überprüfung und Diskussion.**
-
-Ein Pull-Request ist der Ort, an dem Zusammenarbeit stattfindet. Er zeigt visuell, was genau du geändert hast, und gibt den Prüfern einen Ort zum Kommentieren. Schreibe einen klaren Titel und eine Beschreibung und überprüfe deinen eigenen Pull-Request zuerst, um offensichtliche Fehler zu finden.
-
-> **&#128161; Tipp:** Kleinere Pull-Requests sind einfacher und schneller zu überprüfen und zu mergen, bieten weniger Raum für Fehler und schaffen eine klarere Änderungshistorie.
-
-### 8. Wie merge ich einen Pull-Request und löse einen Merge-Konflikt?
-
-Das "Mergen" integriert überprüfte Änderungen in deinen Ziel-Branch. Ein **Merge-Konflikt** entsteht, wenn Git deine Hilfe braucht, weil zwei **Änderungen dieselben Codezeilen berühren**.
-
-Die meisten Merges sind ein grüner Knopf: Klicke auf **Merge pull request**, bestätige, fertig. 🎉 Manchmal bearbeiten zwei Personen/Branches dieselben Zeilen einer Datei, und Git kann nicht entscheiden, welche Version richtig ist. In diesem Fall markiert GitHub die widersprüchlichen Abschnitte. Du wählst aus, was du behalten möchtest, markierst das Problem als gelöst und führst die Zusammenführung durch.
-
-### 9. Was sind GitHub Issues und Projects?
-
-**Issues verfolgen einzelne Aufgaben, Fehler und Ideen, während Projects diese Issues auf einem visuellen Board organisieren, damit nichts durchrutscht.**
-
-Issues sind wie teilbare, nachverfolgbare Notizen. Jedes ist eine Aufgabe, ein Fehler oder eine Idee, die du zuweisen, kennzeichnen und diskutieren kannst. Projects ziehen diese Issues auf ein Kanban-Board, sodass du den Status aller Aufgaben auf einen Blick siehst.
-
-Ein kleiner Trick: Wenn du einen Pull-Request öffnest, um ein Issue zu beheben, kannst du in der Beschreibung des Pull-Requests ein Schlüsselwort wie `Closes #42` schreiben (wobei #42 die Nummer der Aufgabe ist). Sobald die Änderung zusammengeführt wird, schließt GitHub die Aufgabe automatisch für dich.
-
-## Teil 4: Bringe deine Projekte auf das nächste Level
-
-### 10. Was ist GitHub Actions?
-
-**GitHub Actions ist eine Automatisierungsplattform, die Aufgaben automatisch ausführt, wenn in deinem Repo etwas passiert.**
-
-Bei unserer Vereinswebseite passiert das automatisch: Sobald du einen neuen Artikel speicherst, führt GitHub Actions automatisch die folgenden Schritte aus:
-
-1. Es erkennt, wenn der [website branch](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/branches) aktualisiert wurde.
-2. Es startet Jekyll (unser Website-Bauwerkzeug).
-3. Jekyll wandelt all deine Markdown-Dateien und Konfiguration in die fertige Webseite um.
-4. Die Website wird mit dem Inhalt live aktualisiert.
-
-Du brauchst dich um nichts mehr zu kümmern – GitHub erledigt alles im Hintergrund.
-
-### 11. Wie veröffentliche ich eine Webseite kostenlos mit GitHub Pages & Jekyll?
-
-**GitHub Pages** ist ein kostenloser Dienst von GitHub, der statische Webseiten direkt aus einem Repository heraus veröffentlicht. **Jekyll** ist ein Werkzeug, das einfache Textdateien (wie unsere Markdown-Artikel) in eine fertige Webseite umwandelt. Wir nutzen beides in Kombination.
-
-**Und so funktioniert es bei uns:**
-
-1.  **Du schreibst:** Du erstellst oder bearbeitest eine Markdown-Datei in unserem Repository – zum Beispiel einen neuen Turnierbericht im Ordner `turnierberichte`.
-2.  **Du speicherst:** Sobald deine Änderungen im `website`-Branch gespeichert sind, übernimmt GitHub automatisch.
-3.  **Jekyll baut:** GitHub Pages nutzt Jekyll, um alle unsere Markdown-Dateien, Vorlagen und Bilder zu einer kompletten, klickbaren Webseite zusammenzubauen.
-4.  **Die Seite ist live:** Wenige Augenblicke später sind deine Änderungen unter [www.schachverein-dresden-striesen.de](https://www.schachverein-dresden-striesen.de) für alle sichtbar.
-
-Du musst dich also nicht um Server oder komplizierte Technik kümmern. Schreib einfach deinen Text, und GitHub erledigt den Rest.
-
-> **&#128161; Tipp für Fortgeschrittene:** Wenn du Änderungen vor der Veröffentlichung auf deinem eigenen Computer (oder in Codespaces im Web-Browser) testen möchtest, kannst du Jekyll lokal installieren. Mit dem Befehl `bundle exec jekyll serve` startest du eine Vorschau-Webseite auf deinem PC.
-
-### 12. Wie sichere ich meinen Code auf GitHub ab?
-
-Sicherheit ist kein letzter Schritt, sondern eine Gewohnheit. GitHub hat eine eingebaute Sicherheitssuite, die automatisch Probleme findet und dir hilft, sie zu beheben.
-
-**Das schützt dein Konto:**
-
-- **Zwei-Faktor-Authentifizierung (2FA):** Aktiviere sie in den Einstellungen. Sie verhindert, dass andere dein Konto übernehmen, selbst wenn sie dein Passwort haben.
-- **Starkes Passwort:** Benutze ein eindeutiges Passwort, das du sonst nirgendwo verwendest.
-- **Wiederherstellungscodes:** Speichere diese sicher auf – sie sind dein Rettungsanker, falls du dein Gerät verlierst.
-
-**Das schützt dein Repository:**
-
-- **Geheime Schlüssel:** Wenn du API-Schlüssel oder Passwörter zufällig hochlädst, erkennt GitHub dies automatisch und warnt dich.
-- **Abhängigkeits-Überwachung:** GitHub prüft automatisch, ob die verwendeten Bibliotheken bekannte Sicherheitslücken haben, und schlägt Aktualisierungen vor.
-
-> **Tipp:** Speichere niemals Passwörter oder geheime Schlüssel direkt in deinen Dateien!
-
-### 13. Wie kann ich zu Open Source beitragen?
-
-**Open-Source-Software hat frei verfügbaren Code, den jeder studieren und verbessern kann, und GitHub ist ihr Zuhause.**
-
-Wie findest du das perfekte Projekt zum Mitwirken? Suche nach Projekten mit einer klaren `README`, einer `CONTRIBUTING.md` (Anleitung zum Mitwirken) und Issues, die als `good first issue` (guter erster Beitrag) markiert sind.
-
-Ein **Fork** ist deine persönliche Kopie des Repositorys eines anderen, in der du frei experimentieren und dann deine Änderungen mit einem Pull-Request vorschlagen kannst.
-
-Was ist der Unterschied zwischen einem Fork und einem Branch? Ein **Branch** ist ein paralleler Arbeitsbereich _innerhalb_ eines Repositorys, für das du bereits die Erlaubnis zum Ändern hast. Ein **Fork** kopiert ein ganzes Repository in _dein_ Konto, was du brauchst, wenn du keine Berechtigung hast, das Original zu bearbeiten (wie bei den meisten Open-Source-Projekten).
+- **Branch:** Ein paralleler Arbeitsbereich in einem Repo, das dir gehört
+- **Fork:** Eine komplette Kopie eines fremden Repos in dein Konto (für externe Projekte)
 
 ---
 
-**Hast du noch Fragen?** Schau dir die [häufig gestellten Fragen](https://github.blog/developer-skills/github/github-for-beginners-answers-to-some-common-questions/) an oder sieh dir die [komplette YouTube-Serie „GitHub für Einsteiger“](https://www.youtube.com/playlist?list=PL0lo9MOBetEFcp4SCWinBdpml9B2U25-f) an.
+**Noch Fragen?** Frag einen Vereinsmitglied, das erfahren ist mit GitHub!
