@@ -7,6 +7,12 @@ sidebar:
 
 Berichte zu Turnieren des SV Dresden-Striesen und Turnieren, an denen der Verein teilgenommen hat.
 
+## 25. September 2026: Open Integration und Jugendopen Integration
+
+Wir führten die traditionellen Schnellschachturniere innerhalb der [Interkulturellen Tage](https://www.dresden.de/de/leben/gesellschaft/migration/aktuelles/ikt.php) in der Aula des „Martin-Andersen-Nexö-Gymnasium Dresden" durch – ein Gemeinschaftsprojekt mit dem Landessportbund Sachsen und seinem Programm **Integration durch Sport**.
+
+Zum [ausführlichen Turnierbericht (PDF)](/files/turnierberichte/Bericht%20Jugendopen+Open%20Integration%202026.pdf)
+
 ## 2026 - Sommeraktivitäten
 
 Während der Sommerferien 2026 haben unserer Spieler an internationalen und überregionalen Schachturnieren teilgenommen. Von Greifswald bis Wrocław und darüber hinaus!
