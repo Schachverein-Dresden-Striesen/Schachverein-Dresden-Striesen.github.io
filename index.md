@@ -13,10 +13,25 @@ sidebar:
 
 ## Gedenkturniere 10.-11.10.2026
 
-Die Ausschreibungen für die Gedenkturniere am Wochenende in der Oehmestraße 1 sind verfügbar:
+Liebe Schachfreunde,
 
+im Gedenken an unsere verdienstvollen Funktionäre führen wir
+
+am Sonnabend, 10.10.2026 unser 4. Jugend-Stefan-Glasewald-Gedenkturnier
+
+und am
+
+Sonntag, 11.10.2026 unser 10. Dr.-Michael-Schmidt-Gedenkturnier
+
+durch.
+
+Beide Veranstaltungen finden im Sportzentrum Blasewitz, Oehmestraße 1, 01277 Dresden statt.
+
+Zu beachten sind die unterschiedlichen Registrier- und Startzeiten, siehe [Ausschreibungen](</pages/ausschreibungen>):
 - [4. Jugend-Stefan-Glasewald-Gedenkturnier](</files/ausschreibungen/Ausschreibung 4.Jugend-S-Glasewald-Gedenkturnier.pdf>)
 - [10. Dr.-Michael-Schmidt-Gedenkturnier](</files/ausschreibungen/Ausschreibung 10.Dr-M-Schmidt-Gedenkturnier.pdf>)
+
+Gespielt werden jeweils 7 Runden Schnellschach im Schweizer System.
 
 ## 25. September 2026: Open Integration und Jugendopen Integration
 
