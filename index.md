@@ -11,11 +11,12 @@ sidebar:
   nav: "main"
 ---
 
-## Gedenkturnier 2026
+## Gedenkturniere 10.-11.10.2026
 
-Die Ausschreibungen für die Gedenkturnier sind verfügbar:
-- [10. Dr.-M.-Schmidt-Gedenkturnier](</files/ausschreibungen/Ausschreibung 10.Dr-M-Schmidt-Gedenkturnier.pdf>)
-- [4. Jugend-S.-Glasewald-Gedenkturnier](</files/ausschreibungen/Ausschreibung 4.Jugend-S-Glasewald-Gedenkturnier.pdf>)
+Die Ausschreibungen für die Gedenkturniere am Wochenende in der Oehmestraße 1 sind verfügbar:
+
+- [4. Jugend-Stefan-Glasewald-Gedenkturnier](</files/ausschreibungen/Ausschreibung 4.Jugend-S-Glasewald-Gedenkturnier.pdf>)
+- [10. Dr.-Michael-Schmidt-Gedenkturnier](</files/ausschreibungen/Ausschreibung 10.Dr-M-Schmidt-Gedenkturnier.pdf>)
 
 ## 25. September 2026: Open Integration und Jugendopen Integration
 
