@@ -11,6 +11,12 @@ sidebar:
   nav: "main"
 ---
 
+## Gedenkturnier 2026
+
+Die Ausschreibungen für die Gedenkturnier sind verfügbar:
+- [10. Dr.-M.-Schmidt-Gedenkturnier](</files/ausschreibungen/Ausschreibung 10.Dr-M-Schmidt-Gedenkturnier.pdf>)
+- [4. Jugend-S.-Glasewald-Gedenkturnier](</files/ausschreibungen/Ausschreibung 4.Jugend-S-Glasewald-Gedenkturnier.pdf>)
+
 ## 25. September 2026: Open Integration und Jugendopen Integration
 
 Zum [Turnierbericht der Open Integration](/turnierberichte#25-september-2026-open-integration-und-jugendopen-integration).

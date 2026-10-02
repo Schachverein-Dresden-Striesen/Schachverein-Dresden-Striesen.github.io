@@ -11,9 +11,13 @@ Aktuelle Ausschreibungen für Turniere und Veranstaltungen.
 
 *Ausschreibungen für offene Turniere, an denen Gäste teilnehmen können.*
 
+[10. Dr.-M.-Schmidt-Gedenkturnier](</files/ausschreibungen/Ausschreibung 10.Dr-M-Schmidt-Gedenkturnier.pdf>)
+
 Siehe auch: [Vereinsturniere](vereinsturniere.md)
 
 ## Jugendturniere
+
+[4. Jugend-S.-Glasewald-Gedenkturnier](</files/ausschreibungen/Ausschreibung 4.Jugend-S-Glasewald-Gedenkturnier.pdf>)
 
 [20. Striesener Kinder- und Jugendsommerschachfest 06.09.2026](</files/ausschreibungen/Einladung-20_Sommerschachfest-2026.pdf>)
 
