@@ -1,8 +1,6 @@
 ---
 layout: single
 title: "Terminpläne"
-sidebar:
-  nav: "main"
 ---
 
 Alle wichtigen Termine und Veranstaltungen auf einen Blick.

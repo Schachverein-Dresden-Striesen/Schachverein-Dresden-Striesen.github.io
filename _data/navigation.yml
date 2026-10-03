@@ -1,29 +1,20 @@
 # Main navigation links
 main:
-  - title: "Startseite"
-    url: /
   - title: "Termine"
     url: /terminplaene
-  - title: "Ausschreibungen"
-    url: /ausschreibungen
   - title: "Vereinsturniere"
     url: /vereinsturniere
-  - title: "Jugend"
-    url: /jugend
-  - title: "DWZ-Liste"
-    url: /dwz-liste
-  - title: "Mannschaftskämpfe"
-    url: /mannschaftskaempfe
+  - title: "Ausschreibungen"
+    url: /ausschreibungen
   - title: "Turnierberichte"
     url: /turnierberichte
+  - title: "Jugend"
+    url: /jugend
   - title: "Schulschach"
     url: /schulschach
+  - title: "Mannschaftskämpfe"
+    url: /mannschaftskaempfe
+  - title: "DWZ-Liste"
+    url: /dwz-liste
   - title: "Archiv"
     url: /archiv
-  - title: "Vorstand"
-    url: /vorstand
-  - title: "Satzung und Ordnungen"
-    url: /ordnungen
-  - title: "Impressum"
-    url: /impressum
-
