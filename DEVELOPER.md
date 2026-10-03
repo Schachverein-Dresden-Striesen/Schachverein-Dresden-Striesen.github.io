@@ -137,15 +137,15 @@ Fragen zu den Standards? → [GitHub Issues](https://github.com/Schachverein-Dre
 
 ## Architektur-Entscheidungen
 
-Warum wurde etwas so designed? Siehe [`docs/adr/`](docs/adr/) für **Architektur Decision Records (ADRs)**.
+Warum wurde etwas so designed? Siehe [`docs/adr/`](/docs/adr/) für **Architecture Decision Records (ADRs)**.
 
 **Wenn du eine major change machst:** Erwäge, eine ADR zu schreiben.
 
-Lese [`docs/adr/0001-single-context-glossary.md`](docs/adr/0001-single-context-glossary.md) für ein Beispiel.
+Lese [`docs/adr/0001-single-context-glossary.md`](/docs/adr/0001-single-context-glossary/) für ein Beispiel.
 
 ## Glossar
 
-Was bedeutet "Turnier", "Mitglied", "DWZ"? Siehe [`CONTEXT.md`](CONTEXT.md) — die Domänen-Sprache des Projekts.
+Was bedeutet "Turnier", "Mitglied", "DWZ"? Siehe [`CONTEXT.md`](/CONTEXT/) — die Domänen-Sprache des Projekts.
 
 ## Probleme oder Fragen?
 
