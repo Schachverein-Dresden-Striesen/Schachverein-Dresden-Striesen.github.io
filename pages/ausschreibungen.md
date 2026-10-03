@@ -11,19 +11,17 @@ Aktuelle Ausschreibungen für Turniere und Veranstaltungen.
 
 *Ausschreibungen für offene Turniere, an denen Gäste teilnehmen können.*
 
+[10. Dr.-Michael-Schmidt-Gedenkturnier](/files/ausschreibungen/Ausschreibung%2010.Dr-M-Schmidt-Gedenkturnier.pdf)
+
 Siehe auch: [Vereinsturniere](vereinsturniere.md)
 
 ## Jugendturniere
 
-[20. Striesener Kinder- und Jugendsommerschachfest 06.09.2026](</files/ausschreibungen/Einladung-20_Sommerschachfest-2026.pdf>)
+[4. Jugend-Stefan-Glasewald-Gedenkturnier](/files/ausschreibungen/Ausschreibung%204.Jugend-S-Glasewald-Gedenkturnier.pdf)
 
 [Ausschreibung Jugend Herbstmeisterschaft 2026](</files/ausschreibungen/20260817_Ausschreibung_Herbst-Jugend-2026.pdf>)
 
 [Ausschreibung Jugend Schnellschachmeisterschaft 2026/2027](</files/ausschreibungen/20260824_Ausschreibung_DDStriesen_Jugend_Schnellschach_2627-1.pdf>)
-
-## Vereinsinterne Turniere
-
-*Ausschreibungen für vereinsinterne Wettkämpfe und Meisterschaften.*
 
 ## Anmeldeverfahren
 
