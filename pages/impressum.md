@@ -5,8 +5,6 @@ sidebar:
   nav: "main"
 ---
 
-## Impressum
-
 Schachverein Dresden-Striesen e.V.
 
 Vereinsregister: Amtsgericht Dresden, Register Nr.: VR 820
