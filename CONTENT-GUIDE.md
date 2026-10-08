@@ -106,6 +106,6 @@ Du brauchst kein Markdown-Experte zu sein. Hier die wichtigsten Formatierungen:
 
 ## Weitere Infos
 
-- **Neu bei GitHub?** → [GitHub Anfänger-Guide](GITHUB-EINSTIEG.md)
+- **Neu bei GitHub?** → [GitHub Anfänger-Guide](/GITHUB-EINSTIEG/)
 - **Fragen oder Probleme?** → Wende dich an [unser Team](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/people)
 - **Schnellere Rückmeldung?** → Öffne ein [Issue](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/issues) und erkläre, was du ändern möchtest
