@@ -22,6 +22,17 @@ footer:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:info@sv-dresden-striesen.de"
+    - label: "Vorstand"
+      url: "/vorstand"
+    - label: "Satzung und Ordnungen"
+      url: "/ordnungen"
+    - label: "Impressum"
+      url: "/impressum"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io"
+      target: "_blank"
+      rel: "noopener noreferrer"
 
 # Reading Files
 include:
@@ -122,8 +133,6 @@ defaults:
     values:
       layout: single
       author_profile: false
-      sidebar:
-        nav: "main"
   # pages folder - permalink removes /pages/ subpath from URL
   - scope:
       path: "pages"
@@ -131,8 +140,6 @@ defaults:
     values:
       layout: single
       author_profile: false
-      sidebar:
-        nav: "main"
       permalink: /:basename
   # pages/turnierberichte subdirectory - preserve /turnierberichte/ in URL
   - scope:
@@ -140,6 +147,4 @@ defaults:
       type: pages
     values:
       layout: single
-      sidebar:
-        nav: "main"
       permalink: /turnierberichte/:basename

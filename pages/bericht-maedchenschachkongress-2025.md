@@ -2,8 +2,6 @@
 layout: single
 title: "Bericht: DSJ Mädchenschachkongress 2025"
 tags: [Mädchenschach, Frauenschach, DSJ, Kongress, Förderung]
-sidebar:
-  nav: "main"
 ---
 
 **Ort:** Bildungsstätte LSB Hessen in Frankfurt  

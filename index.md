@@ -7,8 +7,6 @@ header:
 #  overlay_image: /files/schach-header.jpg
   caption: "Traditionsreicher Schachverein seit über 100 Jahren"
 excerpt: "Willkommen auf der offiziellen Website des Schachvereins Dresden-Striesen e.V."
-sidebar:
-  nav: "main"
 ---
 
 ## 10.-11.10.2026 Gedenkturniere
