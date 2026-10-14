@@ -13,7 +13,6 @@ sidebar:
 
 <div class="notice--warning" markdown="1">
 <div class="issue-highlight-title">Wichtiger Hinweis</div>
-(Block versteckt durch css in _includes/head/custom.html)
 Liebe Schachfreunde, 
  
 am 16. und 23.10.2026 in den Herbstferien, führen wir unseren Vereinsabend wieder in der Fechterhalle im Raum EG 05 durch. 
