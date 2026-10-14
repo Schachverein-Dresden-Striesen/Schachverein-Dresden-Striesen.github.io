@@ -11,6 +11,30 @@ sidebar:
   nav: "main"
 ---
 
+<div class="notice--warning" markdown="1">
+<div class="issue-highlight-title">Wichtiger Hinweis</div>
+(Block versteckt durch css in _includes/head/custom.html)
+Liebe Schachfreunde, 
+ 
+am 16. und 23.10.2026 in den Herbstferien, führen wir unseren Vereinsabend wieder in der Fechterhalle im Raum EG 05 durch. 
+Im Fechtergebäude befindet sich der Raum am **linken** Gang - siehe [Karte von _OpenStreetMap_](https://www.openstreetmap.org/?mlat=51.059948&mlon=13.724912#map=19/51.059946/13.724913).
+
+**Erreichbarkeit Straßenbahn via [DVB](https://www.dvb.de/de-de/fahrplan/verbindungsauskunft?destinationid=coord:1527872:6631917:MR_EPSG3857:Wei%C3%9Feritzstra%C3%9Fe%202):**
+
+- Haltestelle Weißeritzstraße
+- Bahnhof Dresden Mitte
+- Haltestelle Kongresszentrum
+
+**Hinweise:**
+
+- Gebäude steht neben der Ballsportarena
+- Zugang von der Magdeburger Straße
+- behindertengerechter Zugang vorhanden
+- behindertengerechte Toiletten sind nicht vorhanden !!
+- Parkplätze: P3 und P2 links an der Pieschener Allee verwenden
+</div>
+
+
 ## 10.-11.10.2026 Gedenkturniere
 
 Liebe Schachfreunde,
@@ -41,22 +65,6 @@ am **Samstag 22.08.26 und Sonntag 23.08.26 im Festsaal Rathaus Dresden** stattge
 
 Ergebnisse der Gruppen: [U8-U10](https://s3.chess-results.com/tnr1478737.aspx?lan=0&art=1&SNode=S0) & [U12](https://s3.chess-results.com/tnr1478747.aspx?lan=0&art=1&SNode=S0) & [U14](https://s2.chess-results.com/tnr1478750.aspx?lan=0&art=1&SNode=S0) & [U16-U20](https://s3.chess-results.com/tnr1478755.aspx?lan=0&art=1&SNode=S0)
 
-<div class="notice--warning" markdown="1">
-<div class="issue-highlight-title">Wichtiger Hinweis</div>
-(Block versteckt durch css in _includes/head/custom.html)
-**In den kommenden vier Wochen** findet unser Spielbetrieb vorübergehend in der **Fechterhalle, Weißeritzstraße 2, 01067 Dresden** statt.
-
-Direkt hinter der BallsportARENA.
-Im Fechtergebäude befindet sich der Raum am **linken** Gang - siehe [Karte von _OpenStreetMap_](https://www.openstreetmap.org/?mlat=51.059948&mlon=13.724912#map=19/51.059946/13.724913).
-
-**Erreichbarkeit Straßenbahn via [DVB](https://www.dvb.de/de-de/fahrplan/verbindungsauskunft?destinationid=coord:1527872:6631917:MR_EPSG3857:Wei%C3%9Feritzstra%C3%9Fe%202):**
-
-- Haltestelle Weißeritzstraße
-- Bahnhof Dresden Mitte
-- Haltestelle Kongresszentrum
-
-> Die Jahresreinigung im Nexö-Gymnasium geht über einen längeren Zeitraum - wir werden ab dem 31. Juli  in gewohnten Räumen sein.
-</div>
 
 ## Trainingszeiten
 
