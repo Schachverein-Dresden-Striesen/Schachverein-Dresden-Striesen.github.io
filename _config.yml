@@ -27,20 +27,17 @@ footer:
 include:
   - files
   - pages
-  - _pages
-  - CONTEXT.md
-  - GITHUB-EINSTIEG.md
-  - docs/adr
 
 exclude:
-  - AGENTS.md
-  - AGENTS/
-  - CONTEXT-MAP.md
-  - THEME_MIGRATION.md
   - .agents/
   - .github/
-  - docs/agents/
+  - docs/
+  - AGENTS.md
+  - CONTEXT.md
+  - GITHUB-EINSTIEG.md
+  - THEME_MIGRATION.md
   - skills-lock.json
+  # exclude common bundler and system files
   - Gemfile
   - Gemfile.lock
   - node_modules

@@ -90,7 +90,7 @@ Wenn alles ok ist, wird die PR gemerged. Congratulations! 🎉
 
 ## Projektstruktur
 
-```
+```text
 .
 ├── _config.yml          # Jekyll-Konfiguration
 ├── index.md             # Startseite
@@ -137,15 +137,11 @@ Fragen zu den Standards? → [GitHub Issues](https://github.com/Schachverein-Dre
 
 ## Architektur-Entscheidungen
 
-Warum wurde etwas so designed? Siehe [`docs/adr/`](/docs/adr/) für **Architecture Decision Records (ADRs)**.
-
-**Wenn du eine major change machst:** Erwäge, eine ADR zu schreiben.
-
-Lese [`docs/adr/0001-single-context-glossary.md`](/docs/adr/0001-single-context-glossary/) für ein Beispiel.
+Warum wurde etwas so designed? Siehe [`docs/adr/`](docs/adr/index.md) für **Architecture Decision Records (ADRs)**.
 
 ## Glossar
 
-Was bedeutet "Turnier", "Mitglied", "DWZ"? Siehe [`CONTEXT.md`](/CONTEXT/) — die Domänen-Sprache des Projekts.
+Was bedeutet "Turnier", "Mitglied", "DWZ"? Siehe [`CONTEXT.md`](/CONTEXT) — die Domänen-Sprache des Projekts.
 
 ## Probleme oder Fragen?
 
