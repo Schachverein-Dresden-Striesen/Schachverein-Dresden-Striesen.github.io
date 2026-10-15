@@ -6,15 +6,21 @@ main:
     url: /vereinsturniere
   - title: "Ausschreibungen"
     url: /ausschreibungen
-  - title: "Turnierberichte"
-    url: /turnierberichte
-  - title: "Jugend"
-    url: /jugend
-  - title: "Schulschach"
-    url: /schulschach
-  - title: "Mannschaftskämpfe"
-    url: /mannschaftskaempfe
+  - title: "Satzung und Ordnungen"
+    url: /ordnungen
   - title: "DWZ-Liste"
     url: /dwz-liste
+  - title: "Jugend"
+    url: /jugend
+  # - title: "Schulschach"
+  #   url: /schulschach
+  - title: "Mannschaftskämpfe"
+    url: /mannschaftskaempfe
+  - title: "Turnierberichte"
+    url: /turnierberichte
+  - title: "Vorstand"
+    url: /vorstand
   - title: "Archiv"
     url: /archiv
+  - title: "Impressum"
+    url: /impressum
