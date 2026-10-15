@@ -5,7 +5,7 @@ description: "Offizielle Website des Schachvereins Dresden-Striesen e.V. - Infor
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-# baseurl: ""
+baseurl: ""
 repository: "Schachverein-Dresden-Striesen"
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 email: info@sv-dresden-striesen.de
@@ -27,19 +27,19 @@ footer:
 include:
   - files
   - pages
-  - _pages
 
 exclude:
-  - AGENTS.md
-  - AGENTS/
-  - CONTEXT.md
-  - CONTEXT-MAP.md
-  - GITHUB-EINSTIEG.md
-  - THEME_MIGRATION.md
   - .agents/
   - .github/
-  - docs/agents/
+  - docs/
+  - AGENTS.md
+  - CONTENT-GUIDE.md
+  - CONTEXT.md
+  - DEVELOPER.md
+  - GITHUB-EINSTIEG.md
+  - THEME_MIGRATION.md
   - skills-lock.json
+  # exclude common bundler and system files
   - Gemfile
   - Gemfile.lock
   - node_modules

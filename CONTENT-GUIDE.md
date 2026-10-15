@@ -50,11 +50,13 @@ Dein Turnierbericht hier...
 Dateinamen folgen dem Muster: `JJJJ-MM-TT-ereignis-name.md`
 
 **Beispiele:**
+
 - `2026-10-15-turnier-seiffen.md`
 - `2026-09-20-verbandstag-ankündigung.md`
 - `2026-12-01-weihnachtsfeier.md`
 
 **Regeln:**
+
 - Nur Kleinbuchstaben
 - Zahlen und Bindestriche
 - Keine Umlaute oder Sonderzeichen (außer Bindestrich)
@@ -106,6 +108,6 @@ Du brauchst kein Markdown-Experte zu sein. Hier die wichtigsten Formatierungen:
 
 ## Weitere Infos
 
-- **Neu bei GitHub?** → [GitHub Anfänger-Guide](GITHUB-EINSTIEG.md)
+- **Neu bei GitHub?** → [GitHub Anfänger-Guide](/GITHUB-EINSTIEG)
 - **Fragen oder Probleme?** → Wende dich an [unser Team](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/people)
 - **Schnellere Rückmeldung?** → Öffne ein [Issue](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/issues) und erkläre, was du ändern möchtest
