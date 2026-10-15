@@ -131,7 +131,7 @@ Alle Beiträge müssen folgende Standards erfüllen:
 - **Dateinamen Deutsch:** Aussagekräftige deutsche Namen für Dateien und Ordner
 - **Bilder optimieren:** Für Web geeignete Größe und Format (JPG/WebP/PNG, nicht zu groß)
 - **Deutsche Orthografie:** Korrekte Rechtschreibung und Grammatik
-- **GitHub Pages Limitations:** Keine trailing slashes in Links (z.B. `/seite/` statt `/seite`)
+- **Interne Links:** Verwende die für die Zielseite konfigurierte Permalink-Form. Je nach Inhaltstyp kann sie mit oder ohne abschließenden Slash definiert sein.
 
 Fragen zu den Standards? → [GitHub Issues](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/issues)
 
