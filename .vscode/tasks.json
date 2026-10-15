@@ -2,7 +2,7 @@
     "version": "2.0.0",
     "tasks": [
         {
-            "label": "Jekyll: Serve",
+            "label": "Jekyll: Serve (localhost)",
             "type": "shell",
             // https://github.com/microsoft/WSL/issues/216
             "command": "bundle exec jekyll serve --incremental --force_polling",
@@ -10,32 +10,16 @@
                 "kind": "build",
                 "isDefault": true
             },
-            "presentation": {
-                "echo": true,
-                "reveal": "always",
-                "focus": false,
-                "panel": "new",
-                "showReuseMessage": true,
-                "clear": false
-            },
-            "isBackground": true,
-            "detail": "Start Jekyll development server with incremental build and force polling"
+            "isBackground": true
         },
         {
-            "label": "Jekyll: Build",
+            "label": "Test: Links (prod-like)",
             "type": "shell",
-            "command": "bundle exec jekyll build",
-            "group": "build",
-            "presentation": {
-                "echo": true,
-                "reveal": "always",
-                "focus": false,
-                "panel": "shared",
-                "showReuseMessage": true,
-                "clear": false
-            },
-            "problemMatcher": [],
-            "detail": "Build Jekyll site for production"
+            "command": "JEKYLL_ENV=production bundle exec jekyll build --destination _site-prod && bundle exec htmlproofer _site-prod --allow-hash-href --disable-external",
+            "group": {
+                "kind": "test",
+                "isDefault": true
+            }
         }
     ]
 }
