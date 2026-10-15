@@ -33,7 +33,9 @@ exclude:
   - .github/
   - docs/
   - AGENTS.md
+  - CONTENT-GUIDE.md
   - CONTEXT.md
+  - DEVELOPER.md
   - GITHUB-EINSTIEG.md
   - THEME_MIGRATION.md
   - skills-lock.json
