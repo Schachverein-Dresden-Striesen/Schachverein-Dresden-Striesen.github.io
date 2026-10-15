@@ -9,8 +9,8 @@ Herzlich Willkommen bei der Schachjugend Dresden-Striesen!
 
 ### Themen am Freitag
 
-- Einsteiger: Turmendspiel (Lucena)
-- Fortgeschrittene: Halboffene Eröffnungen (e6, c6)
+- Einsteiger: Turmendspiel (Philidor)
+- Fortgeschrittene: Sizilianisch aus weißer Sicht
 
 > Falls ihr individuelle Fragen habt (Welche Eröffnungen, Wie trainier' ich zu Hause?, Was macht man gegen London?, ...), dann könnt ihr jederzeit die **Trainer** anschreiben!
 
@@ -19,7 +19,7 @@ Siehe auch: [→ Ausschreibungen Jugend](/ausschreibungen#jugendturniere)
 
 Alle Informationen zu Turnieren am Freitag sind im [Terminplan](/files/terminplaene/Terminplan-Jugend-Herbst-2026-08-30.pdf) zu finden.
 
-Informationen zum [Dienstags-](/files/terminplaene/Trainingstermine%20Schach%20Freiraum%20August-Feb2027.pdf) und [Mittwochstraining](/files/terminplaene/Trainingstermine-Schach-Nexoe-2026-08-14.pdf) sind den jeweiligen PDF's gesammelt.
+Informationen zum [Dienstags-](/files/terminplaene/Trainingstermine%20Schach%20Freiraum%20August-Feb2027.pdf) und [Mittwochstraining](/files/terminplaene/Trainingstermine-Schach-Nexoe-2026-09-30.pdf) sind den jeweiligen PDF's gesammelt.
 
 ## Aktuelles
 

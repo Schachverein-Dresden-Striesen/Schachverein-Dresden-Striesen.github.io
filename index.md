@@ -9,34 +9,11 @@ header:
 excerpt: "Willkommen auf der offiziellen Website des Schachvereins Dresden-Striesen e.V."
 ---
 
-## 25. September 2026: Open Integration und Jugendopen Integration
-
-Auch in diesem Jahr führen wir die schon traditionellen Schnellschachturniere innerhalb der [Interkulturellen Tage](https://www.dresden.de/de/leben/gesellschaft/migration/aktuelles/ikt.php) in Dresden durch. Es ist ein Gemeinschaftsprojekt mit dem Landessportbund Sachsen und seinem Programm **Integration durch Sport**. Gespielt werden am **Freitag, 25.09.2026** zwei Schnellturniere in der Aula des Dresdner „Martin-Andersen-Nexö-Gymnasium".
-> Zu beachten ist der Meldeschluss zu Runde 1:
-**16:00 Uhr** im Jugendopen (U14) und **16:30 Uhr** im Open.
-
-Gespielt werden in beiden Turnieren **5 Runden Schweizer System**.
-
-Die kompletten Ausschreibungen sind hier einsehbar:
-
-- [Jugendopen Integration](/files/ausschreibungen/Ausschreibung%20Jugendopen%20Integration%202026.pdf)
-- [Open Integration](/files/ausschreibungen/Ausschreibung%20Open%20Integration%202026.pdf)
-
-Wir freuen uns auf Jung und Alt aus Dresden oder von weiter her!
-
-## 22.-23. August 2026: Offene Jugend-Stadtmeisterschaft Dresden
-
-Das Turnier der Jahrgänge **2007 und jünger** hat mit 5 Runden
-am **Samstag 22.08.26 und Sonntag 23.08.26 im Festsaal Rathaus Dresden** stattgefunden.
-
-Ergebnisse der Gruppen: [U8-U10](https://s3.chess-results.com/tnr1478737.aspx?lan=0&art=1&SNode=S0) & [U12](https://s3.chess-results.com/tnr1478747.aspx?lan=0&art=1&SNode=S0) & [U14](https://s2.chess-results.com/tnr1478750.aspx?lan=0&art=1&SNode=S0) & [U16-U20](https://s3.chess-results.com/tnr1478755.aspx?lan=0&art=1&SNode=S0)
-
 <div class="notice--warning" markdown="1">
 <div class="issue-highlight-title">Wichtiger Hinweis</div>
-(Block versteckt durch css in _includes/head/custom.html)
-**In den kommenden vier Wochen** findet unser Spielbetrieb vorübergehend in der **Fechterhalle, Weißeritzstraße 2, 01067 Dresden** statt.
-
-Direkt hinter der BallsportARENA.
+Liebe Schachfreunde, 
+ 
+am 16. und 23.10.2026 in den Herbstferien, führen wir unseren Vereinsabend wieder in der Fechterhalle im Raum EG 05 durch. 
 Im Fechtergebäude befindet sich der Raum am **linken** Gang - siehe [Karte von _OpenStreetMap_](https://www.openstreetmap.org/?mlat=51.059948&mlon=13.724912#map=19/51.059946/13.724913).
 
 **Erreichbarkeit Straßenbahn via [DVB](https://www.dvb.de/de-de/fahrplan/verbindungsauskunft?destinationid=coord:1527872:6631917:MR_EPSG3857:Wei%C3%9Feritzstra%C3%9Fe%202):**
@@ -45,8 +22,46 @@ Im Fechtergebäude befindet sich der Raum am **linken** Gang - siehe [Karte von 
 - Bahnhof Dresden Mitte
 - Haltestelle Kongresszentrum
 
-> Die Jahresreinigung im Nexö-Gymnasium geht über einen längeren Zeitraum - wir werden ab dem 31. Juli  in gewohnten Räumen sein.
+**Hinweise:**
+
+- Gebäude steht neben der Ballsportarena
+- Zugang von der Magdeburger Straße
+- behindertengerechter Zugang vorhanden
+- behindertengerechte Toiletten sind nicht vorhanden !!
+- Parkplätze: P3 und P2 links an der Pieschener Allee verwenden
 </div>
+
+
+## 10.-11.10.2026 Gedenkturniere
+
+Liebe Schachfreunde,
+
+im Gedenken an unsere verdienstvollen Funktionäre führen wir
+am Sonnabend, 10.10.2026 unser 4. Jugend-Stefan-Glasewald-Gedenkturnier
+und am
+Sonntag, 11.10.2026 unser 10. Dr.-Michael-Schmidt-Gedenkturnier
+durch.
+
+Beide Veranstaltungen finden im Sportzentrum Blasewitz, Oehmestraße 1, 01277 Dresden statt.
+
+Zu beachten sind die unterschiedlichen Registrier- und Startzeiten, siehe [Ausschreibungen](/ausschreibungen):
+
+- [4. Jugend-Stefan-Glasewald-Gedenkturnier](</files/ausschreibungen/Ausschreibung 4.Jugend-S-Glasewald-Gedenkturnier.pdf>)
+- [10. Dr.-Michael-Schmidt-Gedenkturnier](</files/ausschreibungen/Ausschreibung 10.Dr-M-Schmidt-Gedenkturnier.pdf>)
+
+Gespielt werden jeweils 7 Runden Schnellschach im Schweizer System.
+
+## 25. September 2026: Open Integration und Jugendopen Integration
+
+Zum [Turnierbericht der Open Integration](/turnierberichte#25-september-2026-open-integration-und-jugendopen-integration).
+
+## 22.-23. August 2026: Offene Jugend-Stadtmeisterschaft Dresden
+
+Das Turnier der Jahrgänge **2007 und jünger** hat mit 5 Runden
+am **Samstag 22.08.26 und Sonntag 23.08.26 im Festsaal Rathaus Dresden** stattgefunden.
+
+Ergebnisse der Gruppen: [U8-U10](https://s3.chess-results.com/tnr1478737.aspx?lan=0&art=1&SNode=S0) & [U12](https://s3.chess-results.com/tnr1478747.aspx?lan=0&art=1&SNode=S0) & [U14](https://s2.chess-results.com/tnr1478750.aspx?lan=0&art=1&SNode=S0) & [U16-U20](https://s3.chess-results.com/tnr1478755.aspx?lan=0&art=1&SNode=S0)
+
 
 ## Trainingszeiten
 
@@ -54,7 +69,7 @@ Im Fechtergebäude befindet sich der Raum am **linken** Gang - siehe [Karte von 
 
 Dienstags 16:30–18:00 Uhr im **Freiraum, Borsbergstraße 23b**
 
-Mittwochs 15:00–16:30 Uhr im **Martin-Andersen-Nexö-Gymnasium, Raum 218**
+Mittwochs 15:30–17:00 Uhr im **Martin-Andersen-Nexö-Gymnasium, Raum 218**
 
 Freitags 16:30–18:30 Uhr im **Martin-Andersen-Nexö-Gymnasium, Raum 019**
 
