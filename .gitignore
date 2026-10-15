@@ -5,7 +5,7 @@ Gemfile.lock
 *.log
 
 # Jekyll specific files
-_site/
+_site*/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
