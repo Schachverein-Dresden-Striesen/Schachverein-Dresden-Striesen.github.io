@@ -137,7 +137,7 @@ Fragen zu den Standards? → [GitHub Issues](https://github.com/Schachverein-Dre
 
 ## Architektur-Entscheidungen
 
-Warum wurde etwas so designed? Siehe [`docs/adr/`](docs/adr/index.md) für **Architecture Decision Records (ADRs)**.
+Warum wurde etwas so designed? Siehe [`docs/adr`](/docs/adr/0001-single-context-glossary.md) für **Architecture Decision Records (ADRs)**.
 
 ## Glossar
 
