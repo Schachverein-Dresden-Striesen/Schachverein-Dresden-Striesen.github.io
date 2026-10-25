@@ -2,6 +2,7 @@
 
 **Status:** Accepted  
 **Date:** 2026-09-26  
+**Updated:** 2026-10-25 (Dateiname auf `GLOSSARY.md` korrigiert, Format-Verweis angepasst)  
 **Deciders:** Agent Team
 
 ## Problem
@@ -14,11 +15,13 @@ Das Repository arbeitet mit Fachbegriffen aus der Schachvereins-Domäne (Mitglie
 
 ## Decision
 
-Das Repository führt ein zentrales **`CONTEXT.md`-Glossar**, das **nur Domänenbegriffe** enthält:
+Das Repository führt ein zentrales **`GLOSSARY.md`-Glossar** im Repository-Root, das **nur Domänenbegriffe** enthält:
 
 - Schachvereins-Konzepte: Mitglied, Turnier, DWZ, Schulschach, etc.
 - **Keine** Repository-Operationen (Skill, Agentic Work, etc.) — diese sind Tooling, nicht Domäne.
 - **Keine** Implementierungsdetails (Datenbankschema, APIs, etc.).
+
+`GLOSSARY.md` und `docs/adr/` sind in [_config.yml](../../_config.yml) von der Jekyll-Veröffentlichung ausgeschlossen.
 
 Das Glossar ist die Primary Source für die Sprache aller Diskussionen. Wenn ein Begriff mehrdeutig oder umstritten ist, wird er hier geklärt, bevor andere Arbeit fortgeht.
 
@@ -38,4 +41,4 @@ Das Glossar ist die Primary Source für die Sprache aller Diskussionen. Wenn ein
 
 ## Follow-up
 
-Siehe `.agents/skills/domain-modeling/CONTEXT-FORMAT.md` für das Template und die Regeln.
+Siehe `.agents/skills/domain-modeling/GLOSSARY-FORMAT.md` für das Template und die Regeln.

@@ -1,4 +1,4 @@
-# Kontext
+# Glossar
 
 Dieses Dokument ist das Glossar der Domäne des Schachvereins Dresden-Striesen. Es beschreibt Begriffe und ihre Bedeutung, ohne Implementierungsdetails zu enthalten.
 

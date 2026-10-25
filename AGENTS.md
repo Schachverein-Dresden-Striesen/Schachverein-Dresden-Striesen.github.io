@@ -10,7 +10,7 @@ Default triage labels are used: `needs-triage`, `needs-info`, `ready-for-agent`,
 
 ## Domain docs
 
-Single-context layout: root `CONTEXT.md` and `docs/adr/` are the reference docs for domain language and decisions. See [`docs/agents/domain.md`](docs/agents/domain.md).
+Single-context layout: root `GLOSSARY.md` and `docs/adr/` are the reference docs for domain language and decisions. See [`docs/agents/domain.md`](docs/agents/domain.md).
 
 ## Repository context
 
