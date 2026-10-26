@@ -50,11 +50,13 @@ Dein Turnierbericht hier...
 Dateinamen folgen dem Muster: `JJJJ-MM-TT-ereignis-name.md`
 
 **Beispiele:**
+
 - `2026-10-15-turnier-seiffen.md`
 - `2026-09-20-verbandstag-ankündigung.md`
 - `2026-12-01-weihnachtsfeier.md`
 
 **Regeln:**
+
 - Nur Kleinbuchstaben
 - Zahlen und Bindestriche
 - Keine Umlaute oder Sonderzeichen (außer Bindestrich)

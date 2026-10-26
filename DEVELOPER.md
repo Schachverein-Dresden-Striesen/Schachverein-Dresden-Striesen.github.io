@@ -90,7 +90,7 @@ Wenn alles ok ist, wird die PR gemerged. Congratulations! 🎉
 
 ## Projektstruktur
 
-```
+```text
 .
 ├── _config.yml          # Jekyll-Konfiguration
 ├── index.md             # Startseite
@@ -131,17 +131,13 @@ Alle Beiträge müssen folgende Standards erfüllen:
 - **Dateinamen Deutsch:** Aussagekräftige deutsche Namen für Dateien und Ordner
 - **Bilder optimieren:** Für Web geeignete Größe und Format (JPG/WebP/PNG, nicht zu groß)
 - **Deutsche Orthografie:** Korrekte Rechtschreibung und Grammatik
-- **GitHub Pages Limitations:** Keine trailing slashes in Links (z.B. `/seite/` statt `/seite`)
+- **Interne Links:** Verwende die für die Zielseite konfigurierte Permalink-Form. Je nach Inhaltstyp kann sie mit oder ohne abschließenden Slash definiert sein.
 
 Fragen zu den Standards? → [GitHub Issues](https://github.com/Schachverein-Dresden-Striesen/Schachverein-Dresden-Striesen.github.io/issues)
 
 ## Architektur-Entscheidungen
 
-Warum wurde etwas so designed? Siehe [`docs/adr/`](docs/adr/) für **Architektur Decision Records (ADRs)**.
-
-**Wenn du eine major change machst:** Erwäge, eine ADR zu schreiben.
-
-Lese [`docs/adr/0001-single-context-glossary.md`](docs/adr/0001-single-context-glossary.md) für ein Beispiel.
+Warum wurde etwas so designed? Siehe [`docs/adr`](docs/adr/0001-single-context-glossary.md) für **Architecture Decision Records (ADRs)**.
 
 ## Glossar
 
