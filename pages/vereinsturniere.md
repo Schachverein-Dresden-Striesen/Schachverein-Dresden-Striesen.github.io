@@ -1,8 +1,6 @@
 ---
 layout: single
 title: "Vereinsturniere"
-sidebar:
-  nav: "main"
 ---
 
 Hier finden Sie Informationen zu unseren regelmäßigen Freitagsturnieren.
