@@ -32,4 +32,4 @@ This seam selects the default. Mandatory checks for every contribution, includin
 - **Testable application behavior:** application tests, TDD, and mocks are available when the change introduces behavior and seams that justify them.
 - **Prototyping and debugging:** use framework-specific prototyping and advanced debugging only when the task needs them and the infrastructure exists. A static page or layout prototype does not assume a JavaScript framework. Scale diagnosis to the failure and the tools on hand; service instrumentation, fuzzing, or browser automation are not the default for a simple site issue.
 - **Research:** choose delegation and a persistent Markdown report from the requested scope and deliverable. Answer a bounded question directly. When substantial documented research is requested, keep the research thorough and write the reusable report.
-- **Glossary:** update [`CONTEXT.md`](CONTEXT.md) only when a domain term is clarified or changed. Ordinary unrelated work leaves the glossary unchanged.
+- **Glossary:** update [`GLOSSARY.md`](GLOSSARY.md) only when a domain term is clarified or changed. Ordinary unrelated work leaves the glossary unchanged.
