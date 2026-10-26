@@ -141,7 +141,7 @@ Warum wurde etwas so designed? Siehe [`docs/adr`](/docs/adr/0001-single-context-
 
 ## Glossar
 
-Was bedeutet "Turnier", "Mitglied", "DWZ"? Siehe [`CONTEXT.md`](/CONTEXT) — die Domänen-Sprache des Projekts.
+Was bedeutet "Turnier", "Mitglied", "DWZ"? Siehe [`GLOSSARY.md`](GLOSSARY.md) — die Sprache des Projekts.
 
 ## Probleme oder Fragen?
 

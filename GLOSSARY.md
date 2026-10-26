@@ -1,4 +1,4 @@
-# Kontext
+# Glossar
 
 Dieses Dokument ist das Glossar der Domäne des Schachvereins Dresden-Striesen. Es beschreibt Begriffe und ihre Bedeutung, ohne Implementierungsdetails zu enthalten.
 
@@ -25,6 +25,14 @@ Jugend bezeichnet die Angebote und Aktivitäten für Kinder und Jugendliche im V
 ### Turnier
 
 Ein Turnier ist eine organisierte Schachveranstaltung mit festem Ablauf, Teilnehmerfeld und Ergebnissen.
+
+### Ausschreibung
+
+Eine Ausschreibung ist die offizielle Ankündigung eines Turniers oder einer Vereinsveranstaltung mit den für Teilnehmende relevanten Informationen, etwa Regeln, Terminen, Ort, gegebenenfalls Gebühren und Anmeldeverfahren. Für diese Informationen ist sie die maßgebliche Quelle.
+
+### Turnierbericht
+
+Ein Turnierbericht dokumentiert nach Abschluss ein Schachturnier, an dem der Verein teilgenommen oder das er organisiert hat, mit Ergebnissen, Höhepunkten, Eindrücken und Fotos. Er ist eine historische Quelle für die Vereinschronik.
 
 ### Mannschaftskampf
 

@@ -101,6 +101,5 @@ Aktueller Meilenstein: [Milestones](https://github.com/Schachverein-Dresden-Stri
 
 ## Dokumentation
 
-- **[CONTEXT.md](CONTEXT.md)** — Glossar der Domänenbegriffe
 - **[docs/adr/](docs/adr/)** — Architektur-Entscheidungen
 - **[docs/agents/](docs/agents/)** — Agent-Operator-Guides

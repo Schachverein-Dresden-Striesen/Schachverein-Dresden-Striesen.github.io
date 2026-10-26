@@ -37,6 +37,7 @@ exclude:
   - CONTEXT.md
   - DEVELOPER.md
   - GITHUB-EINSTIEG.md
+  - GLOSSARY.md
   - THEME_MIGRATION.md
   - skills-lock.json
   # exclude common bundler and system files
