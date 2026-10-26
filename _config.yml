@@ -43,13 +43,12 @@ include:
 exclude:
   - AGENTS.md
   - AGENTS/
-  - CONTEXT.md
-  - CONTEXT-MAP.md
   - GITHUB-EINSTIEG.md
+  - GLOSSARY.md
   - THEME_MIGRATION.md
   - .agents/
   - .github/
-  - docs/agents/
+  - docs/
   - skills-lock.json
   - Gemfile
   - Gemfile.lock

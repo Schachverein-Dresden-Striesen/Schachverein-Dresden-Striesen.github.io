@@ -145,7 +145,7 @@ Lese [`docs/adr/0001-single-context-glossary.md`](docs/adr/0001-single-context-g
 
 ## Glossar
 
-Was bedeutet "Turnier", "Mitglied", "DWZ"? Siehe [`CONTEXT.md`](CONTEXT.md) — die Domänen-Sprache des Projekts.
+Was bedeutet "Turnier", "Mitglied", "DWZ"? Siehe [`GLOSSARY.md`](GLOSSARY.md) — die Sprache des Projekts.
 
 ## Probleme oder Fragen?
 
