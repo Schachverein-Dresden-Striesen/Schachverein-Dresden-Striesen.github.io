@@ -9,10 +9,10 @@ Herzlich Willkommen bei der Schachjugend Dresden-Striesen!
 
 ## Training
 
-### Themen am Freitag
+### Themen am Freitag, 30.10.2026
 
-- Einsteiger: Turmendspiel (Philidor)
-- Fortgeschrittene: Sizilianisch aus weißer Sicht
+- Einsteiger: Eröffnungsbasics (goldene Eröffnungsregeln)
+- Fortgeschrittene: Nachtrag zu halboffenen Eröffnungen
 
 > Falls ihr individuelle Fragen habt (Welche Eröffnungen, Wie trainier' ich zu Hause?, Was macht man gegen London?, ...), dann könnt ihr jederzeit die **Trainer** anschreiben!
 
