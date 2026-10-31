@@ -1,6 +1,7 @@
 # Issue tracker: GitHub
 
 Issues and specs for this repo live as GitHub issues. Use the `gh` CLI for all operations.
+The devcontainer installs `gh` automatically. Authenticate your own CLI session with `gh auth login`; do not store credentials in the repository.
 
 ## Conventions
 
