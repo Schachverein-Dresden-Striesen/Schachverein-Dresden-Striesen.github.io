@@ -1,8 +1,6 @@
 ---
 layout: single
 title: "Schachjugend Dresden-Striesen"
-sidebar:
-  nav: "main"
 ---
 
 Herzlich Willkommen bei der Schachjugend Dresden-Striesen!

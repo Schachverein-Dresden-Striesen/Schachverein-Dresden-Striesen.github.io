@@ -1,8 +1,6 @@
 ---
 layout: single
 title: "DWZ-Liste"
-sidebar:
-  nav: "main"
 ---
 
 [**DWZ-Rangliste SV Dresden-Striesen e.V.**](https://www.schachbund.de/dwz-vereine/F2810.html){:target="_blank"}

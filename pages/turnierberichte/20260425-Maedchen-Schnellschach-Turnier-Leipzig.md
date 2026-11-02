@@ -1,8 +1,6 @@
 ---
 layout: single
 title: "25.04.2026 - Mädchen-Schnellschachturnier des JSBS"
-sidebar:
-  nav: "main"
 ---
 
 In diesem Jahr trafen sich zwölf Schachspielerinnen zum Mädchen-Schnellschachturnier im Denksportzentrum der Schachgemeinschaft Leipzig.

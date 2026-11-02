@@ -1,8 +1,6 @@
 ---
 layout: single
 title: "Turnierberichte"
-sidebar:
-  nav: "main"
 ---
 
 Berichte zu Turnieren des SV Dresden-Striesen und Turnieren, an denen der Verein teilgenommen hat.

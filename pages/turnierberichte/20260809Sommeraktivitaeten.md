@@ -1,8 +1,6 @@
 ---
 layout: single
 title: "Sommeraktivitäten 2026"
-sidebar:
-  nav: "main"
 ---
 
 Im Sommer 2026 nahmen Spieler unseres Vereins an mehreren internationalen und überregionalen Schachturnieren teil.

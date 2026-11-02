@@ -1,8 +1,6 @@
 ---
 layout: single
 title: "Ehrenordnung"
-sidebar:
-  nav: "main"
 ---
 
 <!-- markdownlint-disable-next-line no-inline-html -->

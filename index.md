@@ -7,8 +7,6 @@ header:
 #  overlay_image: /files/schach-header.jpg
   caption: "Traditionsreicher Schachverein seit über 100 Jahren"
 excerpt: "Willkommen auf der offiziellen Website des Schachvereins Dresden-Striesen e.V."
-sidebar:
-  nav: "main"
 ---
 
 ## 25. September 2026: Open Integration und Jugendopen Integration
