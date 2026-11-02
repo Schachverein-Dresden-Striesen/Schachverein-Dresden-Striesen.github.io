@@ -11,29 +11,6 @@ sidebar:
   nav: "main"
 ---
 
-<div class="notice--warning" markdown="1">
-<div class="issue-highlight-title">Wichtiger Hinweis</div>
-Liebe Schachfreunde, 
- 
-am 16. und 23.10.2026 in den Herbstferien, führen wir unseren Vereinsabend wieder in der Fechterhalle im Raum EG 05 durch. 
-Im Fechtergebäude befindet sich der Raum am **linken** Gang - siehe [Karte von _OpenStreetMap_](https://www.openstreetmap.org/?mlat=51.059948&mlon=13.724912#map=19/51.059946/13.724913).
-
-**Erreichbarkeit Straßenbahn via [DVB](https://www.dvb.de/de-de/fahrplan/verbindungsauskunft?destinationid=coord:1527872:6631917:MR_EPSG3857:Wei%C3%9Feritzstra%C3%9Fe%202):**
-
-- Haltestelle Weißeritzstraße
-- Bahnhof Dresden Mitte
-- Haltestelle Kongresszentrum
-
-**Hinweise:**
-
-- Gebäude steht neben der Ballsportarena
-- Zugang von der Magdeburger Straße
-- behindertengerechter Zugang vorhanden
-- behindertengerechte Toiletten sind nicht vorhanden !!
-- Parkplätze: P3 und P2 links an der Pieschener Allee verwenden
-</div>
-
-
 ## 10.-11.10.2026 Gedenkturniere
 
 Liebe Schachfreunde,
