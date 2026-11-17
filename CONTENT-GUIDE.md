@@ -101,6 +101,7 @@ Du brauchst kein Markdown-Experte zu sein. Hier die wichtigsten Formatierungen:
 
 ## Hilfreiche Tipps
 
+- **Jugendtrainingszeiten:** Die regulären Zeiten und Orte stehen in `_includes/jugendtraining.md` und erscheinen auf Start- und Jugendseite.
 - **Bilder hochladen:** Bitte zunächst ein Issue öffnen oder das Team kontaktieren — Bilder sollten optimiert werden
 - **Längere Berichte:** Nutze Unterabschnitte mit `##` und `###` für bessere Lesbarkeit
 - **Quellen zitieren:** Wenn du Informationen aus anderen Quellen verwendest, füge einen Link hinzu
