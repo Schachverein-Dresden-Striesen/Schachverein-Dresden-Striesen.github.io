@@ -11,8 +11,8 @@ sidebar:
 
 - [Finanzordnung](/files/ordnungen/20250214%20Finanzordnung.pdf) — [Textfassung](/finanzordnung)
 - [Wettkampf- und Turnierordnung](/files/ordnungen/20260708%20WTO.pdf)
-- [Jugendordnung](/files/ordnungen/20240702%20Jugendordnung.pdf)
 - [Ehrenordnung](/files/ordnungen/20260708%20Ehrenordnung.pdf) — [Textfassung](/ehrenordnung)
+- [Jugendordnung](/files/ordnungen/20240702%20Jugendordnung.pdf) — [Textfassung](/jugendordnung)
 
 ## weitere Dokumente
 
@@ -21,6 +21,7 @@ sidebar:
 - [Begrüßung im Verein](/files/ordnungen/Begruessung_im_Verein.pdf)  
 
 ## Protokoll Jahreshauptversammlung 2026
+
 [Protokoll JHV 2026](/files/jhv/20260313%20Protokoll%20JHV.pdf)  
 Anlage TOP1: Teilnehmerliste - Kann auf Anfrage beim Vorstand eingesehen werden  
 [Anlage TOP2: Einladung und Tagesordnung](/files/jhv/20260313%20Protokoll%20JHV%20Anlage%20Einladung%20und%20Tagesordnung.pdf)  
