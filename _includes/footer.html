@@ -1,0 +1,20 @@
+<div class="page__footer-follow">
+    <ul class="social-icons">
+        {% if site.footer.links %}
+        {% for link in site.footer.links %}
+        <li>
+            <a href="{{ link.url }}" {% if link.target %}target="{{ link.target }}" {% endif %} {% if link.rel
+                %}rel="{{ link.rel }}" {% endif %}>
+                {% if link.icon %}<i class="{{ link.icon }}"></i>{% endif %}
+                {{ link.label }}
+            </a>
+        </li>
+        {% endfor %}
+        {% endif %}
+    </ul>
+</div>
+
+<div class="page__footer-copyright">&copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}. {{
+    site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com"
+        rel="nofollow">Jekyll</a> &amp; <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/"
+        rel="nofollow">Minimal Mistakes</a>.</div>

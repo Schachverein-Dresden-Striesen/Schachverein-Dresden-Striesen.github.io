@@ -1,8 +1,6 @@
 ---
 layout: single
 title: "Finanzordnung"
-sidebar:
-  nav: "main"
 ---
 <!-- markdownlint-disable-next-line no-inline-html -->
 <p class="issue-highlight-title">

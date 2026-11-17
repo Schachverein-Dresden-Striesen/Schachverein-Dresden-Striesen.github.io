@@ -1,8 +1,6 @@
 ---
 layout: single
 title: "Satzung"
-sidebar:
-  nav: "main"
 ---
 
 <!-- markdownlint-disable-next-line no-inline-html -->

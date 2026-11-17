@@ -1,8 +1,6 @@
 ---
 layout: single
 title: "Vorstand und Verantwortlichkeiten"
-sidebar:
-  nav: "main"
 ---
 
 Der Schachverein Dresden-Striesen e.V. wird von einem engagierten Vorstand geleitet. Hier finden Sie alle aktuellen Vorstandsmitglieder und Verantwortlichen mit ihren Aufgabenbereichen.

@@ -1,8 +1,6 @@
 ---
 layout: single
 title: "Satzungen und Ordnungen"
-sidebar:
-  nav: "main"
 ---
 
 ## Satzung und Ordnungen
