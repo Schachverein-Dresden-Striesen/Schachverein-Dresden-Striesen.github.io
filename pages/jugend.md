@@ -11,8 +11,8 @@ Herzlich Willkommen bei der Schachjugend Dresden-Striesen!
 
 ### Themen am Freitag, 30.10.2026
 
-- Einsteiger: Eröffnungsbasics (goldene Eröffnungsregeln)
-- Fortgeschrittene: Nachtrag zu halboffenen Eröffnungen
+- Einsteiger: geschlossene Eröffnungen (1.e4 c6 und 1.e4 e6)
+- Fortgeschrittene: Turmendspiele (eine komplexe Stellung einfach denken)
 
 > Falls ihr individuelle Fragen habt (Welche Eröffnungen, Wie trainier' ich zu Hause?, Was macht man gegen London?, ...), dann könnt ihr jederzeit die **Trainer** anschreiben!
 
